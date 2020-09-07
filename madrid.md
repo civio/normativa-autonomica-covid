@@ -120,15 +120,19 @@ En función de la evolución epidemiológica los titulares de la Consejería de 
 
 9. Las personas consideradas caso confirmado con infección activa y las consideradas como contacto estrecho de un caso sospechoso, probable o confirmado, deberán seguir la indicación de aislamiento o cuarentena que les sea señalada desde los dispositivos asistenciales o de salud pública, sin poder abandonar su domicilio, el lugar de aislamiento o cuarentena en ningún caso, salvo autorización expresa del servicio sanitario por causa debidamente justificada.
 
-10. Sin perjuicio de las excepciones que para determinadas actividades se recogen en esta Orden, la participación en cualquier agrupación de personas de carácter privado o no regulado en la vía pública o en espacios públicos, se limita a un número máximo de diez personas, salvo que se trate de personas convivientes.
+10. La participación en agrupaciones de personas para el desarrollo de cualquier actividad o evento de carácter familiar o social, tanto en la vía pública como en espacios públicos y privados, se limita a un número máximo de diez personas salvo que se trate de convivientes.
 
-11. Se recomienda a la población reducir los encuentros sociales fuera del grupo de convivencia estable. También se recomienda, como medida de precaución, que toda clase de agrupaciones o reuniones de personas no convivientes que se desarrollen en espacios privados se limite a un máximo de diez personas, aun cuando pueda garantizarse la distancia de seguridad.
+  No estarán incluidas en esta limitación aquellas actividades para las que se establezcan medidas específicas en la presente Orden, de tal manera que el número de participantes o asistentes a las mismas se regirá por las limitaciones de aforo o asistencia dispuestas específicamente para dicha actividad.
+
+  Tampoco será aplicable esta limitación en el caso de actividades laborales e institucionales.
+
+11. Se recomienda a la población reducir los encuentros sociales fuera del grupo de convivencia.
 
 12. No se podrá fumar en la vía pública o en espacios al aire libre, incluidas las terrazas de los establecimientos de hostelería, cuando no se pueda respetar la distancia mínima interpersonal de, al menos, 2 metros. Esta limitación será aplicable también para el uso de cualquier otro dispositivo de inhalación de tabaco, pipas de agua, cachimbas o asimilados.
 
 13. Se recomienda, como medida de precaución, no realizar un uso compartido de vasos, copas, platos y cubiertos.
 
-14. Los ciudadanos deberán colaborar activamente en el cumplimiento de las medidas previstas en esta Orden.
+14. Los ciudadanos deberán colaborar activamente en el cumplimiento de las medidas previstas en esta Orden. El incumplimiento de las medidas de prevención y control adoptadas por las autoridades sanitarias, la inobservancia de requerimientos específicos y los comportamientos que ocasionen riesgo sanitario, aunque sean de escasa entidad, podrán ser constitutivas de infracciones tipificadas en la normativa aplicable y ser objeto de las sanciones administrativas correspondientes, conforme a lo establecido en las leyes, previa incoación del correspondiente procedimiento sancionador.
 
 15. En caso de brote epidémico en un ámbito social o ante un aumento de la incidencia en un ámbito geográfico determinado, los ciudadanos afectados deberán colaborar activamente en la realización de los cribados con pruebas PCR que determine la autoridad sanitaria en función de la naturaleza y alcance del mismo”.
 
@@ -214,31 +218,39 @@ i) Lo previsto en este apartado se aplicará sin perjuicio de las especificidade
 
 7. En los eventos multitudinarios deberá realizarse una evaluación del riesgo por parte de la autoridad sanitaria conforme a lo previsto en el documento “Recomendaciones para eventos y actividades multitudinarias en el contexto de nueva normalidad por COVID-19 en España”, acordado en la Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. En función de esta evaluación, cada evento de estas características deberá contar con la autorización del órgano competente de la Comunidad Autónoma.
 
-A tal efecto, los organizadores de estos eventos deberán elaborar un Plan de actuación que incluya la adopción de medidas de prevención y control. La capacidad de adoptar dichas medidas será determinante para definir si es posible realizar o no el evento, o establecer una serie de condiciones para ello.
+  A tal efecto, los organizadores de estos eventos deberán elaborar un Plan de actuación que incluya la adopción de medidas de prevención y control. La capacidad de adoptar dichas medidas será determinante para definir si es posible realizar o no el evento, o establecer una serie de condiciones para ello.
 
-Tendrán la consideración de eventos multitudinarios aquellos en los que la previsión máxima de participación de asistentes sea igual o superior a 600 personas.
+  Tendrán la consideración de eventos multitudinarios aquellos en los que la previsión máxima de participación de asistentes sea igual o superior a 600 personas.
 
-No tendrán dicha consideración aquellos actos culturales incluidos en la programación ordinaria habitual de los locales y establecimientos culturales y artísticos como teatros, cines, auditorios de música, centros culturales, salas de conciertos, salas de exposiciones, salas de conferencias y otros espacios de naturaleza análoga cuya actividad ordinaria sea cultural y que cuenten con protocolos suficientes para el desarrollo de su actividad. Estos actos deberán tener una naturaleza acorde con la de los actos ordinarios programados en el espacio cultural en cuestión.
+  No tendrán dicha consideración aquellos actos culturales incluidos en la programación ordinaria habitual de los locales y establecimientos culturales y artísticos como teatros, cines, auditorios de música, centros culturales, salas de conciertos, salas de exposiciones, salas de conferencias y otros espacios de naturaleza análoga cuya actividad ordinaria sea cultural y que cuenten con protocolos suficientes para el desarrollo de su actividad. Estos actos deberán tener una naturaleza acorde con la de los actos ordinarios programados en el espacio cultural en cuestión.
 
-Las salas y espacios multiusos polivalentes con programación ordinaria habitual, tendrán que elaborar y presentar un Plan de actuación que incluya la adopción de medidas de prevención y control, aplicable a toda su programación.
+  Las salas y espacios multiusos polivalentes con programación ordinaria habitual, tendrán que elaborar y presentar un Plan de actuación que incluya la adopción de medidas de prevención y control, aplicable a toda su programación.
+
+8. Se suspende provisionalmente la concesión de nuevas autorizaciones para la celebración de los siguientes espectáculos y actividades:
+
+  a) Los espectáculos en que se utilicen animales que requieren autorización expresa de la Comunidad de Madrid en virtud de lo dispuesto en el artículo 19.a) de la Ley 17/1997, de 4 de julio, de Espectáculos y Actividades Recreativas.
+
+  b) Los espectáculos y actividades recreativas de carácter extraordinario, entendiéndose por tales aquellos que sean distintos de los que se realizan habitualmente en los locales o establecimientos y que no figuren expresamente autorizados en la correspondiente licencia, que requieren autorización expresa de la Comunidad de Madrid, de conformidad con lo dispuesto en el artículo 19.d) de la Ley 17/1997, de 4 de julio, de Espectáculos y Actividades Recreativas.
+
+  c) Los espectáculos y actividades recreativas que se realicen en un municipio con motivo de la celebración de fiestas y verbenas populares, que requieren autorización del Ayuntamiento correspondiente, de acuerdo con lo dispuesto en el artículo 20.b) de la Ley 17/1997, de 4 de julio, de Espectáculos y Actividades Recreativas.
 
 ## III. Actividades de carácter social
 
 ### Decimotercero. Medidas y condiciones para el desarrollo de velatorios y entierros
 
-1. Las instalaciones funerarias en todas las áreas de acceso público no podrán superar el setenta y cinco por ciento de su aforo. En todas las áreas, tanto cerradas como al aire libre, de acceso público serán de obligado cumplimiento las medidas de seguridad e higiene establecidas para la prevención del COVID-19.
+1. Las instalaciones funerarias en todas las áreas de acceso público no podrán superar el sesenta por ciento de su aforo. El aforo máximo de la instalación deberá publicarse en lugar visible y en todas las áreas de acceso público, tanto cerradas como al aire libre, serán de obligado cumplimiento las medidas de seguridad e higiene establecidas para la prevención del COVID-19.
 
 2. Los velatorios podrán realizarse en todo tipo de instalaciones, públicas o privadas, debidamente habilitadas con un límite máximo, en cada momento, de cincuenta personas en espacios al aire libre o de veinticinco personas en espacios cerrados, sean o no convivientes.
 
 3. La participación en la comitiva para el enterramiento o despedida para cremación de la persona fallecida se restringe a un máximo de cincuenta personas, entre familiares y allegados, además de, en su caso, el ministro de culto o persona asimilada de la confesión respectiva para la práctica de los ritos funerarios de despedida del difunto.
 
-4. Deberán establecerse las medidas necesarias para procurar mantener la distancia de seguridad interpersonal en las instalaciones o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
+4. Deberán establecerse las medidas necesarias para procurar mantener la distancia de seguridad interpersonal en las instalaciones, siendo obligatoria la utilización de mascarilla salvo en los casos expresamente exceptuados en la presente Orden.
 
 5. Además del cumplimiento general de las medidas de higiene y prevención establecidas, en el caso de que en el local se preste algún tipo de servicio de hostelería y restauración, la prestación de este se ajustará a lo previsto en las condiciones para la prestación del servicio en los establecimientos de hostelería y restauración.
 
 ### Decimocuarto. Medidas y condiciones para el desarrollo de actividad en lugares de culto
 
-1. La asistencia a lugares de culto no podrá superar el setenta y cinco por ciento de su aforo. El aforo máximo deberá publicarse en lugar visible del espacio destinado al culto y se deberán cumplir las medidas generales de seguridad e higiene establecidas por las autoridades sanitarias.
+1. La asistencia a lugares de culto no podrá superar el sesenta por ciento de su aforo. El aforo máximo deberá publicarse en lugar visible del espacio destinado al culto y se deberán cumplir las medidas generales de seguridad e higiene establecidas por las autoridades sanitarias, siendo obligatorio el uso de mascarilla salvo en los casos expresamente exceptuados en la presente Orden.
 
 2. La utilización del exterior de los edificios o de la vía pública para la celebración de actos de culto deberá ser aprobada por la autoridad municipal correspondiente, y deberán establecerse las medidas necesarias para procurar mantener la distancia de seguridad interpersonal o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
 
@@ -266,13 +278,13 @@ Las salas y espacios multiusos polivalentes con programación ordinaria habitual
 
 ### Decimoquinto. Medidas y condiciones para la celebración de ceremonias nupciales y otras celebraciones religiosas o civiles
 
-1. Las ceremonias nupciales y otras celebraciones religiosas o civiles podrán realizarse en todo tipo de instalaciones, públicas o privadas, ya sea en espacios al aire libre o espacios cerrados, siempre que no se supere el setenta y cinco por ciento de su aforo. En caso de que no se pueda mantener la distancia mínima de seguridad interpersonal entre los asistentes de, al menos, 1,5 metros, deberá procurarse la máxima separación y la utilización de medidas alternativas de protección física con uso de mascarilla.
+1. Las ceremonias nupciales y otras celebraciones religiosas o civiles podrán realizarse en todo tipo de instalaciones, públicas o privadas, ya sea en espacios al aire libre o espacios cerrados, siempre que no se supere el sesenta por ciento de su aforo. En caso de que no se pueda mantener la distancia mínima de seguridad interpersonal entre los asistentes de, al menos, 1,5 metros deberá procurarse la máxima separación posible, siendo obligatorio el uso de mascarilla salvo en los casos expresamente exceptuados en la presente Orden.
 
-  A las ceremonias nupciales y celebraciones religiosas que se lleven a cabo en lugares de culto, les será de aplicación la limitación de aforo y las medidas para el desarrollo de actividad en lugares de culto recogidas específicamente en esta Orden.
+  A las ceremonias nupciales y celebraciones religiosas que se lleven a cabo en lugares de culto les será de aplicación la limitación de aforo y las medidas para el desarrollo de actividad en lugares de culto recogidas específicamente en esta Orden.
 
-2. Las celebraciones que pudiesen tener lugar tras la ceremonia en establecimientos de hostelería y restauración se ajustarán a las condiciones y aforo previsto para dichos establecimientos en la presente Orden.
+2. Las celebraciones que pudiesen tener lugar tras la ceremonia en establecimientos de hostelería y restauración se ajustarán a las condiciones que para dichos establecimientos se establecen en la presente Orden, salvo el porcentaje de aforo, que se limitará al sesenta por ciento. En todo caso, en dichas celebraciones no se podrá realizar la actividad de baile y el consumo de bebida y comida se hará, exclusivamente, sentado en mesa.
 
-3. En los casos en que las celebraciones que impliquen servicio de hostelería y restauración se lleven a cabo en otro tipo de espacios o instalaciones no contemplados específicamente en esta Orden se deberán ajustar igualmente a las condiciones y limitaciones de aforo establecidas para los establecimientos de hostelería y restauración.
+3. En los casos en que las celebraciones que impliquen servicio de hostelería y restauración se lleven a cabo en otro tipo de espacios o instalaciones no contemplados específicamente en esta Orden se deberán ajustar igualmente a lo dispuesto en el punto anterior.
 
 ## IV. Establecimientos y locales comerciales minoristas y de prestación de servicios asimilados
 
@@ -400,19 +412,25 @@ h) El personal trabajador que realice el servicio en mesa y en barra deberá pro
 
 ### Vigesimosegundo. Medidas y condiciones para el desarrollo de actividad de hostelería y restauración en espacios interiores
 
-1. Los establecimientos de hostelería y restauración no podrán superar el 75 por 100 de su aforo para consumo en el interior del local.
+1. Los establecimientos de hostelería y restauración no podrán superar el setenta y cinco por ciento de su aforo para consumo en el interior del local si es en mesa y el cincuenta por ciento si es en barra.
 
-  El consumo dentro del local podrá realizarse en barra o sentado en mesa, o agrupaciones de mesas, debiendo asegurarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes situados en la barra o entre las mesas o, en su caso, agrupaciones de mesas. La ocupación máxima por mesa o agrupación de mesas será de diez personas.
+  Durante el consumo en barra deberá asegurarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes situados en la barra.
 
-2. Estos establecimientos deberán cesar su actividad, como máximo, a la 1:00 horas, no pudiendo en ningún caso admitir nuevos clientes a partir de las 00:00 horas, rigiendo el horario de cierre que tuvieran autorizado por los órganos competentes si este fuera anterior a dicha hora.
+  Las mesas o agrupaciones de mesas, deberán guardar una distancia de, al menos, 1,5 metros respecto a las sillas asignadas a las demás mesas o agrupaciones de mesas con el objeto de asegurar el mantenimiento de la debida distancia física de, al menos, 1,5 metros entre las personas sentadas en diferentes mesas o, en su caso, agrupaciones de mesas.
 
-3. Los salones de banquetes, además de cumplir las anteriores condiciones y limitaciones, deberán de solicitar los datos identificativos de los asistentes a un evento, incluyendo un teléfono de contacto, y conservar dicha información por si fuera requerida por la autoridad sanitaria en la investigación de un brote epidémico para facilitar su localización en los casos de descubrimiento posterior de presencia de casos positivos, probables o posibles de COVID-19.
+  La ocupación máxima por mesa o agrupación de mesas será de diez personas.
+
+2. Estos establecimientos deberán cesar su actividad, como máximo, a la 01:00 horas, no pudiendo en ningún caso admitir nuevos clientes a partir de las 00:00 horas, rigiendo el horario de cierre que tuvieran autorizado por los órganos competentes si este fuera anterior a dicha hora.
+
+3. Los salones de banquetes deberán cumplir con las condiciones dispuestas en los puntos anteriores del presente apartado a excepción del porcentaje de aforo, que no podrá superar el sesenta por ciento. Además, deberán solicitar los datos identificativos de los asistentes a un evento, incluyendo un teléfono de contacto, y conservar dicha información por si fuera requerida por la autoridad sanitaria en la investigación de un brote epidémico para facilitar su localización en los casos de descubrimiento posterior de presencia de casos positivos, probables o posibles de COVID-19.
 
   La recogida de tales datos requerirá el consentimiento del interesado y se deberán conservar durante el plazo de veintiocho días naturales con las debidas garantías y observando las exigencias derivadas de la normativa en materia de protección de datos de carácter personal y estarán a disposición, exclusivamente, de las autoridades sanitarias y con la única finalidad de realizar el seguimiento de posibles contactos de casos positivos, probables o posibles de COVID-19.
 
 ### Vigesimotercero. Medidas y condiciones para el desarrollo de actividad de hostelería y restauración en terrazas al aire libre
 
-1. El porcentaje de aforo permitido en las terrazas al aire libre de los establecimientos de hostelería y restauración será del 100 por 100 de las mesas permitidas en el año inmediatamente anterior en base a la correspondiente licencia municipal o de lo que sea autorizado para este año, si bien deberá garantizarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes y entre las mesas o, en su caso, agrupaciones de mesas.
+1. El porcentaje de aforo permitido en las terrazas al aire libre de los establecimientos de hostelería y restauración será del cien por cien de las mesas permitidas en el año inmediatamente anterior en base a la correspondiente licencia municipal o de lo que sea autorizado para este año, si bien deberá garantizarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes.
+
+  Las mesas o agrupaciones de mesas deberán guardar una distancia de, al menos, 1,5 metros respecto a las sillas asignadas a las demás mesas o agrupaciones de mesas, con el objeto de asegurar el mantenimiento de la debida distancia física de, al menos, 1,5 metros entre las personas sentadas en diferentes mesas o, en su caso, agrupaciones de mesas.
 
   La ocupación máxima por mesa o agrupación de mesas será de diez personas y deberán cesar su actividad, como máximo, a la 1:00 horas, no pudiendo en ningún caso admitir nuevos clientes a partir de las 00:00 horas, rigiendo el horario de cierre que tuvieran autorizado por los órganos competentes si este fuera anterior a dicha hora.
 
@@ -602,7 +620,7 @@ Los establecimientos o locales mencionados en el apartado anterior que tengan au
 
   Deberán establecerse las medidas necesarias para mantener la distancia de seguridad interpersonal en sus instalaciones de, al menos, 1,5 metros o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
 
-2. Las visitas de grupos serán de un máximo de hasta veinticinco personas, incluido el monitor o guía, siempre que no superen los aforos previstos en el apartado anterior, debiendo establecerse las medidas necesarias para procurar la distancia de seguridad interpersonal durante el desarrollo de la actividad o, en su defecto, medidas alternativas de protección física con uso de mascarilla.
+2. Las visitas de grupos serán de un máximo de diez personas, incluido el monitor o guía, siempre que no superen los aforos previstos en el apartado anterior, debiendo establecerse las medidas necesarias para procurar la distancia de seguridad interpersonal durante el desarrollo de la actividad y siendo obligatoria la utilización de mascarilla salvo en los casos excepcionados por la presente Orden.
 
 3. El personal de atención al público del museo o sala informará a los visitantes sobre las medidas de higiene y prevención frente al COVID-19 que deben observarse durante la visita y velarán por su cumplimiento.
 
@@ -618,7 +636,7 @@ Los establecimientos o locales mencionados en el apartado anterior que tengan au
 
   Deberán establecerse las medidas necesarias para mantener la distancia de seguridad interpersonal en sus instalaciones o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
 
-2. Las visitas de grupos serán de un máximo de hasta veinticinco personas, incluido el monitor o guía, siempre que no superen los aforos previstos en el apartado anterior, debiendo establecerse las medidas necesarias para procurar la distancia de seguridad interpersonal durante el desarrollo de la actividad o, en su defecto, medidas alternativas de protección física con uso de mascarilla.
+2. Las visitas de grupos serán de un máximo de diez personas, incluido el monitor o guía, siempre que no superen los aforos previstos en el apartado anterior, debiendo establecerse las medidas necesarias para procurar la distancia de seguridad interpersonal durante el desarrollo de la actividad y siendo obligatoria la utilización de mascarilla salvo en los casos excepcionados por la presente Orden.
 
 3. En la medida de lo posible, se establecerán recorridos obligatorios para separar circulaciones u organizar horarios de visitas para evitar aglomeraciones de visitantes y evitar interferencias entre distintos grupos o visitas. Se permitirá el uso de audioguías siempre y cuando se desinfecten tras cada uso por el proveedor del servicio, según lo establecido en el artículo undécimo de esta Orden. Las zonas donde se desarrollen trabajos de mantenimiento serán acotadas para evitar interferencias con las actividades de visita.
 
@@ -632,11 +650,9 @@ Los establecimientos o locales mencionados en el apartado anterior que tengan au
 
   Deberá garantizarse que, en todo momento, se cumpla el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
 
-2. Desde la entrada en vigor de esta Orden y hasta el 5 de julio de 2020 las salas y espacios multiusos polivalentes, con otros usos además del cultural, podrán desarrollar su actividad contando con butacas preasignadas siempre que no superen el veinte por ciento del aforo permitido.
+2. Las salas y espacios multiusos polivalentes con otros usos además del cultural podrán desarrollar su actividad contando con butacas preasignadas, siempre que no superen el cuarenta por ciento del aforo permitido.
 
-  Desde el 6 de julio de 2020 y hasta que la evolución epidemiológica lo aconseje el porcentaje de ocupación permitido se elevará al cincuenta por ciento.
-
-  Deberá garantizarse que, en todo momento, se cumpla el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
+Deberá garantizarse que, en todo momento, se cumpla el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros, así como la utilización de mascarilla salvo en los supuestos excepcionados por la presente Orden.
 
 3. Desde la entrada en vigor de esta Orden y hasta el 5 de julio de 2020 los recintos, locales y establecimientos destinados a espectáculos públicos incluidos los denominados tablaos flamencos y actividades recreativas distintos de los previstos en los puntos anteriores, podrán desarrollar su actividad siempre que el público permanezca sentado con butaca preasignada y que no se supere el sesenta por ciento del aforo permitido, con un límite máximo de ochenta personas para lugares cerrados y de ochocientas personas tratándose de actividades al aire libre.
 
@@ -948,11 +964,11 @@ En el supuesto de que las características o la superficie de aulas de la entida
 
 1. Las instalaciones y centros deportivos de titularidad pública o privada, podrán ofertar los servicios deportivos dirigidos al desarrollo de actividad deportiva propios de su tipología y capacidad.
 
-2. Se podrá realizar actividad físico-deportiva en centros deportivos e instalaciones deportivas de interior de forma individual o en grupos de hasta veinticinco personas siempre que no se supere el setenta y cinco por ciento del aforo máximo permitido.
+2. Se podrá realizar actividad físico-deportiva en centros e instalaciones deportivos de interior, de forma individual o en grupos, siempre que no se supere el setenta y cinco por ciento del aforo máximo permitido de la instalación o del espacio donde se desarrolle la actividad.
 
-  El uso de mascarilla es obligatorio en cualquier tipo de actividad física en interior salvo en los ejercicios de alta intensidad sin contacto físico, en donde se realice la actividad limitada por mamparas individuales o en donde haya una distancia de seguridad de, al menos, 3 metros respecto a otros usuarios.
+  En el caso de la práctica deportiva en grupos, estos deberán distribuirse en subgrupos dentro del espacio en que dicha práctica se realice. Estos subgrupos contarán con un máximo de 10 personas, todos ellos sin contacto físico, debiendo garantizarse una distancia de, al menos, 3 metros lineales entre cada subgrupo.
 
-  En todo momento deberá garantizarse el cumplimiento de la distancia de seguridad interpersonal de, al menos, 1,5 metros, salvo en los deportes de contacto y combate.
+  El uso de mascarilla será obligatorio en cualquier tipo de actividad física en interior salvo donde se realice la actividad limitada por mamparas individuales.
 
 3. Se podrá reanudar la actividad físico-deportiva de deportes de contacto y de combate en instalaciones de interior con uso obligatorio de mascarilla salvo en aquellos casos que se encuentre exceptuada su utilización conforme a lo dispuesto en el punto 4 del apartado séptimo de la presente orden.
 
@@ -1036,9 +1052,7 @@ Dicho protocolo será de obligada observancia para el conjunto de los estamentos
 
 ### Cuadragésimo noveno. Asistencia de público a instalaciones deportivas
 
-Sin perjuicio de las competencias atribuidas en el artículo 15.2 del Real Decreto-ley 21/2020, de 9 de junio, de medidas urgentes de prevención, contención y coordinación para hacer frente a la crisis sanitaria ocasionada por el COVID-19, y de lo establecido en el apartado, en el caso de los entrenamientos, competiciones o eventos que se celebren en instalaciones deportivas desde la entrada en vigor de la presente Orden hasta el 5 de julio de 2020, podrán desarrollarse con público siempre que este permanezca sentado, con una distancia de seguridad de, al menos, 1,5 metros y que no se supere el setenta y cinco por ciento del aforo permitido.
-
-A partir de la fecha indicada en el párrafo anterior no existirá límite en cuanto al aforo si bien el público deberá permanecer sentado y se limitará la afluencia de espectadores, de ser necesario, para garantizar en todo momento el cumplimiento de la distancia de seguridad interpersonal de, al menos, 1,5 metros, con un límite máximo de asistencia de trescientas personas para lugares cerrados y de mil personas tratándose de actividades al aire libre.
+Sin perjuicio de las competencias atribuidas en el artículo 15.2 del Real Decreto-ley 21/2020, de 9 de junio, de medidas urgentes de prevención, contención y coordinación para hacer frente a la crisis sanitaria ocasionada por el COVID-19, y de lo establecido en el apartado anterior, en el caso de los entrenamientos, competiciones o eventos que se celebren en instalaciones deportivas, podrán desarrollarse con público siempre que este permanezca sentado, con una distancia de seguridad de, al menos, 1,5 metros, provisto de mascarilla y con un límite máximo de asistencia de trescientas personas para lugares cerrados e inferior a seiscientas personas tratándose de actividades al aire libre.
 
 ### Quincuagésimo. Medidas de higiene y prevención en piscinas de uso colectivo deportivo
 
@@ -1122,11 +1136,9 @@ Todo ello sin perjuicio de la demás normativa que sea de aplicación.
 
 ### Quincuagésimo quinto. Medidas y condiciones para el desarrollo de actividad en centros recreativos turísticos, zoológicos y acuarios
 
-1. Podrá procederse a la reapertura al público de los centros recreativos turísticos, zoológicos y acuarios, siempre que se limite el aforo y el uso de las atracciones al sesenta por ciento.
+1. En los centros recreativos turísticos, zoológicos y acuarios, se limitará el aforo y el uso de las atracciones al sesenta por ciento.
 
-  A partir del 6 de julio de 2020 dicho límite se incrementará hasta el setenta y cinco por ciento.
-
-2. Se debe garantizar en todo momento el cumplimiento de la distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes, especialmente en las zonas de cola, embarque y desembarque a las atracciones, con marcas en el suelo, o mediante el uso de balizas, cartelería y señalización. En los espacios interiores también se deberá respetar dicha distancia de seguridad, no debiendo realizarse la reapertura de aquellas secciones interiores y actividades donde no sea posible mantenerla.
+2. Se debe garantizar en todo momento el cumplimiento de la distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes, especialmente en las zonas de cola, embarque y desembarque a las atracciones, con marcas en el suelo, o mediante el uso de balizas, cartelería y señalización, y el uso obligatorio de la mascarilla. En los espacios interiores también se deberá respetar dicha distancia de seguridad, no debiendo realizarse la reapertura de aquellas secciones interiores y actividades donde no sea posible mantenerla.
 
 3. Los centros recreativos turísticos, zoológicos y acuarios que abran al público realizarán, al menos dos veces al día, una limpieza y desinfección de las instalaciones con especial atención a las superficies de contacto más frecuentes como atracciones, máquinas de entretenimiento, pomos de puertas, mostradores, pasamanos, máquinas dispensadoras, suelos, teléfonos, grifos, y otros elementos de similares características. Asimismo, se realizará una limpieza y desinfección de los puestos de trabajo en cada cambio de turno, con especial atención a atracciones, mostradores y mesas, mamparas en su caso, teclados, terminales de pago, pantallas táctiles, herramientas de trabajo y otros elementos susceptibles de manipulación, prestando especial atención a aquellos utilizados por más de un trabajador. Después de cada uso deberán desinfectarse los elementos utilizados por las personas usuarias con cualquiera de los productos recomendados por el Ministerio de Sanidad.
 
@@ -1149,6 +1161,22 @@ Todo ello sin perjuicio de la demás normativa que sea de aplicación.
 12. En las atracciones en las que los elementos dispongan de filas de asientos, podrá ocuparse el cincuenta por ciento de cada fila, siempre que se guarde la distancia mínima de seguridad de 1,5 metros. Cuando todas las personas usuarias residan en el mismo domicilio, podrán ser utilizados todos los asientos del elemento.
 
   En el caso de atracciones que no tengan asientos incorporados, se podrán utilizar siempre que se mantenga el aforo máximo del cincuenta por ciento de la capacidad de la instalación, y si, por la dinámica de la atracción, no se puede mantener la distancia mínima de seguridad entre personas usuarias, se reducirá el aforo hasta el treinta por ciento, debiendo procurarse, en todo caso, la máxima separación entre las personas usuarias, el uso de mascarilla higiénica y la desinfección de manos antes del uso del elemento.
+
+  Después de cada uso deberán desinfectarse los elementos utilizados por las personas usuarias con cualquiera de los productos recomendados por el Ministerio de Sanidad.
+
+13. Los espacios en los que se autoricen atracciones de feria ambulante deberán estar acotados y limitados a un aforo máximo del sesenta por ciento, debiendo contar con puntos diferenciados para la entrada y la salida, que deberán estar identificados con claridad.
+
+  Se establecerán controles de aforo y se adoptarán las medidas necesarias para mantener la distancia de seguridad interpersonal y evitar aglomeraciones.
+
+  Tanto los usuarios como el personal de las atracciones ambulantes deberán portar mascarilla de manera obligatoria y se recordará a los usuarios, por medio de cartelería visible, dicha obligatoriedad así como las normas de higiene y prevención a observar.
+
+  Se dispondrán dispensadores de gel hidroalcohólico o desinfectante con actividad virucida autorizados y registrados por el Ministerio de Sanidad, en todo caso, en la entrada de cada atracción para su utilización por los usuarios, que deberán estar siempre en condiciones de uso.
+
+  La ocupación de las atracciones se limitará al sesenta por ciento.
+
+  Además, en el caso de las atracciones que dispongan de filas de asientos, podrá ocuparse como máximo el cincuenta por ciento de cada fila, siempre que se guarde la distancia mínima de seguridad de 1,5 metros. Cuando todas las personas usuarias residan en el mismo domicilio, podrán ser utilizados todos los asientos del elemento.
+
+  En el caso de atracciones que no tengan asientos incorporados, se podrán utilizar siempre que se mantenga el aforo máximo del cincuenta por ciento de la capacidad de la instalación y si, por la dinámica de la atracción, no se puede mantener la distancia mínima de seguridad entre personas usuarias, se reducirá el aforo hasta el treinta por ciento, debiendo procurarse en todo caso la máxima separación entre los usuarios, el uso de mascarilla higiénica y la desinfección de manos antes del uso del elemento.
 
   Después de cada uso deberán desinfectarse los elementos utilizados por las personas usuarias con cualquiera de los productos recomendados por el Ministerio de Sanidad.
 
@@ -1188,7 +1216,7 @@ Todo ello sin perjuicio de la demás normativa que sea de aplicación.
 
 3. La administración ambiental, en la autorización de la actividad, podrá adoptar medidas adicionales para asegurar que se garantice la seguridad de los usuarios.
 
-4. Podrá realizarse la actividad de guía turístico, para grupos de hasta un máximo de veinticinco personas, debiendo establecerse las medidas necesarias para procurar la distancia de seguridad interpersonal durante el desarrollo de la actividad o, en su defecto, medidas alternativas de protección física con uso de mascarilla.
+4. Podrá realizarse la actividad de guía turístico para grupos de hasta un máximo de diez personas, debiendo establecerse las medidas necesarias para procurar la distancia de seguridad interpersonal y siendo obligatorio la utilización de mascarilla durante el desarrollo de la actividad.
 
 5. En cualquier caso, deberán respetarse las condiciones en que deba desarrollarse la actividad de visita a monumentos y otros equipamientos culturales y se procurará evitar el tránsito por zonas o lugares susceptibles de generar aglomeraciones.
 
@@ -1254,7 +1282,7 @@ Todo ello sin perjuicio de la demás normativa que sea de aplicación.
 
   a) Se pondrán a disposición de los clientes dispensadores de geles hidroalcohólicos o desinfectantes con actividad virucida autorizados y registrados por el Ministerio de Sanidad, en todo caso en la entrada del establecimiento o local y en cada mesa de juego, que deberán estar siempre en condiciones de uso.
 
-  b) Uso obligatorio de mascarillas siempre que no resulte posible garantizar el mantenimiento de una distancia de seguridad interpersonal de, al menos, 1,5 metros. Sin perjuicio de lo anterior, en los Casinos el uso de la mascarilla será obligatorio, en todo caso, hasta el 10 de julio de 2020.
+  b) Uso obligatorio de mascarillas y el mantenimiento de una distancia de seguridad interpersonal de, al menos, 1,5 metros.
 
   c) Se realizarán tareas de ventilación periódica en las instalaciones, como mínimo dos veces al día.
 
@@ -1276,9 +1304,7 @@ Todo ello sin perjuicio de la demás normativa que sea de aplicación.
 
   l) La circulación de personas y la distribución de espacios deberá modificarse, cuando sea necesario, con el objetivo de garantizar la posibilidad de mantener la distancia de seguridad interpersonal de, al menos, 1,5 metros.
 
-2. Desde la entrada en vigor de esta Orden y hasta el 5 de julio de 2020 los casinos, establecimientos de juegos colectivos de dinero y de azar, salones de juego, salas de bingo, salones recreativos, rifas y tómbolas, locales específicos de apuestas y otros locales e instalaciones asimilables a los de actividad recreativa de juegos y apuestas, conforme establezca la normativa sectorial en materia de juego, podrán realizar su actividad siempre que no se supere el sesenta por ciento del aforo permitido.
-
-  Desde el 6 de julio dicho porcentaje se incrementará hasta el setenta y cinco por ciento.
+2. Los casinos, establecimientos de juegos colectivos de dinero y de azar, salones de juego, salas de bingo, salones recreativos, rifas y tómbolas, locales específicos de apuestas y otros locales e instalaciones asimilables a los de actividad recreativa de juegos y apuestas, conforme establezca la normativa sectorial en materia de juego, podrán realizar su actividad siempre que no se supere el sesenta por ciento del aforo permitido.
 
 3. Los casinos no procederán a la reapertura de la actividad de mesas de juego hasta el 6 de julio de 2020.
 
@@ -1316,7 +1342,7 @@ Todo ello sin perjuicio de la demás normativa que sea de aplicación.
 
 5. Estarán obligados a colaborar con las autoridades sanitarias y de política social en los cometidos de vigilancia, prevención y control del COVID-19.
 
-6. Hasta que el Gobierno de España declare la finalización de la situación de crisis sanitaria causada por el COVID-19, las autoridades sanitarias de la Comunidad de Madrid podrán habilitar espacios para uso sanitario en locales públicos o privados que reúnan las condiciones necesarias para prestar atención sanitaria, ya sea en régimen de consulta o de hospitalización.
+6. Hasta que el Gobierno de España declare la finalización de la situación de crisis sanitaria causada por el COVID-19, y en caso de que la evolución epidemiológica así lo requiera, las autoridades sanitarias de la Comunidad de Madrid podrán habilitar espacios para uso sanitario en locales públicos o privados que reúnan las condiciones necesarias para prestar atención sanitaria, ya sea en régimen de consulta u hospitalización, así como para cumplir las medidas de aislamiento indicadas por ser contacto estrecho de casos positivos o sospechosos.
 
 7. Asimismo, en caso de que como consecuencia de la evolución de la emergencia sanitaria no se pudiera atender adecuadamente la asistencia sanitaria de la población con los medios materiales y humanos adscritos a la Comunidad de Madrid, las autoridades sanitarias autonómicas podrán acordar la puesta a su disposición de los centros y establecimientos sanitarios privados, su personal, y las Mutuas de accidentes de trabajo.
 
