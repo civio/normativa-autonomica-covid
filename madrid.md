@@ -66,7 +66,9 @@ En función de la evolución epidemiológica los titulares de la Consejería de 
 
 ### Sexto. Control del cumplimiento de las medidas y régimen sancionador
 
-Los servicios de inspección municipales y autonómicos, en sus respectivos ámbitos competenciales según el sector de actividad de que se trate, serán los encargados de vigilar el cumplimiento de las medidas recogidas en esta Orden, correspondiendo la instrucción y resolución de los procedimientos sancionadores que procedan a las autoridades municipales o autonómicas competentes de acuerdo con el ámbito sectorial de que se trate.
+1. Los servicios de inspección municipales y autonómicos, en sus respectivos ámbitos competenciales según el sector de actividad de que se trate, serán los encargados de vigilar el cumplimiento de las medidas recogidas en esta Orden.
+
+2. La incoación, instrucción y resolución de los expedientes sancionadores corresponderá a la autoridad municipal o autonómica competente por razón de la actividad, establecimiento, local, instalación, recinto, espacio de uso público o vía pública en los que se cometa la infracción.
 
 ## II. Medidas higiénicas generales
 
@@ -205,9 +207,9 @@ i) Lo previsto en este apartado se aplicará sin perjuicio de las especificidade
 
   c) Se organizarán las entradas y salidas para evitar aglomeraciones de personas en los accesos e inmediaciones de los lugares de culto.
 
-  d) Se pondrá a disposición del público dispensadores de geles hidroalcohólicos o desinfectantes con actividad viricida debidamente autorizados y registrados en lugares accesibles y visibles, y, en todo caso, en la entrada del lugar de culto, que deberán estar siempre en condiciones de uso.
+  d) Se pondrá a disposición del público dispensadores de geles hidroalcohólicos o desinfectantes con actividad virucida debidamente autorizados y registrados en lugares accesibles y visibles y, en todo caso, en la entrada del lugar de culto, que deberán estar siempre en condiciones de uso.
 
-  e) No se permitirá el uso de agua bendecida y las abluciones rituales deberán realizarse en casa.
+  e) No se permitirá el uso de agua bendecida y las abluciones rituales deberán realizarse en el domicilio.
 
   f) Se facilitará en el interior de los lugares de culto la distribución de los asistentes señalizando, si fuese necesario, los asientos o zonas utilizables en función del aforo permitido en cada momento.
 
@@ -217,13 +219,17 @@ i) Lo previsto en este apartado se aplicará sin perjuicio de las especificidade
 
   i) Durante el desarrollo de las reuniones o celebraciones se evitará el contacto personal, tocar o besar objetos de devoción u otros objetos que habitualmente se manejen.
 
-  j) No estará permitida la actuación de coros durante las celebraciones.
+  j) En el caso de actuaciones de coros durante las celebraciones, estos deberán situarse a más de 4 metros de los asistentes y mantener distancias interpersonales entre los integrantes.
 
 ### Decimoquinto. Medidas y condiciones para la celebración de ceremonias nupciales y otras celebraciones religiosas o civiles
 
-1. Las ceremonias nupciales y otras celebraciones religiosas o civiles podrán realizarse en todo tipo de instalaciones, públicas o privadas, ya sea en espacios al aire libre o espacios cerrados, siempre que no se supere el setenta y cinco por ciento de su aforo, y en todo caso podrán asistir un máximo de ciento cincuenta personas en espacios al aire libre o de setenta y cinco personas en espacios cerrados.
+1. Las ceremonias nupciales y otras celebraciones religiosas o civiles podrán realizarse en todo tipo de instalaciones, públicas o privadas, ya sea en espacios al aire libre o espacios cerrados, siempre que no se supere el setenta y cinco por ciento de su aforo. En caso de que no se pueda mantener la distancia mínima de seguridad interpersonal entre los asistentes de, al menos, 1,5 metros, deberá procurarse la máxima separación y la utilización de medidas alternativas de protección física con uso de mascarilla.
 
-2. En el caso de que la ceremonia, o su celebración posterior que implique algún tipo de servicio de hostelería y restauración, se ajustarán a lo previsto en la presente Orden para los establecimientos de hostelería y restauración y al límite máximo de asistencia señalado en el párrafo anterior.
+  A las ceremonias nupciales y celebraciones religiosas que se lleven a cabo en lugares de culto, les será de aplicación la limitación de aforo y las medidas para el desarrollo de actividad en lugares de culto recogidas específicamente en esta Orden.
+
+2. Las celebraciones que pudiesen tener lugar tras la ceremonia en establecimientos de hostelería y restauración se ajustarán a las condiciones y aforo previsto para dichos establecimientos en la presente Orden.
+
+3. En los casos en que las celebraciones que impliquen servicio de hostelería y restauración se lleven a cabo en otro tipo de espacios o instalaciones no contemplados específicamente en esta Orden se deberán ajustar igualmente a las condiciones y limitaciones de aforo establecidas para los establecimientos de hostelería y restauración.
 
 ## IV. Establecimientos y locales comerciales minoristas y de prestación de servicios asimilados
 
@@ -375,13 +381,21 @@ En todo momento se deberá aegurar el mantenimiento de la debida distancia de se
 
 ### Vigesimocuarto. Medidas y condiciones para el desarrollo de actividad de discotecas y bares de ocio nocturno.
 
-1. Las discotecas y bares de ocio nocturno podrán reanudar su actividad a partir del 6 de julio de 2020 en las condiciones que determine la autoridad sanitaria en función de la evolución epidemiológica.
+1. Desde el 3 de julio de 2020 podrá procederse a la reapertura al público de locales de discotecas y establecimientos de ocio nocturno observando las medidas de higiene exigidas con carácter general para los establecimientos de hostelería y restauración y las medidas y condiciones recogidas en el presente apartado.
 
-2. Desde la entrada en vigor de esta Orden y hasta el 5 de julio de 2020 las terrazas al aire libre de estos establecimientos podrán abrir limitando su aforo al ochenta por ciento de las mesas permitidas en el año inmediatamente anterior en base a la correspondiente licencia municipal o de las autorizadas para este año, en el caso que la licencia sea concedida por primera vez.
+2. El consumo dentro del local podrá realizarse en barra y en mesa o agrupaciones de mesas, debiendo asegurarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes y entre las mesas o, en su caso, agrupación de mesas.
+
+3. El espacio destinado a pista de baile o similar no podrá ser utilizado para su uso habitual si bien podrá ser habilitado para instalar mesas o agrupaciones de mesas siempre respetando el mantenimiento de la debida distancia de seguridad interpersonal entre clientes o, en su caso, grupos de clientes y entre las mesas o, en su caso, agrupación de mesas.
+
+4. Las discotecas y salas de baile limitarán su aforo al cuarenta por ciento del establecido en función del cálculo fijado para ello por el Código Técnico de la Edificación-Documento Básico SI3.
+
+  Los locales del epígrafe III 1.1 (café-espectáculo), III 1.4. (salas de fiestas) y III 1.5 (restaurantes-espectáculo) y los establecimientos del epígrafe V 9.1 (bares especiales) del Anexo I del Decreto 184/1998, de 22 de octubre, del Catálogo de Espectáculos Públicos, Actividades Recreativas, Establecimientos, Locales e Instalaciones, ajustarán su actividad a las limitaciones de aforo establecidas en el apartado vigesimosegundo de esta Orden para la prestación del servicio en los establecimientos de hostelería y restauración. En estos locales y establecimientos no estará permitida, en ningún caso, la actividad recreativa de baile.
+
+5. Desde la entrada en vigor de esta Orden, y hasta el 5 de julio de 2020, las terrazas al aire libre de los establecimientos a los que se refiere este apartado podrán abrir limitando su aforo al ochenta por ciento de las mesas permitidas en el año inmediatamente anterior en base a la correspondiente licencia municipal o de las autorizadas para este año, en el caso que la licencia sea concedida por primera vez.
 
   Desde el 6 de julio de 2020 dicho porcentaje se elevará al cien por cien.
 
-  En todo caso deberá garantizarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes y entre las mesas o, en su caso, agrupación de mesas.
+  En todo caso, en las terrazas de esta clase de establecimientos deberá garantizarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes y entre las mesas o, en su caso, agrupación de mesas.
 
 ### Vigesimoquinto. Medidas de flexibilización para la instalación de terrazas
 
@@ -977,7 +991,17 @@ Todo ello sin perjuicio de la demás normativa que sea de aplicación.
 
 ### Quincuagésimo cuarto. Medidas y condiciones para el desarrollo de actividad en parques recreativos infantiles
 
-Los parques recreativos infantiles no podrán reanudar su actividad hasta que la autoridad sanitaria lo permita según la evolución de la situación epidemiológica, quedando entretanto suspendida su actividad.
+1. Desde el 3 de julio de 2020 podrá procederse a la reapertura al público de los establecimientos o recintos dedicados a ofrecer juegos y atracciones recreativas variadas diseñados específicamente para público de edad infantil, espacios de juego y entretenimiento, así como la celebración de fiestas infantiles, limitando su aforo al cuarenta por ciento del permitido.
+
+2. Deberá procurarse, en todo caso, el mantenimiento de la distancia de seguridad interpersonal de, al menos, 1,5 metros, evitando aglomeraciones de personas en la entrada o salida del local, o dentro del mismo.
+
+3. Se reforzará la limpieza y desinfección de todos y cada uno de los elementos y espacios que entren en contacto con el público. Si no es posible garantizar su desinfección en las condiciones adecuadas, se deberán inhabilitar para su uso.
+
+4. Deberá procederse a la ventilación del local al inicio y final de cada sesión de su actividad.
+
+5. El consumo dentro del establecimiento podrá realizarse únicamente en mesa o en agrupaciones de mesas, debiendo asegurarse el mantenimiento de la debida distancia de seguridad interpersonal entre clientes o, en su caso, grupos de clientes y entre las mesas o, en su caso, agrupación de mesas.
+
+6. Además del cumplimiento general de las medidas de higiene y prevención establecidas, en el caso de que se preste algún tipo de servicio de hostelería y restauración, la prestación de este se ajustará a lo previsto en las condiciones para la prestación del servicio en los establecimientos de hostelería y restauración.
 
 ### Quincuagésimo quinto. Medidas y condiciones para el desarrollo de actividad en centros recreativos turísticos, zoológicos y acuarios
 
@@ -1013,13 +1037,11 @@ Los parques recreativos infantiles no podrán reanudar su actividad hasta que la
 
 ### Quincuagésimo sexto. Zonas infantiles y recreativas de uso público al aire libre
 
-1. Los parques infantiles, zonas recreativas, pistas de skate o espacios de uso público al aire libre similares podrán estar abiertos al público siempre que en los mismos se respete un aforo máximo estimado de una persona por cada cuatro metros cuadrados de espacio computable de superficie del recinto.
+1. Los parques infantiles, zonas recreativas, pistas de skate o espacios de uso público al aire libre similares podrán estar abiertos al público siempre que en los mismos se respete un aforo máximo estimado de una persona por cada 4 metros cuadrados de espacio computable de superficie del recinto.
 
-2. Deberán establecerse las medidas necesarias para mantener la distancia de seguridad interpersonal de 1,5 metros o, en su defecto, la utilización de medidas alternativas de protección física.
+2. Deberán establecerse las medidas necesarias para procurar mantener la distancia de seguridad interpersonal de 1,5 metros o, en su defecto, la utilización de medidas alternativas de protección física.
 
-3. Deberán aplicarse las medidas de higiene y prevención establecidas, especialmente en lo que se refiere a proceder diariamente a la limpieza y desinfección de estos espacios en las áreas de contacto de las zonas comunes, tales como juegos de las zonas infantiles, aparatos de actividad física u otro mobiliario urbano de uso compartido.
-
-4. Se recomienda disponer en esos espacios, especialmente en lo que se refiere a parques infantiles, de dispensadores de geles hidroalcohólicos o desinfectantes con actividad virucida, debidamente autorizados y registrados, o de una solución jabonosa en el caso de espacios para menores de dos años de edad.
+3. Corresponderá a los ayuntamientos la organización del espacio así como la garantía de las condiciones de limpieza.
 
 ## XI. Caza y pesca
 
@@ -1095,13 +1117,13 @@ Los parques recreativos infantiles no podrán reanudar su actividad hasta que la
 
 ### Sexagésimo primero. Celebración de congresos, encuentros, reuniones de negocios, conferencias, eventos y actos similares
 
-1. Desde la entrada en vigor de la presente Orden y hasta el 5 de julio de 2020 podrán celebrarse congresos, encuentros, reuniones de negocios, conferencias y eventos y actos similares promovidos por cualquier entidad, de naturaleza pública o privada, siempre que no se supere el sesenta por ciento del aforo permitido del lugar de celebración y con un límite máximo de ochenta personas para lugares cerrados y de ochocientas personas tratándose de actividades al aire libre.
+1. Desde la entrada en vigor de la presente Orden y hasta el 5 de julio de 2020 podrán celebrarse congresos, encuentros, reuniones de negocios, conferencias y eventos y actos similares promovidos por cualquier entidad, de naturaleza pública o privada, siempre que no se supere el sesenta por ciento del aforo permitido del lugar de celebración.
 
-  Desde el 6 de julio de 2020 y mientras la situación epidemiológica lo aconseje el porcentaje se incrementará hasta el setenta y cinco por ciento con un límite de trescientas personas sentadas para lugares cerrados y de mil personas sentadas al aire libre.
+  Desde el 6 de julio de 2020 y mientras la situación epidemiológica lo aconseje el porcentaje se incrementará hasta el setenta y cinco por ciento.
 
   Lo recogido en este apartado será también de aplicación para reuniones profesionales, juntas de comunidades de propietarios y eventos similares.
 
-2. Deberán establecerse las medidas necesarias para procurar mantener la distancia de seguridad interpersonal de al menos 1,5 metros durante su celebración o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
+2. Deberán establecerse las medidas necesarias para procurar mantener la distancia de seguridad interpersonal de, al menos, 1,5 metros durante su celebración o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
 
 3. La organización de la circulación de personas y la distribución de espacios deberá procurar la posibilidad de mantener la distancia de seguridad interpersonal. En la medida de lo posible se establecerán itinerarios para dirigir la circulación de los asistentes y evitar aglomeraciones en determinadas zonas, tanto en el interior como en el exterior, y prevenir el contacto entre ellos. Cuando se disponga de dos o más puertas, se procurará establecer un uso diferenciado para la entrada y la salida, con objeto de reducir el riesgo de formación de aglomeraciones.
 
@@ -1176,6 +1198,8 @@ Los parques recreativos infantiles no podrán reanudar su actividad hasta que la
 4. Los centros de atención primaria y hospitalarios, de titularidad pública o privada, deben contar con los Planes de Contingencia a los que alude el artículo 29 del Real Decreto-ley 21/2020, de 9 de junio, para hacer frente a la gestión de situaciones de emergencia relacionadas con COVID-19.
 
 5. Estarán obligados a colaborar con las autoridades sanitarias y de política social en los cometidos de vigilancia, prevención y control del COVID-19.
+
+6. Hasta que el Gobierno de España declare la finalización de la situación de crisis sanitaria causada por el COVID-19, las autoridades sanitarias de la Comunidad de Madrid podrán habilitar espacios para uso sanitario en locales públicos o privados que reúnan las condiciones necesarias para prestar atención sanitaria, ya sea en régimen de consulta o de hospitalización.
 
 ### Sexagésimo quinto. Centros, servicios y establecimientos de servicios sociales
 
@@ -1302,25 +1326,24 @@ Los residuos infecciosos se agruparán en tres fracciones con el fin optimizar y
 Se deberá maximizar el llenado de los contenedores disponibles en estos centros para cada una de las fracciones y de los tipos de residuos generados, evitando entregarlos a los gestores autorizados sin optimizar su capacidad, de forma que se logre así una gestión lo más eficiente posible.
 
 ### Septuagésimo cuarto. Gestión y tratamiento de residuos
-
-La gestión de la fracción resto recogida conforme a los apartados sexagésimo sexto y sexagésimo séptimo se realizará de la siguiente manera:
+La gestión de la fracción resto recogida conforme a los apartados septuagésimo sexto y septuagésimo séptimo se realizará de la siguiente manera:
 
 1. En las instalaciones de recogida no se procederá en ningún caso a la apertura manual de las bolsas de fracción resto.
 
 2. Las instalaciones de tratamiento podrán resolver destinarla a incineración o a vertedero sin tratamiento previo, con el límite de la fecha de vigencia de esta Orden.
 
-3. En caso de que se lleven a cabo tratamientos previos a su incineración o depósito en vertedero, deberán realizarse de forma automática adoptando siempre todas las medidas de seguridad necesarias.
+3. En caso de que se lleven a cabo tratamientos previos a su incineración o depósito en vertedero, podrán realizarse tanto de forma automática como manual, adoptando siempre todas las medidas de seguridad necesarias:
 
-  a. Las autoridades competentes podrán acordar que tanto los residuos antes de su tratamiento como los materiales recuperados queden almacenados durante al menos setenta y dos horas.
+a. Las autoridades competentes podrán acordar que tanto los residuos antes de su tratamiento como los materiales recuperados queden almacenados durante al menos setenta y dos horas.
 
-  b. Las empresas y administraciones responsables de la gestión de estos residuos desarrollarán protocolos específicos para la protección de los trabajadores y la desinfección de equipos y vehículos tanto para la recogida de residuos como para su tratamiento en las plantas que los reciban, o bien se revisarán los protocolos ya existentes con la misma finalidad, y dotarán de los equipos de protección individual (EPI) necesarios a los trabajadores.
+b. Las empresas y administraciones responsables de la gestión de estos residuos desarrollarán protocolos específicos para la protección de los trabajadores y la desinfección de equipos y vehículos tanto para la recogida de residuos como para su tratamiento en las plantas que los reciban, o bien se revisarán los protocolos ya existentes con la misma finalidad, y dotarán de los equipos de protección individual (EPI) necesarios a los trabajadores.
 
 
 En los casos en los que en una instalación los residuos de la fracción resto se hayan venido destinando a incineración o a vertedero sin tratamiento previo, y se continúe con estas operaciones al amparo de lo previsto en este artículo, se podrá seguir gestionando dichos residuos de este modo hasta la fecha de finalización de la vigencia de esta Orden, salvo que las autoridades competentes de la Comunidad de Madrid establezcan un plazo máximo inferior.
 
 En el resto de fracciones, los residuos se depositarán en los contenedores correspondientes a cada uno de ellos y se recogerán y tratarán de la forma habitual.
 
-Respecto a los residuos biosanitarios, cuando los gestores de residuos encuentren dificultades de gestión debido a la acumulación de los mismos, podrán solicitar a la Comunidad de Madrid la habilitación, con carácter temporal y extraordinario, de naves para cubrir sus necesidades de almacenamiento de residuos de baja densidad. Dichos almacenamientos deberán cumplir los requisitos mínimos que las autoridades competentes establezcan, al menos los establecidos en el apartado septuagésimo tercero. Dicha solicitud, con carácter previo al inicio del almacenamiento se realizará a través del procedimiento electrónico de autorización de gestión de residuos peligrosos y el expediente se tramitará por la vía de urgencia.
+Respecto a los residuos biosanitarios, cuando los gestores de residuos encuentren dificultades de gestión debido a la acumulación de los mismos, podrán solicitar a la Comunidad de Madrid la habilitación, con carácter temporal y extraordinario, de naves para cubrir sus necesidades de almacenamiento de residuos de baja densidad. Dichos almacenamientos deberán cumplir los requisitos mínimos que las autoridades competentes establezcan, al menos los establecidos en el apartado septuagésimo tercero. Dicha solicitud, con carácter previo al inicio del almacenamiento, se realizará a través del procedimiento electrónico de autorización de gestión de residuos peligrosos y el expediente se tramitará por la vía de urgencia.
 
 ### Septuagésimo quinto. Recomendaciones para el manejo domiciliario de los residuos en hogares con positivos o en cuarentena por COVID-19 y centros de trabajo en los que se detecte la presencia de personal con síntomas
 
