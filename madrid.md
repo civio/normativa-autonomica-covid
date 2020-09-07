@@ -744,6 +744,90 @@ Las fiestas, verbenas y otros eventos populares podrán, en su caso, autorizarse
 
   Igualmente, con carácter previo al inicio de curso, se podrán establecer, en los mismos términos de supervisión por la Consejería de Sanidad, las medidas de higiene adecuadas para prevenir los riesgos de contagio, alternativas a la distancia de seguridad de 1,5 metros prevista en el Real Decreto-ley 21/2020, de 9 de junio, de medidas urgentes de prevención, contención y coordinación para hacer frente a la crisis sanitaria ocasionada por el COVID-19.
 
+3. El inicio del curso escolar 2020-2021 de los centros educativos de la Comunidad de Madrid se desarrollará de acuerdo con lo establecido en el Escenario II recogido en la Resolución Conjunta Viceconsejerías de Política Educativa y de Organización Educativa por la que se dictan instrucciones sobre medidas organizativas y de prevención, higiene y promoción de la salud frente a COVID-19 para centros educativos en el curso 2020-2021 y modificada por Resolución de 28 de agosto de 2020.
+
+4. Se habilita a la Consejería de Educación y Juventud para dictar, en el ámbito de sus competencias, cuantas medidas sean precisas para la ejecución de lo establecido en esta Orden.
+
+### Cuadragésimo bis. Medidas de prevención referidas a los centros educativos.
+
+1. Apertura de centros educativos y presencialidad del alumnado:
+
+  a) Con carácter general, la actividad lectiva será presencial para todos los niveles y etapas del sistema educativo, priorizándola para el alumnado de menor edad, al menos hasta el segundo curso de la Educación Secundaria Obligatoria. La suspensión generalizada de la actividad lectiva presencial por parte de la Comunidad de Madrid únicamente se adoptará ante situaciones excepcionales.
+
+  b) Siempre y cuando la situación epidemiológica lo permita, de acuerdo con las indicaciones de las autoridades sanitarias, los centros docentes asegurarán la atención educativa de los alumnos durante todo el curso escolar, así como el servicio de comedor.
+
+  c) Los centros educativos promoverán que las reuniones de coordinación y aquellas otras actividades no lectivas que sean posible, se realicen de forma telemática.
+
+2. Medidas de coordinación efectiva:
+
+  a) Se constituirá un grupo de coordinación y seguimiento de la evolución de la pandemia formado por representantes de la Consejería de Sanidad y de la Consejería de Educación y Juventud de la Comunidad de Madrid.
+
+  b) Todos los centros ducativos designarán un coordinador para los aspectos relacionados con COVID-19 que debe estar familiarizado con todos los documentos relacionados con centros educativos y COVID-19 vigentes. Esta persona actuará como interlocutor con los servicios sanitarios a requerimiento de la Dirección General de Salud Pública o por propia iniciativa cuando deba consultar algún asunto y deberá conocer los mecanismos de comunicación eficaz que se hayan establecido con los responsables sanitarios de la Dirección General de Salud Pública.
+
+3. Medidas de limitación de contactos:
+
+  a) De forma general, se mantendrá una distancia interpersonal de, al menos, 1,5 metros en las interacciones entre las personas en el centro educativo.
+
+  b) El uso de la mascarilla será obligatorio a partir de 6 años de edad con independencia del mantenimiento de la distancia interpersonal, sin perjuicio de las exenciones previstas en el ordenamiento jurídico.
+
+  c) En educación infantil y en primer y segundo curso de educación primaria, la organización del alumnado se establecerá, con carácter general, en grupos de convivencia estable, en cuyo ámbito no se aplicarán criterios de limitación de distancia. Se debe garantizar la estanqueidad del grupo de convivencia estable en todas las actividades que se realicen dentro del centro educativo. No obstante, se podrán realizar aquellas actividades en el centro educativo que conlleven la mezcla de alumnado de diferentes grupos de convivencia o clases, siempre que se pueda mantener la distancia mínima interpersonal.
+
+  d) Los eventos deportivos o celebraciones que tengan lugar en los centros educativos se realizarán sin asistencia de público.
+
+4. Medidas de prevención personal:
+
+  a) Se realizará una higiene de manos (gel hidroalcohólico, etc.) al menos a la entrada y salida del centro educativo, antes y después del patio, antes de comer y siempre después de ir al aseo, y en todo caso un mínimo de cinco veces al día.
+
+  b) El alumnado recibirá formación para una correcta higiene de manos e higiene respiratoria, así como un uso adecuado de la mascarilla.
+
+5. Medidas de limpieza, desinfección y ventilación del centro:
+
+  a) Se ventilarán con frecuencia las instalaciones del centro, al menos durante 10-15 minutos al inicio y al final de la jornada, durante el recreo, y siempre que sea posible entre clases, manteniéndose las ventanas abiertas todo el tiempo que sea posible.
+
+  b) Se intensificará la limpieza, en especial en los baños y en las superficies de mayor uso.
+
+6. Medidas de prevención en comedores escolares:
+
+  a) Los comedores, o espacios alternativos habilitados para las comidas, permitirán la distancia interpersonal de al menos 1,5 metros, salvo entre alumnos que pertenezcan a un mismo grupo de convivencia estable. Se asignarán puestos fijos durante todo el año para el alumnado y se garantizará la estanqueidad en el caso de los grupos de convivencia estable.
+
+7. Medidas de prevención en transporte escolar:
+
+  a) En el transporte escolar colectivo será obligatorio el uso de mascarilla a partir de 6 años de edad, sin perjuicio de las exenciones previstas en el ordenamiento jurídico y recomendable en alumnos de 3 a 5 años. Se asignarán asientos fijos al alumnado para todo el curso escolar, salvo que, debido a la situación epidemiológica, las autoridades sanitarias determinen un uso más restrictivo del mismo.
+
+8. Gestión de casos y actuación ante brotes de COVID-19:
+
+  a) Ante la aparición de casos en el centro educativo, las medidas de prevención y control se llevarán a cabo por parte de la Dirección General de Salud Pública de acuerdo con el documento técnico elaborado por la Ponencia de Alertas y Planes de Preparación y Respuesta: “Guía de actuación ante la aparición de casos de COVID-19 en centros educativos”, que tiene como ejes de actuación los siguientes:
+
+    • Evitar la asistencia al centro de personas sintomáticas.
+
+    • Aislamiento precoz y referencia al sistema sanitario de personas con síntomas.
+
+    • Mantenimiento de la actividad extremando precauciones hasta confirmar o descartar la infección en la persona sintomática.
+
+    • Cuarentena de los contactos estrechos en los términos que decida la Dirección General de Salud Pública de acuerdo con la “Estrategia de detección precoz, vigilancia y control de COVID-19”.
+
+  b) El centro educativo informará, explícitamente y con confirmación de recepción de la información, a las familias y tutores legales, o, en su caso, a los alumnos mayores de edad, de que el alumnado con cualquier sintomatología aguda no puede acceder al centro educativo. Los centros educativos pueden establecer mecanismos para la identificación de síntomas de los alumnos a los alumnos en la entrada del mismo.
+
+  c) Se tomará la temperatura corporal a todo el alumnado y el personal de forma previa al inicio de la jornada. Cada centro docente dispondrá la forma de llevar a cabo la toma de temperatura, evitando en todo caso aglomeraciones y asegurando el mantenimiento de la distancia interpersonal de al menos 1,5 metros.
+
+  d) No acudirán al centro educativo aquellas personas que tengan síntomas compatibles con COVID-19, ya sean parte del alumnado, profesorado u otro personal, así como aquellas que se encuentren en aislamiento por diagnóstico de COVID-19 o en período de cuarentena por contacto estrecho con un caso de COVID-19.
+
+  e) Los trabajadores vulnerables al COVID-19 mantendrán las medidas de protección de forma rigurosa, de acuerdo con la evaluación realizada por el Servicio de Prevención de Riesgos Laborales y su informe sobre las medidas de prevención, adaptación y protección necesarias, siguiendo lo establecido en el Procedimiento de actuación para los servicios de prevención de riesgos laborales frente a la exposición al SARS-CoV-2.
+
+  f) Se informará y formará al personal de los centros docentes sobre los riesgos de contagio y propagación de la COVID-19, con especial atención a las vías de transmisión y las medidas de prevención y protección adoptadas en el centro.
+
+  g) La realización de actividades y modalidades formativas en centros no educativos atenderá a los criterios de prevención y control establecidos para el sector correspondiente.
+
+### Cuadragésimo ter. Recomendaciones a los centros educativos.
+
+1. Se priorizará en la medida de lo posible la utilización de espacios al aire libre.
+
+2. Se promoverá la comunicación frecuente con las familias mediante teléfono, correo electrónico, mensajes o correo ordinario, facilitando las gestiones administrativas de forma telemática.
+
+3. Se recomendará a la comunidad educativa el uso, en la medida de lo posible, del transporte activo (bicicleta, a pie, etc.) en los recorridos a los centros docentes.
+
+4. Se llevarán a cabo las acciones necesarias para prevenir cualquier discriminación en relación con la COVID-19.
+
 ### Cuadragésimo primero. Medidas y condiciones para el desarrollo de actividad en el ámbito universitario y de enseñanzas artísticas superiores
 
 1. Durante el curso 2019-2020, en los centros que conforman el sistema universitario en la Comunidad de Madrid se mantendrá la realización en el entorno digital de todas las actividades programadas tendentes a la obtención de títulos oficiales.
@@ -1504,3 +1588,28 @@ La presente Orden se publicará en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 
 5. El personal que voluntariamente esté realizando estas funciones de rastreo y seguimiento de contactos de casos positivos, probables o posibles de COVID-19, podrá comunicar con una antelación mínima de 7 días hábiles, la finalización del desempeño temporal de las mismas. Así mismo, cuando razones organizativas de la Corporación Local de origen lo aconsejen, ésta pondrá en conocimiento de la Administración de la Comunidad de Madrid la finalización del desempeño temporal de funciones de su personal».
 
+## XX. Vacunación frente a la gripe.
+
+### Octogésimo segundo. Medidas de vacunación frente a la gripe.
+
+1. Los grupos de población a vacunar frente a la gripe en la temporada 2020/21 serán los acordados por la Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud celebrada el 5 de mayo de 2020:
+
+  a) Personas mayores, preferentemente a partir de los 65 años de edad. Se hará especial énfasis en aquellas personas que conviven en instituciones cerradas.
+
+  b) Personas con menos de 65 años de edad que presentan un alto riesgo de complicaciones derivadas de la gripe.
+
+  c) Personas que pueden transmitir la gripe a aquellas que tienen un alto riesgo de presentar complicaciones, incluyendo personal sanitario y sociosanitario, así como convivientes.
+
+  d) Personas que trabajan en servicios públicos esenciales y otros.
+
+  Se realizará el esfuerzo necesario para alcanzar o superar coberturas de vacunación del 75 por 100 en mayores, preferentemente a partir de los 65 años, y en el personal sanitario y sociosanitario, así como superar el 60 por 100 en embarazadas y en personas con condiciones de riesgo.
+
+2. El comienzo de la campaña de vacunación se realizará de forma coordinada en todas las comunidades y ciudades autónomas en la primera quincena del mes de octubre.
+
+3. Se comenzará por la vacunación de las personas mayores institucionalizadas y el personal sanitario y sociosanitario, seguidamente se vacunará al resto de grupos recomendados.
+
+4. Se reforzará la medición de las coberturas de vacunación en los grupos de alto riesgo de complicaciones por presentar condiciones clínicas especiales.
+
+5. Se comunicará a los gestores de los centros sanitarios y sociosanitarios los objetivos y la política de vacunación de esta campaña, así como la necesidad de la asignación de personal específico para la vacunación y de la realización de medidas de comunicación y concienciación de la importancia de la vacunación.
+
+6. Se instará a reforzar el compromiso de las organizaciones de personal sanitario, sindicatos, colegios profesionales y sociedades científicas con la vacunación anual frente a la gripe, instándoles a que trasladen a sus integrantes la recomendación de vacunación por responsabilidad ética con las personas de riesgo a las que atienden.
