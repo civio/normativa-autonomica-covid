@@ -74,30 +74,55 @@ En función de la evolución epidemiológica los titulares de la Consejería de 
 
 ### Séptimo. Deber de cautela y protección. Medidas de prevención e higiene de aplicación general para toda la población
 
-1. Todos los ciudadanos deberán adoptar las medidas necesarias para evitar la generación de riesgos de propagación de la enfermedad COVID-19, así como la propia exposición a dichos riesgos, con arreglo a lo establecido en el Real Decreto-ley 21/2020, de 9 de junio, y en esta Orden. El deber de cautela y protección será igualmente exigible a los titulares de cualquier actividad regulada en dicho Real Decreto-ley.
+1. Todos los ciudadanos deberán adoptar las medidas necesarias para evitar la generación de riesgos de propagación de la enfermedad COVID-19, así como la propia exposición a dichos riesgos, con arreglo a lo establecido en el Real Decreto-Ley 21/2020, de 9 de junio, y en esta Orden. El deber de cautela y protección será igualmente exigible a los titulares de cualquier actividad regulada en dicho Real Decreto-Ley.
 
 2. Asimismo, deberán respetarse las medidas de seguridad e higiene establecidas por las autoridades sanitarias para la prevención del COVID-19 y en particular:
 
-  a) Deberá mantenerse una distancia de seguridad interpersonal mínima de, al menos, 1,5 metros tal y como dispone el Real Decreto-ley 21/2020, de 9 de junio, y, cuando no sea posible, se adoptarán medidas de protección e higiene adecuadas para prevenir los riesgos de contagio.
+  a) Deberá mantenerse, cuando sea posible, una distancia de seguridad interpersonal mínima de, al menos, 1,5 metros, tal y como dispone el Real Decreto-Ley 21/2020, de 9 de junio.
 
   b) Deberá realizarse una higiene de manos correcta y frecuente.
 
-  c) De conformidad con el artículo 6 del Real Decreto-ley 21/2020, de 9 de junio, todas las personas de seis años en adelante quedan obligadas al uso de mascarillas en los siguientes supuestos:
+  c) Todas las personas de seis años en adelante quedan obligadas al uso de mascarillas en los siguientes supuestos:
 
-    • En la vía pública, en espacios al aire libre y en cualquier espacio cerrado de uso público o que se encuentre abierto al público, siempre que no resulte posible garantizar el mantenimiento de una distancia de seguridad interpersonal de, al menos, 1,5 metros.
+    • En la vía pública, en espacios al aire libre y en cualquier espacio cerrado de uso público o que se encuentre abierto al público, con independencia del mantenimiento de la distancia física interpersonal de seguridad.
 
-    • En los medios de transporte aéreo, en autobús, o por ferrocarril, así como en los transportes públicos y privados complementarios de viajeros en vehículos de hasta nueve plazas, incluido el conductor, si los ocupantes de los vehículos de turismo no conviven en el mismo domicilio.
+    • En los medios de transporte aéreo, en autobús, o por ferrocarril, así como en los transportes públicos y privados complementarios de viajeros en vehículos de hasta nueve plazas, incluido el conductor, si los ocupantes de los vehículos no conviven en el mismo domicilio.
 
-  La obligación de uso de mascarilla no será exigible para las personas que presenten algún tipo de enfermedad o dificultad respiratoria que pueda verse agravada por el uso de la mascarilla o que, por su situación de discapacidad o dependencia, no dispongan de autonomía para quitarse la mascarilla, o bien presenten alteraciones de conducta que hagan inviable su utilización.
+3. En todos los apartados de la presente Orden en los que se hace referencia al uso de mascarilla en defecto de la posibilidad de mantener la distancia de seguridad interpersonal, se deberá entender que resulta de obligado cumplimiento su utilización conforme a lo dispuesto en el punto anterior con independencia del mantenimiento de dicha distancia, sin perjuicio de los supuestos en los que esté excepcionada su utilización.
 
-  Tampoco será exigible en el caso de ejercicio de deporte al aire libre, ni en los supuestos de fuerza mayor o situación de necesidad o cuando, por la propia naturaleza de las actividades, el uso de la mascarilla resulte incompatible, con arreglo a las indicaciones de las autoridades sanitarias.
+4. La obligación de uso de mascarilla no será exigible en los siguientes casos:
 
-  No obstante, se recomienda como medida de precaución la utilización de mascarilla de forma generalizada, incluso aun pudiéndose garantizar la distancia de, al menos, 1,5 metros y especialmente en todos aquellos espacios cerrados que se compartan con otras personas no convivientes.
+  a) En los supuestos recogidos en el artículo 6.2 del Real Decreto-Ley 21/2020, de 9 de junio, de medidas urgentes de prevención, contención y coordinación para hacer frente a la crisis sanitaria ocasionada por el COVID-19.
 
+  b) En el momento de realizar actividad deportiva al aire libre siempre que, teniendo en cuenta la posible concurrencia de personas y las dimensiones del lugar, pueda garantizarse el mantenimiento de la distancia de seguridad con otras personas no convivientes.
 
-3. Cualquier persona que experimente alguno de los síntomas más comunes compatibles con COVID-19, deberá limitar las salidas del domicilio y comunicarlo a su servicio sanitario a la mayor brevedad.
+  c) Durante el consumo de bebidas y alimentos.
 
-  En caso de que sea imprescindible abandonar su domicilio deberá utilizar mascarilla en todo momento, realizar la higiene de manos con frecuencia y evitar al máximo las interacciones sociales. Igualmente, si existen convivientes en el domicilio, deberá evitar el contacto con los mismos y, si es posible, usar una habitación de forma exclusiva hasta recibir instrucciones de los servicios de salud.
+  d) En los espacios de la naturaleza o al aire libre fuera de núcleos de población, siempre y cuando la afluencia de las personas permita mantener la distancia interpersonal de seguridad de, al menos, 1,5 metros.
+
+  e) En las piscinas durante el baño y mientras se permanezca en un espacio determinado, sin desplazarse, y siempre que se pueda garantizar el respeto de la distancia de seguridad interpersonal entre todas las personas usuarias no convivientes. En cualquier caso, será obligatorio el uso de mascarilla en los accesos, desplazamientos y paseos que se realicen en estas instalaciones.
+
+  f) En los centros de trabajo exclusivamente cuando los trabajadores permanezcan sentados en su puesto de trabajo siempre que se pueda garantizar la distancia de seguridad interpersonal de, al menos, 1,5 metros con otros trabajadores y/o usuarios de las instalaciones.
+
+5. Se recomienda, como medida de precaución, la utilización de mascarilla en los espacios privados, tanto abiertos como cerrados, cuando existan reuniones o una posible confluencia de personas no convivientes, aun cuando pueda garantizarse la distancia de seguridad.
+
+6. La obligación del uso de mascarilla se refiere también a su adecuada utilización, de modo que cubra desde parte del tabique nasal hasta la barbilla.
+
+7. La mascarilla no debe estar provista de válvula exhalatoria, salvo en los usos profesionales para los que este tipo de mascarilla pueda estar recomendada.
+
+8. Cualquier persona que experimente alguno de los síntomas más comunes compatibles con COVID-19, deberá limitar las salidas del domicilio y comunicarlo a su servicio sanitario a la mayor brevedad. En caso de que sea imprescindible abandonar su domicilio deberá utilizar mascarilla en todo momento, realizar la higiene de manos con frecuencia y evitar al máximo las interacciones sociales. Igualmente, si existen convivientes en el domicilio, deberá evitar el contacto con los mismos y, si es posible, usar una habitación de forma exclusiva hasta recibir instrucciones de los servicios de salud.
+
+9. Las personas consideradas caso confirmado con infección activa y las consideradas como contacto estrecho de un caso sospechoso, probable o confirmado, deben seguir la recomendación de aislamiento o cuarentena que les sea indicada desde los dispositivos asistenciales o de salud pública, sin poder abandonar su domicilio, el lugar de aislamiento o cuarentena en ningún caso, salvo autorización expresa del servicio sanitario por causa debidamente justificada.
+
+10. Sin perjuicio de las excepciones que para determinadas actividades se recogen en esta Orden, la participación en cualquier agrupación de personas de carácter privado o no regulado en la vía pública o en espacios públicos, se limita a un número máximo de diez personas, salvo que se trate de personas convivientes.
+
+11. Al margen de lo expuesto en el párrafo precedente se recomienda, como medida de precaución, que toda clase de agrupaciones o reuniones de personas no convivientes que se desarrollen en espacios privados se limite a un máximo de diez personas, aun cuando pueda garantizarse la distancia de seguridad.
+
+12. Las personas fumadoras, en todo caso, deberán respetar la distancia de seguridad interpersonal mínima de, al menos, 1,5 metros, durante el acto de fumar.
+
+13. Se recomienda, como medida de precaución, no realizar un uso compartido de vasos, copas, platos y cubiertos.
+
+14. Los ciudadanos deberán colaborar activamente en el cumplimiento de las medidas previstas en esta Orden.
 
 ### Octavo. Medidas de higiene y prevención generales para el personal trabajador
 
@@ -279,25 +304,23 @@ i) Lo previsto en este apartado se aplicará sin perjuicio de las especificidade
 
 ### Decimoctavo. Medidas y condiciones para los mercados que desarrollan su actividad en la vía pública al aire libre o de venta no sedentaria
 
-1. Desde la entrada en vigor de la presente Orden y hasta el 5 de julio de 2020 los mercados que desarrollan su actividad en la vía pública al aire libre o de venta no sedentaria limitarán su actividad al sesenta por ciento de los puestos habituales o autorizados.
+1. Los mercados que desarrollan su actividad en la vía pública al aire libre o de venta no sedentaria, comúnmente denominados mercadillos, limitarán la afluencia de clientes a un máximo del 75 por ciento del aforo permitido, debiendo adoptarse las medidas oportunas para evitar aglomeraciones y para asegurar el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros o, en su defecto, la utilización de medidas alternativas de protección física.
 
-  Desde el 6 de julio de 2020 y hasta que la evolución epidemiológica lo aconseje dicho porcentaje se elevará al setenta y cinco por ciento.
+2. Con objeto de poder asegurar en todo momento el cumplimiento de la distancia de seguridad interpersonal los Ayuntamientos podrán aumentar la superficie destinada al mercadillo, trasladar su ubicación, habilitar nuevos días para el ejercicio de la actividad, prever funcionamiento alterno de los puestos autorizados, ampliar horarios o adoptar cualesquiera otras medidas de efecto equivalente.
 
-  En todo momento se deberán adoptar las medidas oportunas para evitar aglomeraciones y para asegurar el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros o, en su defecto, la utilización de medidas alternativas de protección física.
+3. Los espacios en los que se celebren los mercadillos deberán estar delimitados mediante vallado o cualquier otro medio que permita su delimitación. La distancia entre puestos deberá garantizar que se eviten aglomeraciones en el recorrido y que se respete la distancia de seguridad de, al menos, 1,5 metros entre los consumidores, distancia que deberá cumplirse asimismo entre los vendedores dentro de cada puesto.
 
-2. Los Ayuntamientos podrán aumentar la superficie destinada al mercadillo, trasladar su ubicación, habilitar nuevos días para el ejercicio de la actividad, prever funcionamiento alterno de los puestos autorizados, ampliar horarios o adoptar cualesquiera otras medidas de modo que se produzca un efecto equivalente a la limitación establecida en el apartado anterior.
-
-3. Los espacios en los que se celebren los mercadillos deberán estar delimitados mediante vallado o cualquier otro medio que permita su delimitación. La distancia entre puestos deberá garantizar que se eviten aglomeraciones en el recorrido y que se respete la distancia de seguridad de al menos 1,5 metros entre los consumidores, distancia que deberá cumplirse asimismo entre los vendedores dentro de cada puesto.
-
-  Deberá señalarse de forma clara la distancia de seguridad interpersonal entre clientes, con marcas en el suelo o mediante el uso de balizas, cartelería y señalización para aquellos casos en los que sea posible la atención individualizada de más de un cliente al mismo tiempo.
+  Deberá señalarse de forma clara la distancia de seguridad interpersonal entre clien-tes, con marcas en el suelo o mediante el uso de balizas, cartelería y señalización para aquellos casos en los que sea posible la atención individualizada de más de un cliente al mismo tiempo.
 
 4. Durante todo el proceso de atención al consumidor deberá mantenerse la distancia de seguridad interpersonal de, al menos, 1,5 metros entre el vendedor y el consumidor.
 
-5. Deberán mantenerse en todo momento adecuadas medidas de higiene, debiendo proceder a la limpieza y desinfección de los puestos antes y después de su montaje con especial atención a las superficies de contacto más frecuentes, especialmente mostradores y mesas u otros elementos de los puestos, mamparas, en su caso, teclados, terminales de pago, pantallas táctiles, herramientas de trabajo y otros elementos susceptibles de manipulación, prestando especial atención a aquellos utilizados por más de un trabajador. Se mantendrá asimismo una adecuada higiene y limpieza en los vehículos de carga.
+5. Deberán mantenerse en todo momento adecuadas medidas de higiene, procediendo a la limpieza y desinfección de los puestos antes y después de su montaje con especial atención a las superficies de contacto más frecuentes, especialmente mostradores y mesas u otros elementos de los puestos, mamparas, en su caso, teclados, terminales de pago, pantallas táctiles, herramientas de trabajo y otros elementos susceptibles de manipulación, prestando especial atención a aquellos utilizados por más de un trabajador. Se mantendrá asimismo una adecuada higiene y limpieza en los vehículos de carga.
 
-6. Deberán ponerse a disposición del público dispensadores de geles hidroalcohólicos o desinfectantes con actividad virucida, debidamente autorizados y registrados, en lugares accesibles y visibles, y, en todo caso, en la entrada del recinto del mercadillo así como en cada uno de los puestos autorizados. Se evitará la manipulación de los productos expuestos por parte de los clientes.
+6. Deberán ponerse a disposición del público dispensadores de geles hidroalcohólicos o desinfectantes con actividad virucida, debidamente autorizados y registrados, en lugares accesibles y visibles, y, en todo caso, en la entrada del recinto del mercadillo, así como en cada uno de los puestos autorizados.
 
-7. Los Ayuntamientos podrán, asimismo, autorizar la reanudación de la actividad de comercio ambulante en la modalidad de puesto aislado en vía pública (puestos de temporada), en los que se deberán cumplir las medidas de distancia de seguridad interpersonal y protección de trabajadores y clientes establecidas en los apartados anteriores.
+  Se recomienda la no manipulación de los productos expuestos por parte de los clientes y, en caso de llevarse a cabo, deberá exigirse a los clientes el uso de guantes desechables y gel hidroalcohólico o desinfectante con actividad virucida.
+
+7. Los Ayuntamientos podrán, asimismo, autorizar la reanudación de la actividad de comercio ambulante en la modalidad de puesto aislado en vía pública (puestos de temporada), en los que se deberán cumplir las medidas de distancia de seguridad interpersonal y protección de trabajadores y clientes establecida en los apartados anteriores.
 
 8. Los Ayuntamientos deberán comunicar a la Dirección General de Comercio y Consumo las modificaciones realizadas para adaptar el funcionamiento de los mercadillos a lo dispuesto en los apartados anteriores, no siendo requeridos los informes previos a los que hace referencia el artículo 6.2 de la Ley 1/1997, de 8 de abril, Reguladora de la Venta Ambulante.
 
@@ -329,6 +352,12 @@ i) Lo previsto en este apartado se aplicará sin perjuicio de las especificidade
 
 7. Se deberá proceder a la limpieza y desinfección frecuente de cualquier tipo de dispositivo, así como de sillas, mesas o cualquier otro mobiliario o superficie de contacto que empleen distintos usuarios.
 
+8. No se permite, por motivos sanitarios, el uso compartido de dispositivos de inhalación de tabaco, pipas de agua, cachimbas o asimilados, tanto en el exterior como en el interior de cualquier tipo de establecimiento abierto al público.
+
+En el caso de uso individualizado de estos dispositivos el establecimiento deberá establecer medidas preventivas adicionales para su limpieza y desinfección entre un cliente y otro. En particular, los accesorios como boquilla y manguera serán de un solo uso individual debiendo entregarse al consumidor en su embalaje original y desecharse tras su uso. Tras cada limpieza los dispositivos quedarán reservados en un lugar específico destinado para ello que se encuentre apartado de zonas de trabajo y del tránsito de personas.
+
+Las personas consumidoras respetarán las medidas de distanciamiento durante el acto de fumar.
+
 ## V. Hostelería y restauración
 
 ### Vigesimoprimero. Medidas de higiene para el desarrollo de actividad en los establecimientos de hostelería y restauración
@@ -353,19 +382,21 @@ h) El personal trabajador que realice el servicio en mesa y en barra deberá pro
 
 ### Vigesimosegundo. Medidas y condiciones para el desarrollo de actividad de hostelería y restauración en espacios interiores
 
-Desde la entrada en vigor de la presente Orden y hasta el 5 de julio de 2020 los establecimientos de hostelería y restauración no podrán superar el sesenta por ciento de su aforo para consumo en el interior del local.
+1. Los establecimientos de hostelería y restauración no podrán superar el setenta y cinco por ciento de su aforo para consumo en el interior del local.
 
-El consumo dentro del local podrá realizarse en barra o sentado en mesa, o agrupaciones de mesas, debiendo asegurarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes situados en la barra o entre las mesas o, en su caso, agrupaciones de mesas. La ocupación máxima será de veinticinco personas por mesa o agrupación de mesas.
+  El consumo dentro del local podrá realizarse en barra o sentado en mesa, o agrupaciones de mesas, debiendo asegurarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes situados en la barra o entre las mesas o, en su caso, agrupaciones de mesas. La ocupación máxima por mesa o agrupación de mesas será de diez personas.
 
-Desde el 6 de julio de 2020 y hasta que la evolución epidemiológica lo aconseje, el porcentaje de aforo permitido se elevará al setenta y cinco por ciento.
+2. Estos establecimientos deberán cesar su actividad, como máximo, a la 01:30 horas, tanto en el interior como en las terrazas al aire libre, no pudiendo en ningún caso admitir nuevos clientes a partir de la 01:00 horas, rigiendo el horario de cierre que tuvieran autorizado por los órganos competentes si éste fuera anterior a dicha hora.
 
-En todo momento se deberá aegurar el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre los clientes o, en su caso, grupos de clientes situados en la barra o entre las mesas o, en su caso, agrupaciones de mesas.
+3. Los salones de banquetes deberán llevar un registro en el que se recoja la fecha y los datos de contacto de sus clientes para facilitar su localización por las autoridades sanitarias a fin de posibilitar el seguimiento y localización de posibles contactos en los casos de descubrimiento posterior de presencia de casos positivos, probables o posibles de COVID-19.
+
+  La recogida de tales datos requerirá el consentimiento del interesado, sin perjuicio de condicionar el derecho de admisión por razones de salud pública en caso de no poder contar con el mismo.
+
+  Dichos datos se deberán conservar durante el plazo de veintiocho días naturales con las debidas garantías y observando las exigencias derivadas de la normativa en materia de protección de datos de carácter personal y estarán a disposición, exclusivamente, de las autoridades sanitarias y con la única finalidad de realizar el seguimiento de posibles contactos de casos positivos, probables o posibles de COVID-19.
 
 ### Vigesimotercero. Medidas y condiciones para el desarrollo de actividad de hostelería y restauración en terrazas al aire libre
 
-1. Desde la entrada en vigor de la presente Orden y hasta el 5 de julio de 2020 las terrazas al aire libre de los establecimientos de hostelería y restauración limitarán su aforo al ochenta por ciento de las mesas permitidas en el año inmediatamente anterior en base a la correspondiente licencia municipal o de lo que sea autorizado para este año, en el caso que la licencia sea concedida por primera vez. La ocupación máxima será de veinticinco personas por mesa o agrupación de mesas.
-
-  Desde el 6 de julio de 2020 el porcentaje de aforo permitido se elevará al cien por cien, si bien deberá garantizarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes y entre las mesas o, en su caso, agrupaciones de mesas.
+1. El porcentaje de aforo permitido en las terrazas al aire libre de los establecimientos de hostelería y restauración será del cien por cien de las mesas permitidas en el año inmediatamente anterior en base a la correspondiente licencia municipal o de lo que sea autorizado para este año, si bien deberá garantizarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes y entre las mesas o, en su caso, agrupaciones de mesas. La ocupación máxima por mesa o agrupación de mesas será de diez personas.
 
 2. Se considerarán terrazas al aire libre todo espacio no cubierto o todo espacio que, estando cubierto, esté rodeado lateralmente por un máximo de dos paredes, muros o paramentos.
 
@@ -381,21 +412,29 @@ En todo momento se deberá aegurar el mantenimiento de la debida distancia de se
 
 ### Vigesimocuarto. Medidas y condiciones para el desarrollo de actividad de discotecas y bares de ocio nocturno.
 
-1. Desde el 3 de julio de 2020 podrá procederse a la reapertura al público de locales de discotecas y establecimientos de ocio nocturno observando las medidas de higiene exigidas con carácter general para los establecimientos de hostelería y restauración y las medidas y condiciones recogidas en el presente apartado.
+1. Los locales de discotecas y establecimientos de ocio nocturno deberán observar las medidas de higiene exigidas con carácter general para los establecimientos de hostelería y restauración así como las condiciones recogidas en el presente apartado.
 
-2. El consumo dentro del local podrá realizarse en barra y en mesa o agrupaciones de mesas, debiendo asegurarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes y entre las mesas o, en su caso, agrupación de mesas.
+2. El consumo dentro del local podrá realizarse en barra y en mesa o agrupaciones de mesas, debiendo asegurarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes y entre las mesas o, en su caso, agrupación de mesas. La ocupación máxima por mesa o agrupación de mesas será de diez personas.
 
-3. El espacio destinado a pista de baile o similar no podrá ser utilizado para su uso habitual si bien podrá ser habilitado para instalar mesas o agrupaciones de mesas siempre respetando el mantenimiento de la debida distancia de seguridad interpersonal entre clientes o, en su caso, grupos de clientes y entre las mesas o, en su caso, agrupación de mesas.
+3. El espacio destinado a pista de baile o similar no podrá ser utilizado para su uso habitual si bien podrá ser habilitado para instalar mesas o agrupaciones de mesas observando los requisitos dispuestos en el punto anterior.
 
-4. Las discotecas y salas de baile limitarán su aforo al cuarenta por ciento del establecido en función del cálculo fijado para ello por el Código Técnico de la Edificación-Documento Básico SI3.
+4. Los establecimientos previstos en el presente apartado podrán desarrollar su actividad, como máximo, hasta la 01:30 horas, tanto en el interior como en terrazas al aire libre, no pudiendo en ningún caso admitirse nuevos clientes a partir de la 01:00 horas.
 
-  Los locales del epígrafe III 1.1 (café-espectáculo), III 1.4. (salas de fiestas) y III 1.5 (restaurantes-espectáculo) y los establecimientos del epígrafe V 9.1 (bares especiales) del Anexo I del Decreto 184/1998, de 22 de octubre, del Catálogo de Espectáculos Públicos, Actividades Recreativas, Establecimientos, Locales e Instalaciones, ajustarán su actividad a las limitaciones de aforo establecidas en el apartado vigesimosegundo de esta Orden para la prestación del servicio en los establecimientos de hostelería y restauración. En estos locales y establecimientos no estará permitida, en ningún caso, la actividad recreativa de baile.
+5. Las discotecas y salas de baile limitarán su aforo al cuarenta por ciento del establecido en función del cálculo fijado para ello por el Código Técnico de la Edificación-Documento Básico SI3.
 
-5. Desde la entrada en vigor de esta Orden, y hasta el 5 de julio de 2020, las terrazas al aire libre de los establecimientos a los que se refiere este apartado podrán abrir limitando su aforo al ochenta por ciento de las mesas permitidas en el año inmediatamente anterior en base a la correspondiente licencia municipal o de las autorizadas para este año, en el caso que la licencia sea concedida por primera vez.
+6. Los locales del epígrafe III 1.1 (café-espectáculo), III 1.4. (salas de fiestas) y III 1.5 (restaurantes-espectáculo) y los establecimientos del epígrafe V 9.1 (bares especiales) del Anexo I del Decreto 184/1998, de 22 de octubre, del Catálogo de Espectáculos Públicos, Actividades Recreativas, Establecimientos, Locales e Instalaciones, ajustarán su actividad a las limitaciones de aforo establecidas en el apartado vigesimosegundo de esta Orden para la prestación del servicio en los establecimientos de hostelería y restauración. En estos locales y establecimientos no estará permitida, en ningún caso, la actividad recreativa de baile.
 
-  Desde el 6 de julio de 2020 dicho porcentaje se elevará al cien por cien.
+7. El porcentaje de aforo permitido en las terrazas al aire libre de los establecimientos a los que se refiere este apartado será del cien por cien de las mesas permitidas en el año inmediatamente anterior en base a la correspondiente licencia municipal o de las autorizadas para este año, en el caso que la licencia sea concedida por primera vez.
 
-  En todo caso, en las terrazas de esta clase de establecimientos deberá garantizarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes y entre las mesas o, en su caso, agrupación de mesas.
+  En todo caso, en las terrazas de esta clase de establecimientos deberá garantizarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes y entre las mesas o, en su caso, agrupación de mesas. La ocupación máxima por mesa o agrupación de mesas será de diez personas.
+
+8. A fin de posibilitar el seguimiento y localización de posibles contactos en los casos de descubrimiento posterior de presencia en el local de casos positivos, probables o posibles de COVID-19, los establecimientos a los que se refiere el presente apartado deberán llevar un registro de las personas que accedan a los mismos en el que se recoja la fecha y hora, nombre y apellidos y un número de teléfono de cada persona que accede al local para facilitar su localización por las autoridades sanitarias en caso de que sea necesario.
+
+  La recogida de tales datos requerirá el consentimiento del interesado, sin perjuicio de condicionar el derecho de admisión por razones de salud pública en caso de no poder contar con el mismo.
+
+  El establecimiento deberá conservar los datos durante el plazo de veintiocho días naturales con las debidas garantías y observando las exigencias derivadas de la normativa en materia de protección de datos de carácter personal.
+
+  Los citados datos estarán a disposición, exclusivamente, de las autoridades sanitarias y con la única finalidad de realizar el seguimiento de posibles contactos de casos positivos, probables o posibles de COVID-19.
 
 ### Vigesimoquinto. Medidas de flexibilización para la instalación de terrazas
 
@@ -438,8 +477,6 @@ Los establecimientos o locales mencionados en el apartado anterior que tengan au
 ### Vigesimoséptimo. Horario de funcionamiento de terrazas de determinados establecimientos de espectáculos y actividades recreativas
 
 1. Sin perjuicio de las facultades de los respectivos Ayuntamientos para reducir o ampliar el correspondiente horario de actividad, desde la fecha de entrada en vigor de esta Orden hasta el 15 de octubre de 2020, ambas fechas inclusive, el horario general máximo de apertura y cierre de las terrazas de determinados establecimientos que se especifican en el apartado 3 de este artículo, será el siguiente: apertura 08:00 horas/cierre 01:30 horas.
-
-  Los Ayuntamientos podrán autorizar, para el período comprendido entre la fecha de publicación de esta Orden y el 15 de octubre de 2020, ambos inclusive, la ampliación de horario de cierre de las terrazas, como máximo, hasta las 02:30 horas, en establecimientos situados en zonas no residenciales.
 
 2. Las medidas de flexibilización y los horarios previstos en este artículo tendrán efectos desde la fecha de su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID hasta el 15 de octubre de 2020.
 
@@ -1195,11 +1232,13 @@ Todo ello sin perjuicio de la demás normativa que sea de aplicación.
 
 3. Asimismo, adoptarán las medidas necesarias para garantizar la protección de la seguridad y salud de su personal trabajador, la limpieza y desinfección de las áreas utilizadas y la eliminación de residuos, así como el mantenimiento adecuado de los equipos e instalaciones.
 
-4. Los centros de atención primaria y hospitalarios, de titularidad pública o privada, deben contar con los Planes de Contingencia a los que alude el artículo 29 del Real Decreto-ley 21/2020, de 9 de junio, para hacer frente a la gestión de situaciones de emergencia relacionadas con COVID-19.
+4. Los centros de atención primaria y hospitalarios, de titularidad pública o privada, deben contar con los Planes de Contingencia a los que alude el artículo 29 del Real Decreto-Ley 21/2020, de 9 de junio, para hacer frente a la gestión de situaciones de emergencia relacionadas con COVID-19.
 
 5. Estarán obligados a colaborar con las autoridades sanitarias y de política social en los cometidos de vigilancia, prevención y control del COVID-19.
 
 6. Hasta que el Gobierno de España declare la finalización de la situación de crisis sanitaria causada por el COVID-19, las autoridades sanitarias de la Comunidad de Madrid podrán habilitar espacios para uso sanitario en locales públicos o privados que reúnan las condiciones necesarias para prestar atención sanitaria, ya sea en régimen de consulta o de hospitalización.
+
+7. Asimismo, en caso de que como consecuencia de la evolución de la emergencia sanitaria no se pudiera atender adecuadamente la asistencia sanitaria de la población con los medios materiales y humanos adscritos a la Comunidad de Madrid, las autoridades sanitarias autonómicas podrán acordar la puesta a su disposición de los centros y establecimientos sanitarios privados, su personal, y las Mutuas de accidentes de trabajo.
 
 ### Sexagésimo quinto. Centros, servicios y establecimientos de servicios sociales
 
@@ -1413,7 +1452,39 @@ Se podrán utilizar para el envasado de residuos biosanitarios infecciosos, enva
 
 La presente Orden se publicará en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.
 
-Madrid, a 19 de junio de 2020.
+## XVIII. Actividad docente presencial en la Consejería de Sanidad y centros sanitarios de la Comunidad de Madrid.
 
-El Consejero de Sanidad, ENRIQUE RUIZ ESCUDERO
+### Octogésimo. Medidas y condiciones para el reinicio de las actividades docentes presenciales en los centros sanitarios, establecimientos sanitarios, fundaciones de investigación biomédica e institutos de investigación sanitaria de la Comunidad de Madrid.
+
+1. El inicio de las prácticas clínicas y actividades docentes de estudiantes de grado en Ciencias de la Salud u otras titulaciones y ciclos formativos, incluidas las prácticas de los ciclos formativos de formación profesional, cursos y actividades docentes que se desarrollan en los centros sanitarios, establecimientos sanitarios, fundaciones de investigación biomédica e institutos de investigación sanitaria así como en las instalaciones docentes de la Consejería de Sanidad, se podrán reiniciar a partir del 1 de septiembre de 2020 si la situación epidemiológica en los centros lo permite, en consonancia con la recuperación de la actividad asistencial habitual y de acuerdo a la capacidad docente del centro.
+
+2. Los centros en los que se desarrollen actividades docentes y prácticas sanitarias podrán reiniciar su actividad presencial observando las medidas de prevención establecidas en la presente Orden.
+
+3. En la entrada de las instalaciones docentes se dispondrá de geles hidroalcohólicos o desinfectantes con actividad virucida autorizados por el Ministerio de Sanidad para la limpieza de manos.
+
+4. Se dispondrán paneles informativos con las principales recomendaciones de prevención y seguridad. En la medida de lo posible se establecerán y señalizarán itinerarios para dirigir la circulación de las personas y evitar aglomeraciones, especialmente en las entradas y salidas a las instalaciones docentes.
+
+5. Antes del inicio y a la finalización de la actividad formativa se procederá a la ventilación, limpieza y desinfección de la instalación donde se desarrolle, siguiendo los protocolos de cada centro. Si las instalaciones cuentan con ventilación natural deberán mantenerse las ventanas abiertas todo el tiempo que dure la actividad, si la climatología lo permite.
+
+6. Los participantes, tanto alumnado como personal docente, deberán abstenerse de asistir a la actividad formativa si presentan la siguiente sintomatología: fiebre, tos o sensación de falta de aire. Otros síntomas de sospecha de infección por SARS-CoV-2 pueden ser dolor de garganta, pérdida del olfato y del gusto, dolores musculares, diarreas, dolor torácico o cefaleas.
+
+7. También deberán abstenerse de asistir a la actividad docente los alumnos y personal docente que hayan estado en contacto con un caso confirmado o de sospecha de COVID-19. Para la reincorporación de los contactos a sus actividades habituales deberán dejar pasar un periodo de 14 días tras el contacto y siempre siguiendo las indicaciones del personal sanitario que haya realizado el seguimiento.
+
+8. Durante el desarrollo de las prácticas clínicas y actividades docentes, se garantizarán las medidas de prevención y protección del alumnado y los profesionales docentes, que sean necesarias.
+
+9. Las actividades docentes que incluyan talleres prácticos que precisan la utilización compartida de material por varios participantes, como los maniquíes y similares, seguirán, en su caso, las indicaciones establecidas por las guías de buenas prácticas publicadas por Sociedades Científicas y Técnicas».
+
+## XIX. Medidas de refuerzo de las funciones de rastreo y seguimiento de contactos de casos positivos, probables o posibles de COVID-19.
+
+### Octogésimo primero. Desempeño temporal de funciones del personal de las corporaciones locales.
+
+1. Ante la eventual necesidad de reforzar y mejorar la eficacia de los sistemas de control y vigilancia de la emergencia sanitaria causada por el SARS-CoV-2, podrá atribuirse al personal al servicio de las corporaciones locales de la Comunidad de Madrid que voluntariamente se preste, el desempeño temporal de funciones relacionadas con el rastreo y seguimiento de contactos de casos positivos, probables o posibles de COVID-19 detectados en su ámbito territorial.
+
+2. Las funciones atribuidas temporalmente a las que se refiere el punto anterior se realizarán bajo la dirección, supervisión y dependencia funcional de la Dirección General de Salud Pública de la Consejería de Sanidad y se ajustarán, preferentemente, a las propias del cuerpo, escala, clase de especialidad, categoría, subgrupo profesional, o funciones que desempeñe el personal afectado.
+
+3. Dicho desempeño temporal de funciones será acordado o autorizado por el órgano competente de la entidad local donde preste servicio el personal de que se trate, previa petición razonada de la Consejería de Sanidad de la Comunidad de Madrid.
+
+4. En todo caso, el personal al que se le atribuya funciones, tareas o responsabilidades distintas continuará percibiendo las retribuciones correspondientes a su puesto de trabajo, sin perjuicio de la percepción de las indemnizaciones por razón del servicio a que tengan derecho, en su caso.
+
+5. El personal que voluntariamente esté realizando estas funciones de rastreo y seguimiento de contactos de casos positivos, probables o posibles de COVID-19, podrá comunicar con una antelación mínima de 7 días hábiles, la finalización del desempeño temporal de las mismas. Así mismo, cuando razones organizativas de la Corporación Local de origen lo aconsejen, ésta pondrá en conocimiento de la Administración de la Comunidad de Madrid la finalización del desempeño temporal de funciones de su personal».
 
