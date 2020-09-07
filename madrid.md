@@ -784,21 +784,21 @@ En el supuesto de que las características o la superficie de aulas de la entida
 
 ### Cuadragésimo cuarto. Medidas y condiciones para el desarrollo de actividad deportiva
 
-1. Desde la entrada en vigor de la presente Orden y hasta el 5 de julio de 2020 la práctica de la actividad física y deportiva no federada, al aire libre, podrá realizarse de forma individual o colectiva, sin contacto físico, y hasta un máximo de veinticinco personas de forma simultánea.
+1. En las instalaciones y centros deportivos al aire libre podrá realizarse actividad deportiva, individual o colectiva. No será obligatorio el uso de mascarilla durante la práctica deportiva al aire libre siempre que, teniendo en cuenta la posible concurrencia de personas y las dimensiones del lugar, pueda garantizarse el mantenimiento de la distancia de seguridad con otras personas no convivientes.
 
-  En las instalaciones y centros deportivos al aire libre podrá realizarse actividad deportiva en grupos de hasta veinticinco personas, sin contacto físico, y siempre que no se supere el setenta y cinco por ciento del aforo máximo permitido.
+2. Se podrá reanudar la actividad físico-deportiva de deportes de contacto y de combate al aire libre con uso obligatorio de mascarilla, salvo en aquellos casos que se encuentre exceptuada su utilización conforme a lo dispuesto en el punto 4 del apartado séptimo de la presente orden.
 
-  A partir de la fecha indicada en el primer párrafo no existirá límite en cuanto al aforo y número de personas permitido para realizar actividades deportivas al aire libre en estos establecimientos, si bien deberán establecerse las medidas necesarias para mantener la distancia de seguridad interpersonal de, al menos, 1,5 metros, o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
+  Asimismo, la práctica de estas disciplinas se limitarán a grupos de 20 personas en los casos de entrenamientos precompetición y a 25 personas en competición.
 
-2. Cada instalación deportiva deberá publicar un protocolo para conocimiento general de sus usuarios y que contemplará las distintas especificaciones en función de la tipología de la instalación.
+3. Cada instalación deportiva deberá publicar un protocolo para conocimiento general de sus usuarios y que contemplará las distintas especificaciones en función de la tipología de la instalación.
 
-3. El acceso a los recintos o instalaciones de cualquier tipología debe hacerse obligatoriamente con mascarilla, como también cualquier desplazamiento por el interior de la instalación, así como en el momento de la salida de la misma.
+4. El acceso a los recintos o instalaciones de cualquier tipología debe hacerse obligatoriamente con mascarilla, como también cualquier desplazamiento por el interior de la instalación, así como en el momento de la salida de la misma.
 
-4. Si la instalación está provista de gradas con localidades, será obligatorio que todos los espectadores permanezcan sentados respetando la distancia de seguridad interpersonal. Si no fuera posible realizar la distribución de las localidades respetando la distancia de seguridad entre grupos convivientes, los espectadores deberán usar obligatoriamente mascarilla también en su localidad.
+5. Si la instalación está provista de gradas con localidades, será obligatorio que todos los espectadores permanezcan sentados respetando la distancia de seguridad interpersonal y con el uso obligatorio de mascarilla.
 
-5. Excepcionalmente, si la instalación no está provista de gradas con localidades y los espectadores deben permanecer de pie, obligatoriamente deben usar mascarilla en todo momento.
+6. Excepcionalmente, si la instalación no está provista de gradas con localidades y los espectadores deben permanecer de pie, obligatoriamente deben usar mascarilla en todo momento.
 
-6. En las instalaciones deportivas la actividad física y deportiva estará sujeta a los siguientes criterios generales de uso:
+7. En las instalaciones deportivas la actividad física y deportiva estará sujeta a los siguientes criterios generales de uso:
 
   a) Con carácter general, no se compartirá ningún material y, si esto no fuera posible, se garantizará la presencia de elementos de higiene para su uso continuado.
 
@@ -808,11 +808,11 @@ En el supuesto de que las características o la superficie de aulas de la entida
 
   d) Antes de entrar y al salir del espacio asignado, deberán limpiarse las manos con los hidrogeles que deberán estar disponibles en los espacios habilitados al efecto.
 
-  e) Los técnicos, monitores o entrenadores deberán mantener la distancia de seguridad interpersonal en las instalaciones o, en su defecto, utilizar mascarilla.
+  e) Los técnicos, monitores o entrenadores deberán mantener la distancia de seguridad interpersonal en las instalaciones y utilizar mascarilla. El uso de mascarilla no será obligatorio en los momentos en que su labor implique la práctica de actividad deportiva siempre que se respete la distancia de seguridad interpersonal.
 
-  f) Se utilizará la mascarilla durante el tiempo de circulación entre espacios comunes en las instalaciones, salvo que se pueda garantizar la distancia de seguridad interpersonal.
+  f) Se utilizará la mascarilla durante el tiempo de circulación entre espacios comunes en las instalaciones.
 
-7. Además del cumplimiento general de las medidas de higiene y prevención establecidas, en el caso de que en las instalaciones se preste algún tipo de servicio de hostelería y restauración, la prestación de este se ajustará a lo previsto en las condiciones para la prestación del servicio en los establecimientos de hostelería y restauración.
+8. Además del cumplimiento general de las medidas de higiene y prevención establecidas, en el caso de que en las instalaciones se preste algún tipo de servicio de hostelería y restauración, la prestación de este se ajustará a lo previsto en las condiciones para la prestación del servicio en los establecimientos de hostelería y restauración.
 
 ### Cuadragésimo quinto. Medidas adicionales de higiene en instalaciones deportivas al aire libre
 
@@ -820,7 +820,7 @@ En el supuesto de que las características o la superficie de aulas de la entida
 
 2. A todos los efectos se considera instalación deportiva al aire libre, toda aquella instalación deportiva descubierta, con independencia de que se encuentre ubicada en un recinto cerrado o abierto, que carezca de techo y paredes simultáneamente, y que permita la práctica de una modalidad deportiva.
 
-3. Antes de la reapertura de la instalación se llevará a cabo su limpieza y desinfección según los parámetros y directrices previstos en la presente Orden.
+3. Antes de la reapertura de la instalación se llevará a cabo su limpieza y desinfección según los parámetros y directrices previstos en la presente orden.
 
 4. Se deberán señalizar y balizar las instalaciones para asegurar que, en todo momento, la circulación de personas en las mismas se realiza de forma segura.
 
@@ -830,113 +830,111 @@ En el supuesto de que las características o la superficie de aulas de la entida
 
 7. A consideración del órgano gestor de la instalación, se organizarán turnos de horarios. Una vez finalizada la práctica deportiva, no se podrá permanecer en la instalación.
 
-8. En las instalaciones deportivas al aire libre estará permitida la práctica deportiva de las modalidades que así se contemplen en cada una de ellas, sin contacto físico, manteniendo las debidas medidas de seguridad y protección, y, en todo caso, la distancia social de seguridad de 1,5 metros.
+8. El aforo de las instalaciones estará limitado en todo momento al número de personas que garantice el cumplimiento de las distancias de seguridad, tanto en lo relativo al acceso, como durante la propia práctica. Se deberá habilitar un sistema de acceso que evite la acumulación de personas y que cumpla con las medidas de seguridad y protección sanitaria.
 
-9. El aforo de las instalaciones estará limitado en todo momento al número de personas que garantice el cumplimiento de las distancias de seguridad, tanto en lo relativo al acceso, como durante la propia práctica. Se deberá habilitar un sistema de acceso que evite la acumulación de personas y que cumpla con las medidas de seguridad y protección sanitaria.
+9. Será obligatorio el uso de mascarilla por parte de toda persona que se encuentre en la instalación deportiva salvo que se encuentren exentas de su utilización conforme a lo dispuesto en la presente orden.
 
-10. Será obligatorio el uso de mascarilla por parte de toda persona que se encuentre en la instalación excepto en espacios personalizados que aseguren el respeto de la distancia de seguridad interpersonal y en los casos que conforme a las recomendaciones sanitarias se exima del uso de la misma.
+10. Se deberán intensificar los servicios de limpieza de las instalaciones, especialmente vestuarios, aseos y zonas de actividad deportiva, estableciendo ciclos periódicos de la misma, especialmente al finalizar y antes del inicio de cada actividad, se deberá, asimismo, incrementar el protocolo de revisión de papeleras y retirada de residuos, garantizando así una limpieza y desinfección permanente de las instalaciones.
 
-11. Se deberán intensificar los servicios de limpieza de las instalaciones, especialmente vestuarios, aseos y zonas de actividad deportiva, estableciendo ciclos periódicos de la misma, especialmente al finalizar y antes del inicio de cada actividad, se deberá, asimismo, incrementar el protocolo de revisión de papeleras y retirada de residuos, garantizando así una limpieza y desinfección permanente de las instalaciones.
+11. Se utilizarán desinfectantes como diluciones de lejía (1:50) recién preparada o cualquiera de los desinfectantes con actividad virucida que se encuentran en el mercado y que han sido autorizados y registrados por el Ministerio de Sanidad. En el uso de ese producto se respetarán las indicaciones de la etiqueta.
 
-12. Se utilizarán desinfectantes como diluciones de lejía (1:50) recién preparada o cualquiera de los desinfectantes con actividad virucida que se encuentran en el mercado y que han sido autorizados y registrados por el Ministerio de Sanidad. En el uso de ese producto se respetarán las indicaciones de la etiqueta.
+12. Tras cada limpieza, los materiales empleados y los equipos de protección utilizados se desecharán de forma segura, procediéndose posteriormente al lavado de manos. Las medidas de limpieza se extenderán también, en su caso, a zonas privadas de los trabajadores, tales como vestuarios, taquillas, aseos, cocinas y áreas de descanso. Asimismo, cuando existan puestos de trabajo compartidos por más de un trabajador, se realizará la limpieza y desinfección del puesto tras la finalización de cada uso, con especial atención al mobiliario y otros elementos susceptibles de manipulación.
 
-13. Tras cada limpieza, los materiales empleados y los equipos de protección utilizados se desecharán de forma segura, procediéndose posteriormente al lavado de manos. Las medidas de limpieza se extenderán también, en su caso, a zonas privadas de los trabajadores, tales como vestuarios, taquillas, aseos, cocinas y áreas de descanso.
+13. En el caso de que se empleen uniformes o ropa de trabajo, se procederá al lavado y desinfección diaria de los mismos, debiendo lavarse de forma mecánica en ciclos de lavado entre 60 y 90 grados centígrados. En aquellos casos en los que no se utilice uniforme o ropa de trabajo, las prendas utilizadas por los trabajadores en contacto con clientes, visitantes o usuarios, también deberán lavarse en las condiciones señaladas anteriormente.
 
-  Asimismo, cuando existan puestos de trabajo compartidos por más de un trabajador, se realizará la limpieza y desinfección del puesto tras la finalización de cada uso, con especial atención al mobiliario y otros elementos susceptibles de manipulación.
+14. Se deben realizar tareas de ventilación periódica en las instalaciones cerradas que se utilicen, como oficinas o vestuarios y, como mínimo, de forma diaria y por espacio de cinco minutos.
 
-14. En el caso de que se empleen uniformes o ropa de trabajo, se procederá al lavado y desinfección diaria de los mismos, debiendo lavarse de forma mecánica en ciclos de lavado entre 60 y 90 grados centígrados. En aquellos casos en los que no se utilice uniforme o ropa de trabajo, las prendas utilizadas por los trabajadores en contacto con clientes, visitantes o usuarios, también deberán lavarse en las condiciones señaladas anteriormente.
+15. Cuando en los centros, entidades, locales y establecimientos previstos en esta propuesta haya ascensor o montacargas, su uso se limitará al mínimo imprescindible y se utilizarán preferentemente las escaleras. Cuando sea necesario utilizarlos, la ocupación máxima de los mismos será de una persona, salvo que sea posible garantizar la separación de 1,5 metros, entre ellas, o en aquellos casos de personas que puedan precisar asistencia, en cuyo caso también se permitirá la utilización por su acompañante.
 
-15. Se deben realizar tareas de ventilación periódica en las instalaciones cerradas que se utilicen, como oficinas o vestuarios y, como mínimo, de forma diaria y por espacio de cinco minutos.
+16. Se deberá inhabilitar las fuentes de agua o cualquier otro sistema que conlleve riesgos y promover el uso individual de botellas.
 
-16. Cuando en los centros, entidades, locales y establecimientos previstos en esta propuesta haya ascensor o montacargas, su uso se limitará al mínimo imprescindible y se utilizarán preferentemente las escaleras. Cuando sea necesario utilizarlos, la ocupación máxima de los mismos será de una persona, salvo que sea posible garantizar la separación de 1,5 metros, entre ellas, o en aquellos casos de personas que puedan precisar asistencia, en cuyo caso también se permitirá la utilización por su acompañante.
+17. Cuando el uso de los aseos esté permitido por clientes, visitantes o usuarios, su ocupación máxima será la establecida con carácter general en la presente Orden. Deberá procederse a la limpieza y desinfección de los referidos aseos, como mínimo, seis veces al día.
 
-17. Se deberá inhabilitar las fuentes de agua o cualquier otro sistema que conlleve riesgos y promover el uso individual de botellas.
+18. En caso de uso de los vestuarios su ocupación se limitará al número de personas que permita garantizar el respeto a la distancia mínima interpersonal de, al menos, 1,5 metros.
 
-18. Cuando el uso de los aseos esté permitido por clientes, visitantes o usuarios, su ocupación máxima será la establecida con carácter general en la presente Orden. Deberá procederse a la limpieza y desinfección de los referidos aseos, como mínimo, seis veces al día.
+19. Las duchas deberán ser individualizadas y con una mampara de separación o, en caso de no ser posible, se deberá limitar el uso únicamente a las cabinas de ducha individuales.
 
-19. En caso de uso de los vestuarios su ocupación se limitará al número de personas que permita garantizar el respeto a la distancia mínima interpersonal de, al menos, 1,5 metros.
+20. Se fomentará el pago con tarjeta u otros medios que no supongan contacto físico entre dispositivos. Se limpiará y desinfectará el datáfono tras cada uso, así como el TPV, si el empleado que lo utiliza no es siempre el mismo.
 
-20. Las duchas deberán ser individualizadas y con una mampara de separación o, en caso de no ser posible, se deberá limitar el uso únicamente a las cabinas de ducha individuales.
+21. Se deberá disponer de papeleras, a ser posible con tapa y pedal, en los que poder depositar pañuelos y cualquier otro material desechable. Dichas papeleras deberán ser limpiadas de forma frecuente, y al menos una vez al día.
 
-21. Se fomentará el pago con tarjeta u otros medios que no supongan contacto físico entre dispositivos. Se limpiará y desinfectará el datáfono tras cada uso, así como el TPV, si el empleado que lo utiliza no es siempre el mismo.
+22. A la finalización de cada turno se procederá a la limpieza de las zonas comunes y, en cada turno, se deberá limpiar y desinfectar el material compartido después de cada uso. Al finalizar la jornada se procederá a la limpieza de la instalación, reduciéndose la permanencia del personal al número mínimo suficiente para la prestación adecuada del servicio.
 
-22. Se deberá disponer de papeleras, a ser posible con tapa y pedal, en los que poder depositar pañuelos y cualquier otro material desechable. Dichas papeleras deberán ser limpiadas de forma frecuente, y al menos una vez al día.
-
-23. A la finalización de cada turno se procederá a la limpieza de las zonas comunes y, en cada turno, se deberá limpiar y desinfectar el material compartido después de cada uso. Al finalizar la jornada se procederá a la limpieza de la instalación, reduciéndose la permanencia del personal al número mínimo suficiente para la prestación adecuada del servicio.
-
-24. En todo caso, los titulares de la instalación deberán cumplir con las normas básicas de protección sanitaria del Ministerio de Sanidad. Si en la instalación deportiva se realizan otras actividades, o se prestan otros servicios adicionales no deportivos, deberán cumplir con la normativa específica que en cada caso corresponda.
+23. En todo caso, los titulares de la instalación deberán cumplir con las normas básicas de protección sanitaria del Ministerio de Sanidad. Si en la instalación deportiva se realizan otras actividades, o se prestan otros servicios adicionales no deportivos, deberán cumplir con la normativa específica que en cada caso corresponda.
 
 ### Cuadragésimo sexto. Medidas y condiciones para el desarrollo de actividad deportiva en centros deportivos
 
 1. Las instalaciones y centros deportivos de titularidad pública o privada, podrán ofertar los servicios deportivos dirigidos al desarrollo de actividad deportiva propios de su tipología y capacidad.
 
-2. Desde la entrada en vigor de la presente Orden y hasta el 5 de julio de 2020 incluido, se podrá realizar en estas instalaciones actividad deportiva en grupos de hasta veinte personas, sin contacto físico y siempre que no se supere el sesenta por ciento del aforo máximo permitido.
+2. Se podrá realizar actividad físico-deportiva en centros deportivos e instalaciones deportivas de interior de forma individual o en grupos de hasta veinticinco personas siempre que no se supere el setenta y cinco por ciento del aforo máximo permitido.
 
-  Desde el 6 de julio de 2020 y hasta que la situación epidemiológica lo aconseje dicho porcentaje se ampliará al setenta y cinco por ciento y a grupos de hasta veinticinco personas.
+  El uso de mascarilla es obligatorio en cualquier tipo de actividad física en interior salvo en los ejercicios de alta intensidad sin contacto físico, en donde se realice la actividad limitada por mamparas individuales o en donde haya una distancia de seguridad de, al menos, 3 metros respecto a otros usuarios.
 
-  En todo momento deberá garantizarse el cumplimiento de la distancia de seguridad interpersonal de, al menos, 1,5 metros.
+  En todo momento deberá garantizarse el cumplimiento de la distancia de seguridad interpersonal de, al menos, 1,5 metros, salvo en los deportes de contacto y combate.
 
-3. Podrá acceder a las instalaciones cualquier persona que desee realizar una práctica deportiva, bajo el estricto cumplimiento de las normas establecidas.
+3. Se podrá reanudar la actividad físico-deportiva de deportes de contacto y de combate en instalaciones de interior con uso obligatorio de mascarilla salvo en aquellos casos que se encuentre exceptuada su utilización conforme a lo dispuesto en el punto 4 del apartado séptimo de la presente orden.
 
-4. Antes de la reapertura de la instalación se llevará a cabo su limpieza y desinfección, según los parámetros y directrices previstas en la presente Orden.
+  Asimismo, la práctica de estas disciplinas se limitarán a grupos de 20 personas en los casos de entrenamientos precompetición y a 25 personas en competición.
 
-5. Se deberán señalizar y balizar las instalaciones para asegurar que, en todo momento, la circulación de personas en las mismas se realiza de forma segura.
+4. Podrá acceder a las instalaciones cualquier persona que desee realizar una práctica deportiva, bajo el estricto cumplimiento de las normas establecidas.
 
-6. Se deberá señalizar el suelo de la recepción de la instalación y/o cualquier puesto de atención al público, para garantizar el cumplimiento de la distancia interpersonal de, al menos, 1,5 metros entre usuarios.
+5. Antes de la reapertura de la instalación se llevará a cabo su limpieza y desinfección, según los parámetros y directrices previstas en la presente Orden.
 
-7. Se recordará a los trabajadores y usuarios, por medio de cartelería visible o mensajes de megafonía, la obligación de cumplir con las medidas de higiene y protección establecidas por la autoridad sanitaria contra el COVID-19, con especial énfasis en la recomendación de lavado frecuente de manos durante la estancia en las instalaciones.
+6. Se deberán señalizar y balizar las instalaciones para asegurar que, en todo momento, la circulación de personas en las mismas se realiza de forma segura.
 
-8. Siempre que sea posible, se deberá comunicar previamente a la apertura de las instalaciones las medidas adoptadas a los potenciales usuarios de las mismas y de forma obligatoria exponer de manera visible al público un documento que acredite las tareas de limpieza realizadas antes de la apertura.
+7. Se deberá señalizar el suelo de la recepción de la instalación y/o cualquier puesto de atención al público, para garantizar el cumplimiento de la distancia interpersonal de, al menos, 1,5 metros entre usuarios.
 
-9. Se deberá inhabilitar cualquier sistema de control de acceso a la instalación que no sea completamente seguro desde el punto de vista sanitario, como el control por huella o cualquier otro de contacto físico proceder a la instalación de sistemas seguros de control de acceso.
+8. Se recordará a los trabajadores y usuarios, por medio de cartelería visible o mensajes de megafonía, la obligación de cumplir con las medidas de higiene y protección establecidas por la autoridad sanitaria contra el COVID-19, con especial énfasis en la recomendación de lavado frecuente de manos durante la estancia en las instalaciones.
 
-10. El aforo de las instalaciones estará limitado, en todo momento, al número de personas que garantice el cumplimiento las distancia de seguridad de, al menos, 1,5 metros, tanto en lo relativo al acceso, como durante la propia práctica.
+9. Siempre que sea posible, se deberá comunicar previamente a la apertura de las instalaciones las medidas adoptadas a los potenciales usuarios de las mismas y de forma obligatoria exponer de manera visible al público un documento que acredite las tareas de limpieza realizadas antes de la apertura.
 
-11. Se deberá habilitar un sistema de acceso que evite la acumulación de personas y que cumpla con las medidas de seguridad y protección sanitaria, una vez finalizada la práctica deportiva, no se podrá permanecer en la instalación.
+10. Se deberá inhabilitar cualquier sistema de control de acceso a la instalación que no sea completamente seguro desde el punto de vista sanitario, como el control por huella o cualquier otro de contacto físico proceder a la instalación de sistemas seguros de control de acceso.
 
-12. Los profesionales de la instalación, mantendrán la distancia de, al menos, 1,5 metros con el usuario, y las actividades de contacto (boxeo, artes marciales…) se programarán evitando los ejercicios que conlleven contacto hasta su completa normalización en función de las indicaciones de las autoridades sanitarias competentes.
+11. El aforo de las instalaciones estará limitado, en todo momento, al número de personas que garantice el cumplimiento las distancia de seguridad de, al menos, 1,5 metros, tanto en lo relativo al acceso, como durante la propia práctica.
 
-13. Es obligatorio el uso de mascarilla por parte toda persona que se encuentre en la instalación excepto en espacios personalizados que aseguren el cumplimiento de las medidas de distancia interpersonal, así como para aquellas personas que se encuentren exentas de su uso conforme a la normativa aplicable.
+12. Se deberá habilitar un sistema de acceso que evite la acumulación de personas y que cumpla con las medidas de seguridad y protección sanitaria, una vez finalizada la práctica deportiva, no se podrá permanecer en la instalación.
 
-14. Se deberán intensificar los servicios de limpieza de las instalaciones, especialmente vestuarios, aseos y zonas de actividad deportiva, estableciendo ciclos periódicos de la misma, especialmente al finalizar y antes del inicio de cada actividad. Se incrementará el protocolo de revisión de papeleras y retirada de residuos, garantizando así una limpieza y desinfección permanente de las instalaciones.
+13. Los profesionales de la instalación, mantendrán la distancia de, al menos, 1,5 metros con el usuario.
 
-15. Se hará especial hincapié en la frecuencia de limpieza y desinfección de superficies de alto contacto, como la recepción, los mostradores, el material de entrenamiento, las máquinas, las barandillas, los pomos, los pulsadores, así como en todos los elementos de uso recurrente.
+14. Es obligatorio el uso de mascarilla por parte toda persona que se encuentre en la instalación excepto para aquellas personas que se encuentren exentas de su uso conforme a la normativa aplicable.
 
-16. Se utilizarán desinfectantes como diluciones de lejía (1:50) recién preparada o cualquiera de los desinfectantes con actividad virucida que se encuentran en el mercado y que han sido autorizados y registrados por el Ministerio de Sanidad. En el uso de ese producto se respetarán las indicaciones de la etiqueta.
+15. Se deberán intensificar los servicios de limpieza de las instalaciones, especialmente vestuarios, aseos y zonas de actividad deportiva, estableciendo ciclos periódicos de la misma, especialmente al finalizar y antes del inicio de cada actividad. Se incrementará el protocolo de revisión de papeleras y retirada de residuos, garantizando así una limpieza y desinfección permanente de las instalaciones.
 
-17. Tras cada limpieza, los materiales empleados y los equipos de protección utilizados se desecharán de forma segura, procediéndose posteriormente al lavado de manos. Las medidas de limpieza se extenderán también, en su caso, a zonas privadas de los trabajadores, tales como vestuarios, taquillas, aseos, cocinas y áreas de descanso.
+16. Se hará especial hincapié en la frecuencia de limpieza y desinfección de superficies de alto contacto, como la recepción, los mostradores, el material de entrenamiento, las máquinas, las barandillas, los pomos, los pulsadores, así como en todos los elementos de uso recurrente.
 
-  Asimismo, cuando existan puestos de trabajo compartidos por más de un trabajador, se realizará la limpieza y desinfección del puesto tras la finalización de cada uso, con especial atención al mobiliario y otros elementos susceptibles de manipulación.
+17. Se utilizarán desinfectantes como diluciones de lejía (1:50) recién preparada o cualquiera de los desinfectantes con actividad virucida que se encuentran en el mercado y que han sido autorizados y registrados por el Ministerio de Sanidad. En el uso de ese producto se respetarán las indicaciones de la etiqueta.
 
-18. En el caso de que se empleen uniformes o ropa de trabajo, se procederá al lavado y desinfección diaria de los mismos, debiendo lavarse de forma mecánica en ciclos de lavado entre 60 y 90 grados centígrados. En aquellos casos en los que no se utilice uniforme o ropa de trabajo, las prendas utilizadas por los trabajadores en contacto con clientes, visitantes o usuarios, también deberán lavarse en las condiciones señaladas anteriormente.
+18. Tras cada limpieza, los materiales empleados y los equipos de protección utilizados se desecharán de forma segura, procediéndose posteriormente al lavado de manos. Las medidas de limpieza se extenderán también, en su caso, a zonas privadas de los trabajadores, tales como vestuarios, taquillas, aseos, cocinas y áreas de descanso. Asimismo, cuando existan puestos de trabajo compartidos por más de un trabajador, se realizará la limpieza y desinfección del puesto tras la finalización de cada uso, con especial atención al mobiliario y otros elementos susceptibles de manipulación.
 
-19. Se deben realizar tareas de ventilación periódica en las instalaciones de forma diaria y por espacio de cinco minutos.
+19. En el caso de que se empleen uniformes o ropa de trabajo, se procederá al lavado y desinfección diaria de los mismos, debiendo lavarse de forma mecánica en ciclos de lavado entre 60 y 90 grados centígrados. En aquellos casos en los que no se utilice uniforme o ropa de trabajo, las prendas utilizadas por los trabajadores en contacto con clientes, visitantes o usuarios, también deberán lavarse en las condiciones señaladas anteriormente.
 
-20. Cuando en los centros, entidades, locales y establecimientos previstos en esta propuesta haya ascensor o montacargas, su uso se limitará al mínimo imprescindible y se utilizarán preferentemente las escaleras. Cuando sea necesario utilizarlos, la ocupación máxima de los mismos será de una persona, salvo que sea posible garantizar la separación de 1,5 metros, entre ellas, o en aquellos casos de personas que puedan precisar asistencia, en cuyo caso también se permitirá la utilización por su acompañante.
+20. Se deben realizar tareas de ventilación periódica en las instalaciones de forma diaria y por espacio de cinco minutos.
 
-21. Deberán inhabilitarse las fuentes de agua o cualquier otro sistema que conlleve riesgos y promover el uso individual de botellas.
+21. Cuando en los centros, entidades, locales y establecimientos previstos en esta propuesta haya ascensor o montacargas, su uso se limitará al mínimo imprescindible y se utilizarán preferentemente las escaleras. Cuando sea necesario utilizarlos, la ocupación máxima de los mismos será de una persona, salvo que sea posible garantizar la separación de 1,5 metros, entre ellas, o en aquellos casos de personas que puedan precisar asistencia, en cuyo caso también se permitirá la utilización por su acompañante.
 
-22. Cuando de acuerdo con lo previsto en esta propuesta el uso de los aseos esté permitido por clientes, visitantes o usuarios, su ocupación máxima será la que asegure las medidas de seguridad dictadas por la autoridad sanitaria competente. Deberá procederse a la limpieza y desinfección de los referidos aseos, como mínimo, seis veces al día.
+22. Deberán inhabilitarse las fuentes de agua o cualquier otro sistema que conlleve riesgos y promover el uso individual de botellas.
 
-23. En caso de uso de los vestuarios, se debe tener en cuenta que su capacidad no debe exceder en ningún momento el número de personas que no aseguren una distancia mínima entre personas de 1,5 metros.
+23. Cuando de acuerdo con lo previsto en esta propuesta el uso de los aseos esté permitido por clientes, visitantes o usuarios, su ocupación máxima será la que asegure las medidas de seguridad dictadas por la autoridad sanitaria competente. Deberá procederse a la limpieza y desinfección de los referidos aseos, como mínimo, seis veces al día.
 
-24. Se recomienda, en la medida de lo posible, no utilizar los secadores de pelo y manos.
+24. En caso de uso de los vestuarios, se debe tener en cuenta que su capacidad no debe exceder en ningún momento el número de personas que no aseguren una distancia mínima entre personas de 1,5 metros.
 
-25. Las duchas deberán ser individualizadas y con una mampara de separación o, en caso de no ser posible, se deberá limitar el uso únicamente a las cabinas de ducha individuales.
+25. Se recomienda, en la medida de lo posible, no utilizar los secadores de pelo y manos.
 
-26. Se fomentará el pago con tarjeta u otros medios que no supongan contacto físico entre dispositivos. Se limpiará y desinfectará el datáfono tras cada uso, así como el TPV, si el empleado que lo utiliza no es siempre el mismo.
+26. Las duchas deberán ser individualizadas y con una mampara de separación o, en caso de no ser posible, se deberá limitar el uso únicamente a las cabinas de ducha individuales.
 
-27. Se deberá disponer de papeleras, a ser posible con tapa y pedal, en los que poder depositar pañuelos y cualquier otro material desechable. Dichas papeleras deberán ser limpiadas de forma frecuente, y al menos una vez al día.
+27. Se fomentará el pago con tarjeta u otros medios que no supongan contacto físico entre dispositivos. Se limpiará y desinfectará el datáfono tras cada uso, así como el TPV, si el empleado que lo utiliza no es siempre el mismo.
 
-28. A la finalización de cada turno se procederá a la limpieza de las zonas comunes y, en cada turno, se deberá limpiar y desinfectar el material compartido después de cada uso. Al finalizar la jornada se procederá a la limpieza de la instalación, reduciéndose la permanencia del personal al número mínimo suficiente para la prestación adecuada del servicio.
+28. Se deberá disponer de papeleras, a ser posible con tapa y pedal, en los que poder depositar pañuelos y cualquier otro material desechable. Dichas papeleras deberán ser limpiadas de forma frecuente, y al menos una vez al día.
 
-29. Si en la instalación deportiva se realizan otras actividades, o se prestan otros servicios adicionales no deportivos, deberán cumplir con la normativa específica que en cada caso corresponda.
+29. A la finalización de cada turno se procederá a la limpieza de las zonas comunes y, en cada turno, se deberá limpiar y desinfectar el material compartido después de cada uso. Al finalizar la jornada se procederá a la limpieza de la instalación, reduciéndose la permanencia del personal al número mínimo suficiente para la prestación adecuada del servicio.
 
-30. Para evitar en la medida de lo posibles los contactos, mejorar la ventilación y facilitar las circulaciones, se deben mantener abiertas, siempre que sea posible, las puertas de acceso a los espacios deportivos y salas de clases colectivas.
+30. Si en la instalación deportiva se realizan otras actividades, o se prestan otros servicios adicionales no deportivos, deberán cumplir con la normativa específica que en cada caso corresponda.
 
-31. Se instalarán estaciones de limpieza y desinfección en todos los espacios deportivos interiores y vestuarios, para facilitar la limpieza y desinfección del equipamiento, los bancos y las taquillas guardarropa por parte de los usuarios, antes y después de cada uso, complementario al servicio de limpieza del centro deportivo o gimnasio.
+31. Para evitar en la medida de lo posibles los contactos, mejorar la ventilación y facilitar las circulaciones, se deben mantener abiertas, siempre que sea posible, las puertas de acceso a los espacios deportivos y salas de clases colectivas.
 
-32. Como recomendación, todas las actividades que se puedan trasladar al exterior, se realizarán al aire libre garantizando, en todo momento, el distanciamiento interpersonal de seguridad de, al menos, 1,5 metros.
+32. Se instalarán estaciones de limpieza y desinfección en todos los espacios deportivos interiores y vestuarios, para facilitar la limpieza y desinfección del equipamiento, los bancos y las taquillas guardarropa por parte de los usuarios, antes y después de cada uso, complementario al servicio de limpieza del centro deportivo o gimnasio.
+
+33. Como recomendación, todas las actividades que se puedan trasladar al exterior, se realizarán al aire libre garantizando, en todo momento, el distanciamiento interpersonal de seguridad de, al menos, 1,5 metros.
 
 ### Cuadragésimo séptimo. Práctica de la actividad deportiva federada de competencia autonómica
 
