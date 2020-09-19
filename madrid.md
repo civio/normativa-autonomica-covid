@@ -120,7 +120,7 @@ En función de la evolución epidemiológica los titulares de la Consejería de 
 
 9. Las personas consideradas caso confirmado con infección activa y las consideradas como contacto estrecho de un caso sospechoso, probable o confirmado, deberán seguir la indicación de aislamiento o cuarentena que les sea señalada desde los dispositivos asistenciales o de salud pública, sin poder abandonar su domicilio, el lugar de aislamiento o cuarentena en ningún caso, salvo autorización expresa del servicio sanitario por causa debidamente justificada.
 
-10. La participación en agrupaciones de personas para el desarrollo de cualquier actividad o evento de carácter familiar o social, tanto en la vía pública como en espacios públicos y privados, se limita a un número máximo de diez personas salvo que se trate de convivientes.
+10. La participación en agrupaciones de personas para el desarrollo de cualquier actividad o evento de carácter familiar o social, tanto en la vía pública como en espacios públicos y privados, se limita a un número máximo de seis personas salvo que se trate de convivientes.
 
   No estarán incluidas en esta limitación aquellas actividades para las que se establezcan medidas específicas en la presente Orden, de tal manera que el número de participantes o asistentes a las mismas se regirá por las limitaciones de aforo o asistencia dispuestas específicamente para dicha actividad.
 
@@ -416,9 +416,9 @@ h) El personal trabajador que realice el servicio en mesa y en barra deberá pro
 
   Durante el consumo en barra deberá asegurarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes situados en la barra.
 
-  Las mesas o agrupaciones de mesas, deberán guardar una distancia de, al menos, 1,5 metros respecto a las sillas asignadas a las demás mesas o agrupaciones de mesas con el objeto de asegurar el mantenimiento de la debida distancia física de, al menos, 1,5 metros entre las personas sentadas en diferentes mesas o, en su caso, agrupaciones de mesas.
+  Las mesas o agrupaciones de mesas deberán guardar una distancia de, al menos, 1,5 metros respecto a las sillas asignadas a las demás mesas o agrupaciones de mesas, con el objeto de asegurar el mantenimiento de la debida distancia física de, al menos, 1,5 metros entre las personas sentadas en diferentes mesas o, en su caso, agrupaciones de mesas.
 
-  La ocupación máxima por mesa o agrupación de mesas será de diez personas.
+  La ocupación máxima por mesa o agrupación de mesas será de seis personas.
 
 2. Estos establecimientos deberán cesar su actividad, como máximo, a la 01:00 horas, no pudiendo en ningún caso admitir nuevos clientes a partir de las 00:00 horas, rigiendo el horario de cierre que tuvieran autorizado por los órganos competentes si este fuera anterior a dicha hora.
 
@@ -430,9 +430,9 @@ h) El personal trabajador que realice el servicio en mesa y en barra deberá pro
 
 1. El porcentaje de aforo permitido en las terrazas al aire libre de los establecimientos de hostelería y restauración será del cien por cien de las mesas permitidas en el año inmediatamente anterior en base a la correspondiente licencia municipal o de lo que sea autorizado para este año, si bien deberá garantizarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes.
 
-  Las mesas o agrupaciones de mesas deberán guardar una distancia de, al menos, 1,5 metros respecto a las sillas asignadas a las demás mesas o agrupaciones de mesas, con el objeto de asegurar el mantenimiento de la debida distancia física de, al menos, 1,5 metros entre las personas sentadas en diferentes mesas o, en su caso, agrupaciones de mesas.
+  Las mesas o agrupaciones de mesas, deberán guardar una distancia de, al menos, 1,5 metros, respecto a las sillas asignadas a las demás mesas o agrupaciones de mesas con el objeto de asegurar el mantenimiento de la debida distancia física de, al menos, 1,5 metros entre las personas sentadas en diferentes mesas o, en su caso, agrupaciones de mesas.
 
-  La ocupación máxima por mesa o agrupación de mesas será de diez personas y deberán cesar su actividad, como máximo, a la 1:00 horas, no pudiendo en ningún caso admitir nuevos clientes a partir de las 00:00 horas, rigiendo el horario de cierre que tuvieran autorizado por los órganos competentes si este fuera anterior a dicha hora.
+  La ocupación máxima por mesa o agrupación de mesas será de seis personas y deberán cesar su actividad, como máximo, a la 1:00 horas, no pudiendo en ningún caso admitir nuevos clientes a partir de las 00:00 horas, rigiendo el horario de cierre que tuvieran autorizado por los órganos competentes si este fuera anterior a dicha hora.
 
 2. Se considerarán terrazas al aire libre todo espacio no cubierto o todo espacio que, estando cubierto, esté rodeado lateralmente por un máximo de dos paredes, muros o paramentos.
 
@@ -1044,6 +1044,10 @@ En el supuesto de que las características o la superficie de aulas de la entida
 
 Dicho protocolo será de obligada observancia para el conjunto de los estamentos federativos y deberá publicarse en la página web de la federación deportiva correspondiente.
 
+### Cuadragésimo séptimo bis. Celebración de competiciones oficiales de ámbito estatal y carácter no profesional
+
+En las competiciones oficiales de ámbito estatal y carácter no profesional y las competiciones internacionales que estén bajo la tutela organizativa de las Federaciones deportivas españolas que se desarrollen en territorio de la Comunidad de Madrid, será de aplicación el Protocolo de actuación para la vuelta de competiciones oficiales de ámbito estatal y carácter no profesional en la temporada 2020/2021, elaborado por el Consejo Superior de Deportes y suscrito por todas las Comunidades Autónomas, Federación Española de Municipios y Provincias, Federaciones Deportivas Españolas, Asociación del Deporte Español, Comité Paralímpico Español, Comité Olímpico Español y organizadores de competiciones.
+
 ### Cuadragésimo octavo. Celebración de eventos deportivos
 
 1. La organización de los eventos deportivos contemplados en la Ley 15/1994, de 28 de diciembre, del Deporte de la Comunidad de Madrid, se ajustará a los requerimientos establecidos por la normativa sectorial en vigor y por las normas que, en su caso, sean aprobadas por las autoridades competentes.
@@ -1478,37 +1482,63 @@ En caso de que un trabajador mientras se encuentre en su puesto de trabajo, o pe
 
 ### Septuagésimo tercero. Residuos biosanitarios
 
-La gestión de los residuos en contacto con COVID-19 procedentes de hospitales, centros de salud, instalaciones medicalizadas, ambulancias, laboratorios u establecimientos similares, se gestionarán según lo dispuesto para los mismos en el Decreto 83/1999, de 3 de junio, por el que se regulan las actividades de producción y de gestión de los residuos biosanitarios y citotóxicos en la Comunidad de Madrid, con las especificaciones indicadas en los apartados septuagésimo séptimo y septuagésimo octavo.
+1. La gestión de los residuos en contacto con COVID-19 procedentes de hospitales, centros de salud, instalaciones medicalizadas, ambulancias, laboratorios y establecimientos similares se gestionarán según lo dispuesto para los mismos en el Decreto 83/1999, de 3 de junio, por el que se regulan las actividades de producción y de gestión de los residuos biosanitarios y citotóxicos en la Comunidad de Madrid, con las especificaciones indicadas en los apartados septuagésimo séptimo y septuagésimo octavo.
 
-Los residuos infecciosos se agruparán en tres fracciones con el fin optimizar y de facilitar su traslado y almacenamiento:
+  Los residuos infecciosos se agruparán en tres fracciones con el fin optimizar y de facilitar su traslado y almacenamiento:
 
-- Los residuos cortantes y punzantes se depositarán en contenedores específicos.
+  - Los residuos cortantes y punzantes se depositarán en contenedores específicos.
 
-- Las batas, guantes, calzas, mascarillas, dispositivos de protección ocular y en general los residuos sólidos y de baja densidad se segregarán del resto de los residuos infecciosos.
+  - Las batas, guantes, calzas, mascarillas, dispositivos de protección ocular y en general los residuos sólidos y de baja densidad se segregarán del resto de los residuos infecciosos.
 
-- Bandejas, restos de alimentos y otros residuos infecciosos por haber mantenido contacto con COVID-19.
+  - Bandejas, restos de alimentos y otros residuos infecciosos por haber mantenido contacto con COVID-19.
 
-Se deberá maximizar el llenado de los contenedores disponibles en estos centros para cada una de las fracciones y de los tipos de residuos generados, evitando entregarlos a los gestores autorizados sin optimizar su capacidad, de forma que se logre así una gestión lo más eficiente posible.
+  Se deberá maximizar el llenado de los contenedores disponibles en estos centros para cada una de las fracciones y de los tipos de residuos generados, evitando entregarlos a los gestores autorizados sin optimizar su capacidad, de forma que se logre así una gestión lo más eficiente posible.
+
+2. Con el fin de racionalizar la gestión de los residuos infecciosos, ante el incremento de producción derivado de la presión asistencial en los centros, servicios y establecimientos sanitarios, la Consejería de Sanidad podrá habilitar almacenes temporales en el ámbito de la producción para la acumulación de residuos infecciosos de baja densidad (batas, guantes, calzas, mascarillas, dispositivos de protección ocular y en general los residuos sólidos y de baja densidad) generados en distintos centros sanitarios.
+
+  Estos almacenes, que cumplirán al menos las condiciones previstas en el apartado septuagésimo octavo, podrán prestar servicio a varios centros sanitarios, manteniéndose en todo momento segregados por su origen con el fin de garantizar la trazabilidad de la gestión.
+
+  Se asignará un Número de Identificación Medioambiental en calidad de poseedor a cada uno de estos centros de almacenamiento temporal.
+
+  A efectos de traslado, se considerará un único traslado con dos etapas, entre el centro productor del residuo y el centro gestor de tratamiento. Los residuos irán acompañados del correspondiente documento de identificación en el que figurará el centro sanitario de origen y el centro gestor de destino previsto.
+
+  Los residuos permanecerán el menor tiempo posible y se destinarán preferentemente al tratamiento previsto en los contratos entre el Servicio Madrileño de Salud y los gestores de residuos.
+
+  No obstante, cuando debido a la saturación de la instalación de tratamiento prevista sea necesario derivar el residuo a otra instalación, el gestor encargado en el documento de identificación inicial indicará el rechazo del traslado y reseñará en el apartado incidencias el cambio de destino identificando mediante el NIMA, el almacén temporal en el ámbito de la producción en el que ha permanecido el residuo y el nuevo documento de identificación.
+
+  En este caso, el gestor encargado actuará como operador y deberá cumplimentar el correspondiente documento de identificación en el que reseñará como origen del residuo el centro productor inicial y como destino la instalación en la que efectivamente vaya a ser entregado el residuo.
 
 ### Septuagésimo cuarto. Gestión y tratamiento de residuos
-La gestión de la fracción resto recogida conforme a los apartados septuagésimo sexto y septuagésimo séptimo se realizará de la siguiente manera:
 
-1. En las instalaciones de recogida no se procederá en ningún caso a la apertura manual de las bolsas de fracción resto.
+1. La gestión de la fracción resto recogida conforme a los apartados septuagésimo sexto y septuagésimo séptimo se realizará de la siguiente manera:
 
-2. Las instalaciones de tratamiento podrán resolver destinarla a incineración o a vertedero sin tratamiento previo, con el límite de la fecha de vigencia de esta Orden.
+  - En las instalaciones de recogida no se procederá en ningún caso a la apertura manual de las bolsas de fracción resto.
 
-3. En caso de que se lleven a cabo tratamientos previos a su incineración o depósito en vertedero, podrán realizarse tanto de forma automática como manual, adoptando siempre todas las medidas de seguridad necesarias:
+  - Las instalaciones de tratamiento podrán resolver destinarla a incineración o a vertedero sin tratamiento previo, con el límite de la fecha de vigencia de esta Orden.
 
-a. Las autoridades competentes podrán acordar que tanto los residuos antes de su tratamiento como los materiales recuperados queden almacenados durante al menos setenta y dos horas.
+  - En caso de que se lleven a cabo tratamientos previos a su incineración o depósito en vertedero, podrán realizarse tanto de forma automática como manual, adoptando siempre todas las medidas de seguridad necesarias:
 
-b. Las empresas y administraciones responsables de la gestión de estos residuos desarrollarán protocolos específicos para la protección de los trabajadores y la desinfección de equipos y vehículos tanto para la recogida de residuos como para su tratamiento en las plantas que los reciban, o bien se revisarán los protocolos ya existentes con la misma finalidad, y dotarán de los equipos de protección individual (EPI) necesarios a los trabajadores.
+  a. Las autoridades competentes podrán acordar que tanto los residuos antes de su tratamiento como los materiales recuperados queden almacenados durante al menos setenta y dos horas.
 
+  b. Las empresas y administraciones responsables de la gestión de estos residuos desarrollarán protocolos específicos para la protección de los trabajadores y la desinfección de equipos y vehículos tanto para la recogida de residuos como para su tratamiento en las plantas que los reciban, o bien se revisarán los protocolos ya existentes con la misma finalidad, y dotarán de los equipos de protección individual (EPI) necesarios a los trabajadores.
 
-En los casos en los que en una instalación los residuos de la fracción resto se hayan venido destinando a incineración o a vertedero sin tratamiento previo, y se continúe con estas operaciones al amparo de lo previsto en este artículo, se podrá seguir gestionando dichos residuos de este modo hasta la fecha de finalización de la vigencia de esta Orden, salvo que las autoridades competentes de la Comunidad de Madrid establezcan un plazo máximo inferior.
+  En los casos en los que en una instalación los residuos de la fracción resto se hayan venido destinando a incineración o a vertedero sin tratamiento previo, y se continúe con estas operaciones al amparo de lo previsto en este artículo, se podrá seguir gestionando dichos residuos de este modo hasta la fecha de finalización de la vigencia de esta Orden, salvo que las autoridades competentes de la Comunidad de Madrid establezcan un plazo máximo inferior.
 
-En el resto de fracciones, los residuos se depositarán en los contenedores correspondientes a cada uno de ellos y se recogerán y tratarán de la forma habitual.
+  En el resto de fracciones, los residuos se depositarán en los contenedores correspondientes a cada uno de ellos y se recogerán y tratarán de la forma habitual.
 
-Respecto a los residuos biosanitarios, cuando los gestores de residuos encuentren dificultades de gestión debido a la acumulación de los mismos, podrán solicitar a la Comunidad de Madrid la habilitación, con carácter temporal y extraordinario, de naves para cubrir sus necesidades de almacenamiento de residuos de baja densidad. Dichos almacenamientos deberán cumplir los requisitos mínimos que las autoridades competentes establezcan, al menos los establecidos en el apartado septuagésimo tercero. Dicha solicitud, con carácter previo al inicio del almacenamiento, se realizará a través del procedimiento electrónico de autorización de gestión de residuos peligrosos y el expediente se tramitará por la vía de urgencia.
+  Respecto a los residuos biosanitarios, cuando los gestores de residuos encuentren dificultades de gestión debido a la acumulación de los mismos, podrán solicitar a la Comunidad de Madrid la habilitación, con carácter temporal y extraordinario, de naves para cubrir sus necesidades de almacenamiento de residuos de baja densidad. Dichos almacenamientos deberán cumplir los requisitos mínimos que las autoridades competentes establezcan, al menos los establecidos en el apartado septuagésimo tercero. Dicha solicitud, con carácter previo al inicio del almacenamiento se realizará a través del procedimiento electrónico de autorización de gestión de residuos peligrosos y el expediente se tramitará por la vía de urgencia.
+
+2. Según lo dispuesto en el apartado 2 de la Disposición adicional segunda del Real Decreto 646/2020, de 7 de julio, por el que se regula la eliminación de residuos mediante depósito en vertedero, en tanto se mantenga la vigencia de la presente Orden, los residuos infecciosos procedentes de hospitales, centros de salud, instalaciones medicalizadas, ambulancias, laboratorios y establecimientos similares podrán destinarse a incineración cuando se cumplan al menos las condiciones establecidas a continuación:
+
+  - Se podrán tratar los residuos infecciosos en instalaciones de incineración o de coincineración que operen en continuo y que cuenten con autorización para el tratamiento de otros tipos de residuos, siempre que cumplan con las condiciones previstas en sus correspondientes autorizaciones y en el Real Decreto 815/2013, de 18 de octubre, por el que se aprueba el Reglamento de Emisiones Industriales y de desarrollo de la Ley 16/2002, de 1 de julio, de Prevención y Control Integrado de la Contaminación.
+
+  - Los residuos infecciosos se trasladarán a la instalación en bolsas o envases cerrados y acompañados de los correspondientes documentos de identificación.
+
+  - Los residuos infecciosos serán manipulados por personal especializado hasta la introducción en el foso de recepción, separados del resto de residuos.
+
+  - La carga del horno se realizará sin que exista ninguna manipulación directa de los residuos por parte de los operarios.
+
+  - Se desinfectarán después de cada carga la zona de descarga, la zona de alimentación y los equipos y dispositivos utilizados durante estas operaciones.
 
 ### Septuagésimo quinto. Recomendaciones para el manejo domiciliario de los residuos en hogares con positivos o en cuarentena por COVID-19 y centros de trabajo en los que se detecte la presencia de personal con síntomas
 
