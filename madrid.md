@@ -1400,6 +1400,8 @@ Todo ello sin perjuicio de la demás normativa que sea de aplicación.
 
   e) Se recomienda la realización periódica de pruebas PCR a los trabajadores que estén en contacto directo con residentes.
 
+7. A las actividades propias de los centros regulados en el presente apartado no les será aplicable la limitación establecida en el punto 10 del apartado séptimo de esta Orden, sin perjuicio de la obligatoriedad de cumplir con lo dispuesto en sus protocolos específicos, observar las medidas generales de higiene y protección y velar por el cumplimiento de la distancia de seguridad interpersonal.
+
 ### Sexagésimo sexto. Intervención de centros residenciales de carácter social
 
 Se faculta a la autoridad autonómica competente, en función de la situación epidemiológica y asistencial y siempre atendiendo a principios de necesidad y de proporcionalidad, a intervenir en centros residenciales, de carácter público o privado, y disponer de una serie de actuaciones en ellos, que podrán consistir en:
