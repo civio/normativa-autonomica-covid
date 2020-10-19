@@ -420,7 +420,9 @@ h) El personal trabajador que realice el servicio en mesa y en barra deberá pro
 
   La ocupación máxima por mesa o agrupación de mesas será de seis personas.
 
-2. Estos establecimientos deberán cesar su actividad, como máximo, a la 01:00 horas, no pudiendo en ningún caso admitir nuevos clientes a partir de las 00:00 horas, rigiendo el horario de cierre que tuvieran autorizado por los órganos competentes si este fuera anterior a dicha hora.
+2. Estos establecimientos deberán cesar su actividad, como máximo, a la 01:00 horas, no pudiendo en ningún caso admitir nuevos clientes a partir de las 00:00 horas, rigiendo el horario de cierre que tuvieran autorizado por los órganos competentes si este fuera anterior a dicha hora.
+
+  Esta limitación de horario no será aplicable a los servicios de entrega de comida a domicilio y de recogida de comida por clientes para consumo fuera del local.
 
 3. Los salones de banquetes deberán cumplir con las condiciones dispuestas en los puntos anteriores del presente apartado a excepción del porcentaje de aforo, que no podrá superar el sesenta por ciento. Además, deberán solicitar los datos identificativos de los asistentes a un evento, incluyendo un teléfono de contacto, y conservar dicha información por si fuera requerida por la autoridad sanitaria en la investigación de un brote epidémico para facilitar su localización en los casos de descubrimiento posterior de presencia de casos positivos, probables o posibles de COVID-19.
 
@@ -440,17 +442,35 @@ h) El personal trabajador que realice el servicio en mesa y en barra deberá pro
 
   En todo caso, deberá asegurarse que se mantiene la debida distancia de seguridad interpersonal entre las mesas o, en su caso, agrupaciones de mesas.
 
-4. Aquellos locales que hayan incorporado terrazas con motivo de la Orden 305/2020, de 26 de mayo, de la Consejería de Justicia, Interior y Víctimas podrán mantener el aforo autorizado o solicitar ampliación del mismo, conforme a la normativa municipal aplicable y normas de seguridad para la prevención del coronavirus.
+4. Aquellos establecimientos y locales que hayan sido autorizados para la instalación de terrazas, en virtud de lo previsto en la Orden 305/2020, de 26 de mayo, de la Consejería de Justicia, Interior y Víctimas, por la que se adoptan medidas de flexibilización para la instalación de terrazas, podrán mantener el aforo autorizado o solicitar ampliación del mismo, conforme a la normativa municipal aplicable y las normas de seguridad para la prevención del COVID-19.
 
-  Estos últimos establecimientos, así como el resto de locales definidos en dicha Orden que puedan acceder a partir de la publicación de esta Orden a la instalación de terrazas, podrán extender su utilización hasta el 15 de octubre de 2020.
+  Los establecimientos y locales mencionados en la citada Orden podrán ser autorizados para la instalación de terrazas mientras mantenga su vigencia la misma.
 
-  La eficacia de la citada Orden 305/2020, de 26 de mayo, se entiende extendida hasta la pérdida de vigencia de la presente Orden.
+  Las medidas de flexibilización para la instalación de terrazas previstas en la Orden 305/2020, de 26 de mayo, de la Consejería de Justicia, Interior y Víctimas, extenderán sus efectos durante la vigencia de la presente Orden.
 
-### Vigesimocuarto. Medidas y condiciones para el desarrollo de actividad de discotecas y bares de ocio nocturno.
+### Vigesimocuarto. Medidas y condiciones para el desarrollo de actividad de discotecas y establecimientos de ocio nocturno.
 
-Queda suspendida la actividad de los locales de discotecas y demás establecimientos de ocio nocturno hasta la finalización de la vigencia de la declaración de actuaciones coordinadas en salud pública para responder ante la situación de especial riesgo derivada del incremento de casos positivos por COVID-19 aprobada mediante Orden Comunicada del Ministro de Sanidad de 14 de agosto de 2020. Una vez finalizada su vigencia, la autoridad sanitaria podrá acordar la reanudación de la actividad de estos establecimientos en las condiciones que se determinen.
+1. Queda suspendida la actividad de los locales de discotecas y demás establecimientos de ocio nocturno hasta la finalización de la vigencia de la declaración de actuaciones coordinadas en salud pública para responder ante la situación de especial riesgo derivada del incremento de casos positivos por COVID-19, aprobada mediante Orden Comunicada del Ministro de Sanidad de 14 de agosto de 2020. Una vez finalizada su vigencia, la autoridad sanitaria podrá acordar la reanudación de la actividad de estos establecimientos en las condiciones que se determinen.
 
-Se entenderán por establecimientos de ocio nocturno, a efectos de lo establecido en este apartado, las discotecas, salas de baile y bares especiales con y sin actuaciones musicales.
+  Se entenderán por establecimientos de ocio nocturno, a efectos de lo establecido en este apartado, las discotecas, salas de baile y bares especiales con y sin actuaciones musicales.
+
+2. Sin perjuicio de lo dispuesto en el punto anterior, mientras produzca efectos la Orden Comunicada del Ministro de Sanidad de 14 de agosto de 2020, y hasta que la autoridad sanitaria de la Comunidad de Madrid determine las condiciones para la reanudación de su actividad, las discotecas, salas de baile, salas de fiestas, restaurantes-espectáculo y café-espectáculo podrán hacer uso de los equipos e instalaciones que su licencia de funcionamiento autorice para el ejercicio de la actividad complementaria de hostelería y restauración.
+
+  Los bares especiales podrán hacer uso de los equipos e instalaciones que su licencia de funcionamiento autorice para el ejercicio de la actividad complementaria de hostelería.
+
+  A estos efectos, los referidos locales y establecimientos tendrán la consideración de asimilables a cafeterías, bares y/o restaurantes.
+
+3. El ejercicio de la actividad de hostelería y restauración en los establecimientos a los que se refiere este apartado se ajustará a las medidas preventivas, limitaciones de aforo y demás condiciones establecidas para los establecimientos de hostelería y restauración en los apartados vigesimosegundo y vigesimotercero de la Orden 668/2020, de 19 de junio, de la Consejería de Sanidad.
+
+4. Estos locales y establecimientos no podrán iniciar su actividad antes de las 8:00 horas y deberán cesar la misma, como máximo, a la 01:00 horas, no pudiendo en ningún caso admitir nuevos clientes a partir de las 00:00 horas.
+
+5. El espacio destinado a pista de baile o similar no podrá ser utilizado para su uso habitual, si bien podrá ser habilitado para instalar mesas o agrupaciones de mesas manteniendo siempre la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes y entre las sillas de las mesas o, en su caso, agrupación de mesas.
+
+6. Los establecimientos a los que se refiere este apartado que hubieran obtenido autorización municipal para ejercer la actividad de bar, cafetería y/o restaurante para instalación de terrazas, conforme a lo establecido en los apartados vigesimotercero y vigesimoquinto de la Orden 668/2020, de 19 de junio, quedan exentos de la asimilación que se detalla en el punto 2 del presente apartado.
+
+7. Los establecimientos o locales mencionados en este apartado que tengan autorizada actividad de restauración podrán ofrecer servicio de venta, o para llevar, a domicilio.
+
+  Se entenderán por establecimientos de ocio nocturno, a efectos de lo establecido en este apartado, las discotecas, salas de baile y bares especiales con y sin actuaciones musicales.
 
 ### Vigesimoquinto. Medidas de flexibilización para la instalación de terrazas
 
@@ -492,45 +512,43 @@ Los establecimientos o locales mencionados en el apartado anterior que tengan au
 
 ### Vigesimoséptimo. Horario de funcionamiento de terrazas de determinados establecimientos de espectáculos y actividades recreativas
 
-1. Desde la fecha de entrada en vigor de esta Orden hasta el 15 de octubre de 2020, ambas fechas inclusive, el horario general máximo de apertura y cierre de las terrazas de determinados establecimientos que se especifican en el apartado 3 de este artículo, será el siguiente: apertura 8:00 horas/cierre 1:00 horas.
+El horario máximo de apertura y cierre de las terrazas de los establecimientos de espectáculos y actividades recreativas será el siguiente: apertura 08:00 horas/cierre 01:00 horas, sin poder recibir nuevos clientes a partir de las 00:00 horas.
 
-2. Las medidas de flexibilización y los horarios previstos en este artículo tendrán efectos desde la fecha de su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID hasta el 15 de octubre de 2020.
+El citado horario máximo será de aplicación a las terrazas de los siguientes establecimientos:
 
-3. Los establecimientos que gozarán de horario general de funcionamiento de terrazas especial son los siguientes:
+1. Bares especiales: Bares de copas, con y sin actuaciones en directo.
 
-  1. Bares especiales: Bares de copas, con y sin actuaciones en directo.
+2. Tabernas y bodegas.
 
-  2. Tabernas y bodegas.
+3. Chocolaterías, heladerías, salones de té, croissanteries y asimilables.
 
-  3. Chocolaterías, heladerías, salones de té, croissanteries y asimilables.
+4. Bares y restaurantes de hoteles.
 
-  4. Bares y restaurantes de hoteles.
+5. Salones de banquetes.
 
-  5. Salones de banquetes.
+6. Café-espectáculo.
 
-  6. Café-espectáculo.
+7. Salas de fiestas.
 
-  7. Salas de fiestas.
+8. Restaurante-espectáculo.
 
-  8. Restaurante-espectáculo.
+9. Discotecas y salas de baile.
 
-  9. Discotecas y salas de baile.
+10. Teatros. Siempre que dispongan de servicio de bar en licencia de funcionamiento.
 
-  10. Teatros. Siempre que dispongan de servicio de bar en licencia de funcionamiento.
+11. Salas de creación y experimentación teatral. Siempre que dispongan de servicio de bar en licencia de funcionamiento.
 
-  11. Salas de creación y experimentación teatral. Siempre que dispongan de servicio de bar en licencia de funcionamiento.
+12. Pabellones de Congresos. Siempre que dispongan de servicio de bar y restauración en licencia de funcionamiento.
 
-  12. Pabellones de Congresos. Siempre que dispongan de servicio de bar y restauración en licencia de funcionamiento.
+13. Parques de atracciones, ferias y asimilables. Siempre que dispongan de servicio de bar y restauración en licencia de funcionamiento.
 
-  13. Parques de atracciones, ferias y asimilables. Siempre que dispongan de servicio de bar y restauración en licencia de funcionamiento.
+14. Parques acuáticos. Siempre que dispongan de servicio de bar y restauración en licencia de funcionamiento.
 
-  14. Parques acuáticos. Siempre que dispongan de servicio de bar y restauración en licencia de funcionamiento.
+15. Casetas de feria. Siempre que dispongan de servicio de bar y restauración en licencia de funcionamiento.
 
-  15. Casetas de feria. Siempre que dispongan de servicio de bar y restauración en licencia de funcionamiento.
+16. Cafeterías, bares, café-bares y asimilables.
 
-  16. Cafeterías, bares, café-bares y asimilables.
-
-  17. Restaurantes, autoservicios de restauración y asimilables
+17. Restaurantes, autoservicios de restauración y asimilables.
 
 ## VI. Alojamientos turísticos
 
@@ -1084,11 +1102,11 @@ Sin perjuicio de las competencias atribuidas en el artículo 15.2 del Real Decre
 
 ### Quincuagésimo primero. Medidas y condiciones para el desarrollo de actividades de tiempo libre dirigidas a la población infantil y juvenil
 
-1. Podrán realizarse actividades de tiempo libre destinadas a la población infantil y juvenil cuando estas se lleven a cabo al aire libre, siempre que se limite el número de participantes a un máximo de trescientos, incluyendo los monitores. En las demás actividades, en espacios cerrados, se estará a la capacidad determinada por la observancia de la necesaria distancia de seguridad interpersonal de al menos 1,5 metros que debe mantenerse entre los participantes, debiendo asegurar especialmente que la entrada y salida de los mismos sea escalonada.
+1. Podrán realizarse actividades de tiempo libre destinadas a la población infantil y juvenil, tanto al aire libre como de interior, siempre que no se supere el cincuenta por ciento del aforo máximo permitido de la instalación en espacios interiores y el sesenta por ciento en espacios exteriores, con un límite máximo de participantes de ciento cincuenta personas incluyendo los monitores.
 
-2. El desarrollo de las actividades se deberá organizar en grupos de hasta un máximo de quince personas, sin incluir el monitor. Cada grupo tendrá asignado al menos un monitor, que se relacionará siempre con su mismo grupo con excepción de aquellas actividades que puedan requerir algún monitor especializado, que siempre deberá ser la misma persona por cada grupo.
+2. El desarrollo de las actividades se deberá organizar en grupos de hasta un máximo de quince personas, sin incluir el monitor. Cada grupo tendrá asignado, al menos, un monitor que se relacionará siempre con su mismo grupo, con excepción de aquellas actividades que puedan requerir algún monitor especializado, que siempre deberá ser la misma persona por cada grupo.
 
-3. Se podrán impartir a distancia hasta un máximo de 50 horas y 70 horas, respectivamente, de los módulos teóricos de los cursos de monitores de tiempo libre y coordinadores de actividades de tiempo libre regulados en la Orden 2245/1998, de 24 de septiembre, de la Consejería de Educación y Cultura, sobre programas para la formación de escuelas de animación infantil y juvenil en el tiempo libre, siempre y cuando la Dirección General competente en materia de juventud valore que la entidad dispone de las herramientas digitales necesarias para llevar a cabo la formación online con garantías suficientes de calidad.
+3. Se podrán impartir a distancia hasta un máximo de 100 horas y 135 horas, respectivamente, de los módulos teóricos de los cursos de monitores de tiempo libre y coordinadores de actividades de tiempo libre regulados en la Orden 2245/1998, de 24 de septiembre, de la Consejería de Educación y Cultura, sobre programas para la formación de escuelas de animación infantil y juvenil en el tiempo libre, siempre y cuando la Dirección General competente en materia de juventud valore que la entidad dispone de las herramientas digitales necesarias para llevar a cabo la formación online con garantías suficientes de calidad.
 
 ### Quincuagésimo segundo. Medidas de higiene y prevención en piscinas de uso colectivo recreativo
 
