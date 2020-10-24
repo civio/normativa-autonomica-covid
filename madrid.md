@@ -120,11 +120,11 @@ En función de la evolución epidemiológica los titulares de la Consejería de 
 
 9. Las personas consideradas caso confirmado con infección activa y las consideradas como contacto estrecho de un caso sospechoso, probable o confirmado, deberán seguir la indicación de aislamiento o cuarentena que les sea señalada desde los dispositivos asistenciales o de salud pública, sin poder abandonar su domicilio, el lugar de aislamiento o cuarentena en ningún caso, salvo autorización expresa del servicio sanitario por causa debidamente justificada.
 
-10. La participación en agrupaciones de personas para el desarrollo de cualquier actividad o evento de carácter familiar o social, tanto en la vía pública como en espacios públicos y privados, se limita a un número máximo de seis personas salvo que se trate de convivientes.
+10. La participación en agrupaciones de personas para el desarrollo de cualquier actividad o evento de carácter familiar o social, tanto en la vía pública como en espacios públicos y privados, se limita a un número máximo de seis personas salvo que se trate de convivientes. Entre las 00:00 y las 06:00 horas se limitará a los convivientes, salvo que la participación de no convivientes se produzca por motivos de asistencia y cuidado a mayores o enfermos, dependientes o personas con discapacidad, o por causa de fuerza mayor o situación de necesidad.
 
   No estarán incluidas en esta limitación aquellas actividades para las que se establezcan medidas específicas en la presente Orden, de tal manera que el número de participantes o asistentes a las mismas se regirá por las limitaciones de aforo o asistencia dispuestas específicamente para dicha actividad.
 
-  Tampoco será aplicable esta limitación en el caso de actividades laborales e institucionales.
+  Tampoco será aplicable en el caso de actividades laborales e institucionales.
 
 11. Se recomienda a la población reducir los encuentros sociales fuera del grupo de convivencia.
 
@@ -238,7 +238,7 @@ i) Lo previsto en este apartado se aplicará sin perjuicio de las especificidade
 
 ### Decimotercero. Medidas y condiciones para el desarrollo de velatorios y entierros
 
-1. Las instalaciones funerarias en todas las áreas de acceso público no podrán superar el sesenta por ciento de su aforo. El aforo máximo de la instalación deberá publicarse en lugar visible y en todas las áreas de acceso público, tanto cerradas como al aire libre, serán de obligado cumplimiento las medidas de seguridad e higiene establecidas para la prevención del COVID-19.
+1. Las instalaciones funerarias en todas las áreas de acceso público no podrán superar el cincuenta por ciento de su aforo. El aforo máximo de la instalación deberá publicarse en lugar visible y en todas las áreas de acceso público, tanto cerradas como al aire libre, serán de obligado cumplimiento las medidas de seguridad e higiene establecidas para la prevención del COVID-19.
 
 2. Los velatorios podrán realizarse en todo tipo de instalaciones, públicas o privadas, debidamente habilitadas con un límite máximo, en cada momento, de cincuenta personas en espacios al aire libre o de veinticinco personas en espacios cerrados, sean o no convivientes.
 
@@ -250,7 +250,7 @@ i) Lo previsto en este apartado se aplicará sin perjuicio de las especificidade
 
 ### Decimocuarto. Medidas y condiciones para el desarrollo de actividad en lugares de culto
 
-1. La asistencia a lugares de culto no podrá superar el sesenta por ciento de su aforo. El aforo máximo deberá publicarse en lugar visible del espacio destinado al culto y se deberán cumplir las medidas generales de seguridad e higiene establecidas por las autoridades sanitarias, siendo obligatorio el uso de mascarilla salvo en los casos expresamente exceptuados en la presente Orden.
+1. La asistencia a lugares de culto no podrá superar el cincuenta por ciento de su aforo. El aforo máximo deberá publicarse en lugar visible del espacio destinado al culto y se deberán cumplir las medidas generales de seguridad e higiene establecidas por las autoridades sanitarias, siendo obligatorio el uso de mascarilla salvo en los casos expresamente exceptuados en la presente Orden.
 
 2. La utilización del exterior de los edificios o de la vía pública para la celebración de actos de culto deberá ser aprobada por la autoridad municipal correspondiente, y deberán establecerse las medidas necesarias para procurar mantener la distancia de seguridad interpersonal o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
 
@@ -278,7 +278,7 @@ i) Lo previsto en este apartado se aplicará sin perjuicio de las especificidade
 
 ### Decimoquinto. Medidas y condiciones para la celebración de ceremonias nupciales y otras celebraciones religiosas o civiles
 
-1. Las ceremonias nupciales y otras celebraciones religiosas o civiles podrán realizarse en todo tipo de instalaciones, públicas o privadas, ya sea en espacios al aire libre o espacios cerrados, siempre que no se supere el sesenta por ciento de su aforo. En caso de que no se pueda mantener la distancia mínima de seguridad interpersonal entre los asistentes de, al menos, 1,5 metros deberá procurarse la máxima separación posible, siendo obligatorio el uso de mascarilla salvo en los casos expresamente exceptuados en la presente Orden.
+1. Las ceremonias nupciales y otras celebraciones religiosas o civiles podrán realizarse en todo tipo de instalaciones, públicas o privadas, ya sea en espacios al aire libre o espacios cerrados, siempre que no se supere el cincuenta por ciento de su aforo. En caso de que no se pueda mantener la distancia mínima de seguridad interpersonal entre los asistentes de, al menos, 1,5 metros, deberá procurarse la máxima separación posible, siendo obligatorio el uso de mascarilla salvo en los casos expresamente exceptuados en la presente Orden.
 
   A las ceremonias nupciales y celebraciones religiosas que se lleven a cabo en lugares de culto les será de aplicación la limitación de aforo y las medidas para el desarrollo de actividad en lugares de culto recogidas específicamente en esta Orden.
 
@@ -292,13 +292,15 @@ i) Lo previsto en este apartado se aplicará sin perjuicio de las especificidade
 
 1. Con carácter general para todo tipo de actividades comerciales y de servicios, con independencia del tamaño del establecimiento en que se realicen, deberán establecerse las medidas necesarias para evitar aglomeraciones y procurar mantener la distancia de seguridad interpersonal de, al menos, 1,5 metros o, en su defecto, la utilización de medidas alternativas de protección física.
 
-2. Desde la entrada en vigor de la presente Orden y hasta el 5 de julio de 2020, los establecimientos comerciales minoristas y de actividades de servicios profesionales que abran al público deberán reducir al sesenta por ciento su aforo total. En el caso de establecimientos o locales distribuidos en varias plantas, la presencia de clientes en cada una de ellas deberá guardar esta misma proporción.
+2. Los establecimientos comerciales minoristas y de actividades de servicios profesionales que abran al público deberán limitar al setenta y cinco por ciento su aforo total. En el caso de establecimientos o locales distribuidos en varias plantas, la presencia de clientes en cada una de ellas deberá guardar esta misma proporción.
 
-  Desde el 6 de julio de 2020 y hasta que la evolución epidemiológica lo aconseje el porcentaje de aforo permitido se elevará al setenta y cinco por ciento.
+  En todo momento deberá garantizarse el cumplimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre los usuarios y el uso de mascarilla.
 
-  En todo momento deberá garantizarse el cumplimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre los usuarios o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
+  Estos establecimientos tendrán el horario legalmente autorizado, no pudiendo iniciar en ningún caso su actividad diaria antes de las 06:00 horas, debiendo cerrar como máximo a las 22:00 horas.
 
-3. Las limitaciones de aforo previstas en los párrafos anteriores no serán de aplicación a los establecimientos y locales comerciales minoristas que ya estaban abiertos al público conforme a lo previsto en el artículo 10.1 del Real Decreto 463/2020, de 14 de marzo (establecimientos comerciales de alimentación, bebidas, productos y bienes de primera necesidad, establecimientos farmacéuticos, servicios médicos o sanitarios, ópticas, productos ortopédicos, productos higiénicos, peluquerías, prensa y papelería, combustible para la automoción, estancos, equipos tecnológicos y de telecomunicaciones, alimentos para animales de compañía, comercio por internet, telefónico o correspondencia, tintorerías y lavanderías), sin perjuicio de la obligatoriedad de cumplir en todo momento las medidas generales de higiene y protección así como de velar por el cumplimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros.
+  Esta limitación horaria no será de aplicación a los establecimientos farmacéuticos, médicos, veterinarios, de combustible para la automoción y otros considerados esenciales, entendiéndose como tales aquellos que prestan o realizan servicios imprescindibles e inaplazables.
+
+3. Las limitaciones de aforo previstas en el punto anterior no serán de aplicación a los servicios médicos, sanitarios o sociosanitarios, sin perjuicio de la obligatoriedad de cumplir en todo momento las medidas generales de higiene y protección así como de velar por el cumplimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros.
 
 4. Deberá informarse al consumidor o usuario, en el exterior del establecimiento, del aforo máximo simultáneo permitido. Asimismo, deberá informarse en tiempo real del nivel de ocupación del establecimiento en cada momento mediante los medios que se consideren más adecuados en función del tipo de establecimiento, disponibilidad de personal y medios técnicos.
 
@@ -316,11 +318,13 @@ i) Lo previsto en este apartado se aplicará sin perjuicio de las especificidade
 
 ### Decimoséptimo. Medidas y condiciones adicionales aplicables a centros y parques comerciales abiertos al público
 
-1. Desde la entrada en vigor de la presente Orden y hasta el 5 de julio de 2020 se limitará el aforo de los centros y parques comerciales abiertos al público al sesenta por ciento de sus zonas comunes según el determinado en el Plan de Autoprotección de cada centro o parque comercial, así como al sesenta por ciento del aforo en cada uno de los establecimientos comerciales situados en ellos. En el caso de establecimientos o locales distribuidos en varias plantas, la presencia de clientes en cada una de ellas deberá guardar esta misma proporción.
+1. Se limitará el aforo de los centros y parques comerciales abiertos al público al setenta y cinco por ciento de sus zonas comunes según el determinado en el Plan de Autoprotección de cada centro o parque comercial, así como al sesenta por ciento del aforo en cada uno de los establecimientos comerciales situados en ellos. En el caso de establecimientos o locales distribuidos en varias plantas, la presencia de clientes en cada una de ellas deberá guardar esta misma proporción.
 
-  Desde el 6 de julio de 2020 y hasta que la evolución epidemiológica lo aconseje el porcentaje de aforo permitido se elevará al setenta y cinco por ciento.
+  En todo momento deberá garantizarse el cumplimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre los usuarios y el uso de mascarilla.
 
-  Deberá garantizarse en todo momento el cumplimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre los usuarios o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
+  Los establecimientos situados en centros y parques comerciales tendrán el horario legalmente autorizado, no pudiendo iniciar en ningún caso su actividad diaria antes de las 06:00 horas, debiendo cerrar como máximo a las 22:00 horas, salvo los establecimientos de restauración, deportivos, cines o de ocio cuya hora máxima de cierre será las 00:00 horas.
+
+  Esta limitación horaria no será de aplicación a los establecimientos farmacéuticos, médicos, veterinarios, de combustible para la automoción y otros considerados esenciales, entendiéndose como tales aquellos que prestan o realizan servicios imprescindibles e inaplazables.
 
 2. Se deberá proceder diariamente a la limpieza y desinfección de las zonas comunes y zonas recreativas de los centros y parques comerciales, tanto antes de la apertura al público y después del cierre como de manera regular durante el horario de apertura, prestando especial atención a las áreas de contacto de las zonas comunes, tales como suelos, mostradores, juegos de las zonas infantiles y bancos o sillas.
 
@@ -334,7 +338,9 @@ i) Lo previsto en este apartado se aplicará sin perjuicio de las especificidade
 
 ### Decimoctavo. Medidas y condiciones para los mercados que desarrollan su actividad en la vía pública al aire libre o de venta no sedentaria
 
-1. Los mercados que desarrollan su actividad en la vía pública al aire libre o de venta no sedentaria, comúnmente denominados mercadillos, limitarán la afluencia de clientes a un máximo del 75 por ciento del aforo permitido, debiendo adoptarse las medidas oportunas para evitar aglomeraciones y para asegurar el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros o, en su defecto, la utilización de medidas alternativas de protección física.
+1. Los mercados que desarrollan su actividad en la vía pública al aire libre o de venta no sedentaria, comúnmente denominados mercadillos, limitarán la afluencia de clientes a un máximo del setenta y cinco por ciento del aforo permitido, debiendo adoptarse las medidas oportunas para evitar aglomeraciones y para asegurar el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros, así como el uso de mascarilla.
+
+Los establecimientos situados en estos espacios tendrán el horario legalmente autorizado, no pudiendo iniciar en ningún caso su actividad antes de la 06:00 horas, debiendo cesar la misma, como máximo, a las 22:00 horas.
 
 2. Con objeto de poder asegurar en todo momento el cumplimiento de la distancia de seguridad interpersonal los Ayuntamientos podrán aumentar la superficie destinada al mercadillo, trasladar su ubicación, habilitar nuevos días para el ejercicio de la actividad, prever funcionamiento alterno de los puestos autorizados, ampliar horarios o adoptar cualesquiera otras medidas de efecto equivalente.
 
@@ -412,29 +418,23 @@ h) El personal trabajador que realice el servicio en mesa y en barra deberá pro
 
 ### Vigesimosegundo. Medidas y condiciones para el desarrollo de actividad de hostelería y restauración en espacios interiores
 
-1. Los establecimientos de hostelería y restauración no podrán superar el setenta y cinco por ciento de su aforo para consumo en el interior del local si es en mesa y el cincuenta por ciento si es en barra.
-
-  Durante el consumo en barra deberá asegurarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes situados en la barra.
+1. Los establecimientos de hostelería y restauración no podrán superar el cincuenta por ciento de su aforo para consumo en el interior del local, no estando permitido el servicio en barra.
 
   Las mesas o agrupaciones de mesas deberán guardar una distancia de, al menos, 1,5 metros respecto a las sillas asignadas a las demás mesas o agrupaciones de mesas, con el objeto de asegurar el mantenimiento de la debida distancia física de, al menos, 1,5 metros entre las personas sentadas en diferentes mesas o, en su caso, agrupaciones de mesas.
 
   La ocupación máxima por mesa o agrupación de mesas será de seis personas.
 
-2. Estos establecimientos deberán cesar su actividad, como máximo, a la 01:00 horas, no pudiendo en ningún caso admitir nuevos clientes a partir de las 00:00 horas, rigiendo el horario de cierre que tuvieran autorizado por los órganos competentes si este fuera anterior a dicha hora.
+2. Estos establecimientos no podrán abrir antes de las 06:00 horas y deberán cerrar, como máximo, a las 00:00 horas, no pudiendo en ningún caso admitir nuevos clientes a partir de las 23:00 horas, rigiendo el horario de cierre que tuvieran autorizado por los órganos competentes si este fuera anterior a dicha hora.
 
-  Esta limitación de horario no será aplicable a los servicios de entrega de comida a domicilio y de recogida de comida por clientes para consumo fuera del local.
-
-3. Los salones de banquetes deberán cumplir con las condiciones dispuestas en los puntos anteriores del presente apartado a excepción del porcentaje de aforo, que no podrá superar el sesenta por ciento. Además, deberán solicitar los datos identificativos de los asistentes a un evento, incluyendo un teléfono de contacto, y conservar dicha información por si fuera requerida por la autoridad sanitaria en la investigación de un brote epidémico para facilitar su localización en los casos de descubrimiento posterior de presencia de casos positivos, probables o posibles de COVID-19.
-
-  La recogida de tales datos requerirá el consentimiento del interesado y se deberán conservar durante el plazo de veintiocho días naturales con las debidas garantías y observando las exigencias derivadas de la normativa en materia de protección de datos de carácter personal y estarán a disposición, exclusivamente, de las autoridades sanitarias y con la única finalidad de realizar el seguimiento de posibles contactos de casos positivos, probables o posibles de COVID-19.
+3. Los salones de banquetes deberán cumplir con las condiciones dispuestas en los puntos anteriores y su aforo no podrá superar el cincuenta por ciento. Además, deberán solicitar los datos identificativos de los asistentes a un evento, incluyendo un teléfono de contacto, y conservar dicha información por si fuera requerida por la autoridad sanitaria en la investigación de un brote epidémico para facilitar su localización en los casos de descubrimiento posterior de presencia de casos positivos, probables o posibles de COVID-19.
 
 ### Vigesimotercero. Medidas y condiciones para el desarrollo de actividad de hostelería y restauración en terrazas al aire libre
 
-1. El porcentaje de aforo permitido en las terrazas al aire libre de los establecimientos de hostelería y restauración será del cien por cien de las mesas permitidas en el año inmediatamente anterior en base a la correspondiente licencia municipal o de lo que sea autorizado para este año, si bien deberá garantizarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes.
+1. El porcentaje de aforo permitido en las terrazas al aire libre de los establecimientos de hostelería y restauración será del setenta y cinco por ciento de las mesas permitidas en el año inmediatamente anterior, en base a la correspondiente licencia municipal, o de lo que sea autorizado para este año, si bien deberá garantizarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes.
 
-  Las mesas o agrupaciones de mesas, deberán guardar una distancia de, al menos, 1,5 metros, respecto a las sillas asignadas a las demás mesas o agrupaciones de mesas con el objeto de asegurar el mantenimiento de la debida distancia física de, al menos, 1,5 metros entre las personas sentadas en diferentes mesas o, en su caso, agrupaciones de mesas.
+  Las mesas o agrupaciones de mesas deberán guardar una distancia de, al menos, 1,5 metros respecto a las sillas asignadas a las demás mesas o agrupaciones de mesas, con el objeto de asegurar el mantenimiento de la debida distancia física de, al menos, 1,5 metros entre las personas sentadas en diferentes mesas o, en su caso, agrupaciones de mesas.
 
-  La ocupación máxima por mesa o agrupación de mesas será de seis personas y deberán cesar su actividad, como máximo, a la 1:00 horas, no pudiendo en ningún caso admitir nuevos clientes a partir de las 00:00 horas, rigiendo el horario de cierre que tuvieran autorizado por los órganos competentes si este fuera anterior a dicha hora.
+  La ocupación máxima por mesa o agrupación de mesas será de seis personas y no podrán abrir antes de las 06:00 horas y deberán cerrar, como máximo, a la 00:00 horas, no pudiendo en ningún caso admitir nuevos clientes a partir de las 23:00 horas, rigiendo el horario de cierre que tuvieran autorizado por los órganos competentes si este fuera anterior a dicha hora.
 
 2. Se considerarán terrazas al aire libre todo espacio no cubierto o todo espacio que, estando cubierto, esté rodeado lateralmente por un máximo de dos paredes, muros o paramentos.
 
@@ -462,7 +462,7 @@ h) El personal trabajador que realice el servicio en mesa y en barra deberá pro
 
 3. El ejercicio de la actividad de hostelería y restauración en los establecimientos a los que se refiere este apartado se ajustará a las medidas preventivas, limitaciones de aforo y demás condiciones establecidas para los establecimientos de hostelería y restauración en los apartados vigesimosegundo y vigesimotercero de la Orden 668/2020, de 19 de junio, de la Consejería de Sanidad.
 
-4. Estos locales y establecimientos no podrán iniciar su actividad antes de las 8:00 horas y deberán cesar la misma, como máximo, a la 01:00 horas, no pudiendo en ningún caso admitir nuevos clientes a partir de las 00:00 horas.
+4. Estos locales y establecimientos no podrán iniciar su actividad antes de las 8:00 horas y deberán cesar la misma, como máximo, a la 00:00 horas, no pudiendo en ningún caso admitir nuevos clientes a partir de las 23:00 horas.
 
 5. El espacio destinado a pista de baile o similar no podrá ser utilizado para su uso habitual, si bien podrá ser habilitado para instalar mesas o agrupaciones de mesas manteniendo siempre la debida distancia de seguridad interpersonal de, al menos, 1,5 metros entre clientes o, en su caso, grupos de clientes y entre las sillas de las mesas o, en su caso, agrupación de mesas.
 
@@ -512,7 +512,7 @@ Los establecimientos o locales mencionados en el apartado anterior que tengan au
 
 ### Vigesimoséptimo. Horario de funcionamiento de terrazas de determinados establecimientos de espectáculos y actividades recreativas
 
-El horario máximo de apertura y cierre de las terrazas de los establecimientos de espectáculos y actividades recreativas será el siguiente: apertura 08:00 horas/cierre 01:00 horas, sin poder recibir nuevos clientes a partir de las 00:00 horas.
+El horario máximo de apertura y cierre de las terrazas de los establecimientos de espectáculos y actividades recreativas será el siguiente: apertura 08:00 horas/cierre 00:00 horas, sin poder recibir nuevos clientes a partir de las 23:00 horas.
 
 El citado horario máximo será de aplicación a las terrazas de los siguientes establecimientos:
 
@@ -520,35 +520,35 @@ El citado horario máximo será de aplicación a las terrazas de los siguient
 
 2. Tabernas y bodegas.
 
-3. Chocolaterías, heladerías, salones de té, croissanteries y asimilables.
+3. Chocolaterías, heladerías, salones de té, croissanteries y asimilables.
 
 4. Bares y restaurantes de hoteles.
 
 5. Salones de banquetes.
 
-6. Café-espectáculo.
+6. Café-espectáculo.
 
 7. Salas de fiestas.
 
-8. Restaurante-espectáculo.
+8. Restaurante-espectáculo.
 
 9. Discotecas y salas de baile.
 
 10. Teatros. Siempre que dispongan de servicio de bar en licencia de funcionamiento.
 
-11. Salas de creación y experimentación teatral. Siempre que dispongan de servicio de bar en licencia de funcionamiento.
+11. Salas de creación y experimentación teatral. Siempre que dispongan de servicio de bar en licencia de funcionamiento.
 
-12. Pabellones de Congresos. Siempre que dispongan de servicio de bar y restauración en licencia de funcionamiento.
+12. Pabellones de Congresos. Siempre que dispongan de servicio de bar y restauración en licencia de funcionamiento.
 
-13. Parques de atracciones, ferias y asimilables. Siempre que dispongan de servicio de bar y restauración en licencia de funcionamiento.
+13. Parques de atracciones, ferias y asimilables. Siempre que dispongan de servicio de bar y restauración en licencia de funcionamiento.
 
-14. Parques acuáticos. Siempre que dispongan de servicio de bar y restauración en licencia de funcionamiento.
+14. Parques acuáticos. Siempre que dispongan de servicio de bar y restauración en licencia de funcionamiento.
 
-15. Casetas de feria. Siempre que dispongan de servicio de bar y restauración en licencia de funcionamiento.
+15. Casetas de feria. Siempre que dispongan de servicio de bar y restauración en licencia de funcionamiento.
 
-16. Cafeterías, bares, café-bares y asimilables.
+16. Cafeterías, bares, café-bares y asimilables.
 
-17. Restaurantes, autoservicios de restauración y asimilables.
+17. Restaurantes, autoservicios de restauración y asimilables.
 
 ## VI. Alojamientos turísticos
 
@@ -662,23 +662,23 @@ El citado horario máximo será de aplicación a las terrazas de los siguient
 
 ### Trigésimo cuarto. Actividad en cines, teatros, auditorios, circos de carpa, salas multiusos polivalentes y espacios similares, así como en recintos al aire libre y en otros locales y establecimientos destinados a espectáculos públicos y actividades recreativas
 
-1. Desde la entrada en vigor de esta Orden y hasta al 5 de julio de 2020 los cines, teatros, auditorios, circos de carpa y espacios similares podrán desarrollar su actividad, contando con butacas preasignadas, siempre que no superen el sesenta por ciento del aforo permitido en cada sala por cada actividad, espectáculo o exhibición programada. Cuando se programen en un día diferentes actividades en un mismo espacio, se procederá a la limpieza y desinfección del espacio de uso público antes del comienzo de otra nueva actividad cultural.
+1. Los cines, teatros, auditorios, circos de carpa y espacios similares podrán desarrollar su actividad contando con butacas preasignadas, siempre que no superen el setenta y cinco por ciento del aforo permitido en cada sala por cada actividad, espectáculo o exhibición programada. Cuando se programen en un día diferentes actividades en un mismo espacio, se procederá a la limpieza y desinfección del espacio de uso público antes del comienzo de otra nueva actividad cultural.
 
-  Desde el 6 de julio de 2020 hasta que la situación epidemiológica lo aconseje el porcentaje de ocupación permitido se elevará al setenta y cinco por ciento.
+  Deberá garantizarse en todo momento el uso de mascarilla así como que, entre grupos de personas que adquieren las localidades conjuntamente, exista una localidad de la que no se hace uso.
 
-  Deberá garantizarse que, en todo momento, se cumpla el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
+2. Las salas y espacios multiusos polivalentes con otros usos, además del cultural, podrán desarrollar su actividad contando con butacas preasignadas, siempre que no superen el cuarenta por ciento del aforo permitido.
 
-2. Las salas y espacios multiusos polivalentes con otros usos además del cultural podrán desarrollar su actividad contando con butacas preasignadas, siempre que no superen el cuarenta por ciento del aforo permitido.
+  Deberá garantizarse en todo momento el uso de mascarilla, así como que, entre grupos de personas que adquieren las localidades conjuntamente, exista una localidad de la que no se hace uso.
 
-Deberá garantizarse que, en todo momento, se cumpla el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros, así como la utilización de mascarilla salvo en los supuestos excepcionados por la presente Orden.
+3. Los recintos, locales y establecimientos destinados a espectáculos públicos incluidos los denominados tablaos flamencos y actividades recreativas distintos de los previstos en los puntos anteriores podrán desarrollar su actividad siempre que el público permanezca sentado con butaca preasignada y que no se supere el cincuenta por ciento del aforo permitido, con un límite máximo de ochenta personas para lugares cerrados y de ochocientas personas tratándose de actividades al aire libre.
 
-3. Desde la entrada en vigor de esta Orden y hasta el 5 de julio de 2020 los recintos, locales y establecimientos destinados a espectáculos públicos incluidos los denominados tablaos flamencos y actividades recreativas distintos de los previstos en los puntos anteriores, podrán desarrollar su actividad siempre que el público permanezca sentado con butaca preasignada y que no se supere el sesenta por ciento del aforo permitido, con un límite máximo de ochenta personas para lugares cerrados y de ochocientas personas tratándose de actividades al aire libre.
+  Deberá garantizarse en todo momento el uso de mascarilla así como que, entre grupos de personas que adquieren las localidades conjuntamente, exista una localidad de la que no se hace uso.
 
-  Desde el 6 de julio de 2020 y siempre que la evolución epidemiológica lo aconseje el porcentaje de ocupación permitido se elevará al setenta y cinco por ciento, siempre que el público permanezca sentado y con butaca preasignada. En todo momento deberá garantizarse el mantenimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
-
-4. En las actividades celebradas en estos recintos se facilitará la agrupación de convivientes, manteniendo la debida distancia de seguridad con el resto de los espectadores.
+4. En las actividades celebradas en estos recintos se facilitará la agrupación hasta un máximo de seis personas.
 
 5. Además del cumplimiento general de las medidas de higiene y prevención establecidas, en el caso de que en las instalaciones se preste algún tipo de servicio de hostelería y restauración, la prestación de este se ajustará a lo previsto en las condiciones para la prestación del servicio en los establecimientos de hostelería y restauración.
+
+6. Todos los establecimientos a los que se refiere el presente apartado tendrán como hora máxima de cierre y cese de actividad las 00:00 horas.
 
 ### Trigésimo quinto. Medidas y condiciones para el desarrollo de actividad de plazas, recintos e instalaciones taurinas
 
@@ -878,6 +878,8 @@ Las fiestas, verbenas y otros eventos populares podrán, en su caso, autorizarse
 
 4. En todos los casos y centros contemplados en este artículo, será de obligado cumplimiento las normas sobre desinfección y prevención que determinen en cada momento las autoridades sanitarias.
 
+5. En las residencias universitarias y colegios mayores, entre las 00:00 y las 06:00 horas, solo podrán permanecer los residentes y trabajadores.
+
 ### Cuadragésimo segundo. Medidas y condiciones para el desarrollo de actividades en academias, autoescuelas y centros privados de enseñanza no reglada y centros de formación
 
 1. Desde la entrada en vigor de esta Orden y hasta al 5 de julio de 2020, la actividad que se realice en academias, autoescuelas y centros privados de enseñanza no reglada y centros de formación no incluidos en el ámbito de aplicación del artículo 9 del Real Decreto-ley 21/2020, de 9 de junio, de medidas urgentes de prevención, contención y coordinación para hacer frente a la crisis sanitaria ocasionada por el COVID-19, inscritos en el correspondiente registro, podrá impartirse de un modo presencial siempre que no se supere uno aforo del sesenta por ciento respecto del máximo permitido.
@@ -901,6 +903,8 @@ En el supuesto de que las características o la superficie de aulas de la entida
 ### Cuadragésimo cuarto. Medidas y condiciones para el desarrollo de actividad deportiva
 
 1. En las instalaciones y centros deportivos al aire libre podrá realizarse actividad deportiva, individual o colectiva. No será obligatorio el uso de mascarilla durante la práctica deportiva al aire libre siempre que, teniendo en cuenta la posible concurrencia de personas y las dimensiones del lugar, pueda garantizarse el mantenimiento de la distancia de seguridad con otras personas no convivientes.
+
+  Estos establecimientos no podrán abrir antes de las 06:00 horas y deberán cerrar, como máximo, a las 00:00 horas.
 
 2. Se podrá reanudar la actividad físico-deportiva de deportes de contacto y de combate al aire libre con uso obligatorio de mascarilla, salvo en aquellos casos que se encuentre exceptuada su utilización conforme a lo dispuesto en el punto 4 del apartado séptimo de la presente orden.
 
@@ -980,11 +984,13 @@ En el supuesto de que las características o la superficie de aulas de la entida
 
 ### Cuadragésimo sexto. Medidas y condiciones para el desarrollo de actividad deportiva en centros deportivos
 
-1. Las instalaciones y centros deportivos de titularidad pública o privada, podrán ofertar los servicios deportivos dirigidos al desarrollo de actividad deportiva propios de su tipología y capacidad.
+1. Las instalaciones y centros deportivos de interior de titularidad pública o privada podrán ofertar los servicios deportivos dirigidos al desarrollo de actividad deportiva propios de su tipología y capacidad.
 
-2. Se podrá realizar actividad físico-deportiva en centros e instalaciones deportivos de interior, de forma individual o en grupos, siempre que no se supere el setenta y cinco por ciento del aforo máximo permitido de la instalación o del espacio donde se desarrolle la actividad.
+  Estos establecimientos no podrán abrir antes de las 06:00 horas y deberán cerrar, como máximo, a las 00:00 horas.
 
-  En el caso de la práctica deportiva en grupos, estos deberán distribuirse en subgrupos dentro del espacio en que dicha práctica se realice. Estos subgrupos contarán con un máximo de 10 personas, todos ellos sin contacto físico, debiendo garantizarse una distancia de, al menos, 3 metros lineales entre cada subgrupo.
+2. Se podrá realizar actividad físico-deportiva en centros e instalaciones deportivos de interior, de forma individual o en grupos, siempre que no se supere el cincuenta por ciento del aforo máximo permitido de la instalación o del espacio donde se desarrolle la actividad.
+
+  En el caso de la práctica deportiva en grupos, estos deberán distribuirse en subgrupos dentro del espacio en que dicha práctica se realice. Estos subgrupos contarán con un máximo de seis personas, todos ellos sin contacto físico, debiendo garantizarse una distancia de, al menos, 3 metros lineales entre cada subgrupo.
 
   El uso de mascarilla será obligatorio en cualquier tipo de actividad física en interior salvo donde se realice la actividad limitada por mamparas individuales.
 
@@ -1210,6 +1216,8 @@ Todo ello sin perjuicio de la demás normativa que sea de aplicación.
 
 3. Corresponderá a los ayuntamientos la organización del espacio así como la garantía de las condiciones de limpieza.
 
+4. Los parques y jardines deberán permanecer cerrados desde las 00:00 horas hasta las 06:00 horas.
+
 ## XI. Caza y pesca
 
 ### Quincuagésimo séptimo. Medidas y condiciones para el desarrollo de actividades de caza y pesca fluvial deportiva y recreativa
@@ -1326,7 +1334,9 @@ Todo ello sin perjuicio de la demás normativa que sea de aplicación.
 
   l) La circulación de personas y la distribución de espacios deberá modificarse, cuando sea necesario, con el objetivo de garantizar la posibilidad de mantener la distancia de seguridad interpersonal de, al menos, 1,5 metros.
 
-2. Los casinos, establecimientos de juegos colectivos de dinero y de azar, salones de juego, salas de bingo, salones recreativos, rifas y tómbolas, locales específicos de apuestas y otros locales e instalaciones asimilables a los de actividad recreativa de juegos y apuestas, conforme establezca la normativa sectorial en materia de juego, podrán realizar su actividad siempre que no se supere el sesenta por ciento del aforo permitido.
+2. Los casinos, establecimientos de juegos colectivos de dinero y de azar, salones de juego, salas de bingo, salones recreativos, rifas y tómbolas, locales específicos de apuestas y otros locales e instalaciones asimilables a los de actividad recreativa de juegos y apuestas, conforme establezca la normativa sectorial en materia de juego, podrán realizar su actividad siempre que no se supere el cincuenta por ciento del aforo permitido.
+
+  Estos establecimientos tendrán como horario de cierre las 00:00 horas, no pudiendo en ningún caso admitir nuevos clientes a partir de las 23:00 horas.
 
 3. Los casinos no procederán a la reapertura de la actividad de mesas de juego hasta el 6 de julio de 2020.
 
