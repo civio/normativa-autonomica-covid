@@ -120,11 +120,7 @@ En función de la evolución epidemiológica los titulares de la Consejería de 
 
 9. Las personas consideradas caso confirmado con infección activa y las consideradas como contacto estrecho de un caso sospechoso, probable o confirmado, deberán seguir la indicación de aislamiento o cuarentena que les sea señalada desde los dispositivos asistenciales o de salud pública, sin poder abandonar su domicilio, el lugar de aislamiento o cuarentena en ningún caso, salvo autorización expresa del servicio sanitario por causa debidamente justificada.
 
-10. La participación en agrupaciones de personas para el desarrollo de cualquier actividad o evento de carácter familiar o social, tanto en la vía pública como en espacios públicos y privados, se limita a un número máximo de seis personas salvo que se trate de convivientes. Entre las 00:00 y las 06:00 horas se limitará a los convivientes, salvo que la participación de no convivientes se produzca por motivos de asistencia y cuidado a mayores o enfermos, dependientes o personas con discapacidad, o por causa de fuerza mayor o situación de necesidad.
-
-  No estarán incluidas en esta limitación aquellas actividades para las que se establezcan medidas específicas en la presente Orden, de tal manera que el número de participantes o asistentes a las mismas se regirá por las limitaciones de aforo o asistencia dispuestas específicamente para dicha actividad.
-
-  Tampoco será aplicable en el caso de actividades laborales e institucionales.
+10. Las limitaciones de la permanencia de grupos de personas en espacios públicos y privados serán las establecidas en el Real Decreto 926/2020, de 25 de octubre, por el que se declara el estado de alarma para contener la propagación de infecciones causadas por el SARS-CoV-2 y en las resoluciones y disposiciones dictadas por la Presidenta de la Comunidad de Madrid como autoridad competente delegada para la aplicación de lo previsto en el citado Real Decreto.
 
 11. Se recomienda a la población reducir los encuentros sociales fuera del grupo de convivencia.
 
@@ -250,7 +246,7 @@ i) Lo previsto en este apartado se aplicará sin perjuicio de las especificidade
 
 ### Decimocuarto. Medidas y condiciones para el desarrollo de actividad en lugares de culto
 
-1. La asistencia a lugares de culto no podrá superar el cincuenta por ciento de su aforo. El aforo máximo deberá publicarse en lugar visible del espacio destinado al culto y se deberán cumplir las medidas generales de seguridad e higiene establecidas por las autoridades sanitarias, siendo obligatorio el uso de mascarilla salvo en los casos expresamente exceptuados en la presente Orden.
+1. Las limitaciones de la permanencia de personas en lugares de culto serán las establecidas en el Real Decreto 926/2020, de 25 de octubre, por el que se declara el estado de alarma para contener la propagación de infecciones causadas por el SARS-CoV-2 y en las resoluciones y disposiciones dictadas por la Presidenta de la Comunidad de Madrid como autoridad competente delegada para la aplicación de lo previsto en el citado Real Decreto.
 
 2. La utilización del exterior de los edificios o de la vía pública para la celebración de actos de culto deberá ser aprobada por la autoridad municipal correspondiente, y deberán establecerse las medidas necesarias para procurar mantener la distancia de seguridad interpersonal o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
 
@@ -590,7 +586,7 @@ El citado horario máximo será de aplicación a las terrazas de los siguient
 
 1. En estos alojamientos, por sus especiales características, se permitirá una capacidad máxima del cincuenta por ciento de su aforo.
 
-2. Las personas titulares del establecimiento adoptarán las medidas organizativas oportunas para evitar aglomeraciones y para procurar mantener la distancia de seguridad interpersonal en su interior o, en su defecto, la utilización de medidas alternativas de protección física de los clientes entre sí mismos y de estos con respecto a los trabajadores con uso de mascarilla.
+2. Las personas titulares del establecimiento adoptarán las medidas organizativas oportunas para evitar aglomeraciones y para procurar mantener la distancia de seguridad interpersonal en su interior, siendo obligatoria la utilización de mascarilla salvo en los casos en que su uso esté excepcionado conforme a lo dispuesto en la presente Orden.
 
 3. Deberán realizarse tareas de ventilación periódica de las instalaciones, como mínimo, de forma diaria y durante el tiempo necesario para permitir la renovación del aire.
 
@@ -600,11 +596,9 @@ El citado horario máximo será de aplicación a las terrazas de los siguient
 
 ### Trigésimo. Medidas y condiciones para el desarrollo de actividad en bibliotecas.
 
-1. Desde la entrada en vigor de esta Orden y hasta al 5 de julio de 2020 las bibliotecas, tanto de titularidad pública como privada, prestarán los servicios para las actividades de préstamo y devolución de obras, lectura en sala, información bibliográfica y bibliotecaria y préstamo interbibliotecario, así como el resto de actividades ordinarias propias del servicio bibliotecario, sin que en la ocupación de salas puedan superar el sesenta por ciento de su capacidad o aforo máximo permitido. Este límite de ocupación será aplicable también a la realización de actividades culturales en las mismas.
+1. Las bibliotecas, tanto de titularidad pública como privada, prestarán los servicios para las actividades de préstamo y devolución de obras, lectura en sala, información bibliográfica y bibliotecaria y préstamo interbibliotecario, así como el resto de actividades ordinarias propias del servicio bibliotecario, sin que en la ocupación de salas puedan superar el setenta y cinco por ciento de su capacidad o aforo máximo permitido. Este límite de ocupación será aplicable también a la realización de actividades culturales en las mismas.
 
-  Desde el 6 de julio de 2020 y hasta que la evolución epidemiológica lo aconseje el porcentaje de ocupación permitido se elevará al setenta y cinco por ciento.
-
-  Deberá garantizarse en todo momento el cumplimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
+  Deberá garantizarse en todo momento el cumplimiento de la debida distancia de seguridad interpersonal de, al menos, 1,5 metros, siendo obligatoria la utilización de mascarilla salvo en los casos en que su uso esté excepcionado conforme a lo dispuesto en la presente Orden.
 
 2. Podrá hacerse uso de los medios tecnológicos de las bibliotecas destinados para el uso público, así como de catálogos de acceso público en línea, catálogos en fichas de la biblioteca o publicaciones electrónicas.
 
@@ -630,13 +624,11 @@ El citado horario máximo será de aplicación a las terrazas de los siguient
 
 ### Trigésimo segundo. Medidas y condiciones para el desarrollo de actividad de museos y salas de exposiciones
 
-1. Desde la entrada en vigor de esta Orden y hasta al 5 de julio de 2020 los museos y salas de exposiciones, de titularidad pública o privada, podrán acoger tanto las visitas del público a la colección y a las exposiciones temporales como la realización de actividades culturales o didácticas sin superar un límite del sesenta por ciento del aforo permitido para cada una de sus salas y espacios públicos.
+1. Los museos y salas de exposiciones, de titularidad pública o privada, podrán acoger tanto las visitas del público a la colección y a las exposiciones temporales como la realización de actividades culturales o didácticas sin superar un límite del setenta y cinco por ciento del aforo permitido para cada una de sus salas y espacios públicos.
 
   Este límite máximo de aforo se aplicará también en aquellos eventos que impliquen concurrencia de varias personas en un mismo espacio, tales como actividades educativas, conferencias, talleres, conciertos y, en general, programas públicos.
 
-  Desde el 6 de julio y hasta que la evolución epidemiológica lo aconseje el porcentaje de ocupación permitido se elevará al setenta y cinco por ciento.
-
-  Deberán establecerse las medidas necesarias para mantener la distancia de seguridad interpersonal en sus instalaciones de, al menos, 1,5 metros o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
+  Deberán establecerse las medidas necesarias para mantener la distancia de seguridad interpersonal en sus instalaciones de, al menos, 1,5 metros, siendo obligatoria la utilización de mascarilla salvo en los casos en que su uso esté excepcionado conforme a lo dispuesto en la presente Orden.
 
 2. Las visitas de grupos serán de un máximo de diez personas, incluido el monitor o guía, siempre que no superen los aforos previstos en el apartado anterior, debiendo establecerse las medidas necesarias para procurar la distancia de seguridad interpersonal durante el desarrollo de la actividad y siendo obligatoria la utilización de mascarilla salvo en los casos excepcionados por la presente Orden.
 
@@ -648,11 +640,9 @@ El citado horario máximo será de aplicación a las terrazas de los siguient
 
 ### Trigésimo tercero. Medidas y condiciones para el desarrollo de actividad de monumentos y otros equipamientos culturales
 
-1. Desde la entrada en vigor de esta Orden y hasta al 5 de julio de 2020 los monumentos y otros equipamientos culturales serán accesibles para el público siempre que las visitas no superen el sesenta por ciento del aforo permitido, calculado respecto del aforo previsto en el correspondiente plan de autoprotección del inmueble o recinto para sus espacios cerrados y libres.
+1. Los monumentos y otros equipamientos culturales serán accesibles para el público siempre que las visitas no superen el setenta y cinco por ciento del aforo permitido, calculado respecto del aforo previsto en el correspondiente plan de autoprotección del inmueble o recinto para sus espacios cerrados y libres.
 
-  Desde el 6 de julio y hasta que la evolución epidemiológica lo aconseje el porcentaje de ocupación permitido se elevará al setenta y cinco por ciento.
-
-  Deberán establecerse las medidas necesarias para mantener la distancia de seguridad interpersonal en sus instalaciones o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
+Deberán establecerse las medidas necesarias para mantener la distancia de seguridad interpersonal en sus instalaciones de, al menos, 1,5 metros, siendo obligatoria la utilización de mascarilla salvo en los casos en que su uso esté excepcionado conforme a lo dispuesto en la presente Orden.
 
 2. Las visitas de grupos serán de un máximo de diez personas, incluido el monitor o guía, siempre que no superen los aforos previstos en el apartado anterior, debiendo establecerse las medidas necesarias para procurar la distancia de seguridad interpersonal durante el desarrollo de la actividad y siendo obligatoria la utilización de mascarilla salvo en los casos excepcionados por la presente Orden.
 
@@ -886,7 +876,7 @@ Las fiestas, verbenas y otros eventos populares podrán, en su caso, autorizarse
 
   Desde el 6 de julio de 2020 y mientras la situación epidemiológica lo aconseje el porcentaje de ocupación permitido se elevará al setenta y cinco por ciento.
 
-2. Durante el desarrollo de la actividad formativa deberá guardarse la debida distancia de seguridad interpersonal de, al menos, 1,5 metros o, de no ser posible dada la naturaleza de la actividad, será obligatorio el uso de mascarilla.
+2. Durante el desarrollo de la actividad formativa se deberá guardar la debida distancia de seguridad interpersonal de, al menos, 1,5 metros, siempre que sea posible dada la naturaleza de la actividad, siendo obligatoria la utilización de mascarilla salvo en los casos en que su uso esté excepcionado conforme a lo dispuesto en la presente Orden.
 
 3. En el caso de utilización de vehículos, será obligatorio el uso de mascarilla tanto por el personal docente como por el alumnado o el resto de ocupantes del vehículo.
 
@@ -1080,7 +1070,11 @@ En las competiciones oficiales de ámbito estatal y carácter no profesional y l
 
 ### Cuadragésimo noveno. Asistencia de público a instalaciones deportivas
 
-Sin perjuicio de las competencias atribuidas en el artículo 15.2 del Real Decreto-ley 21/2020, de 9 de junio, de medidas urgentes de prevención, contención y coordinación para hacer frente a la crisis sanitaria ocasionada por el COVID-19, y de lo establecido en el apartado anterior, en el caso de los entrenamientos, competiciones o eventos que se celebren en instalaciones deportivas, podrán desarrollarse con público siempre que este permanezca sentado, con una distancia de seguridad de, al menos, 1,5 metros, provisto de mascarilla y con un límite máximo de asistencia de trescientas personas para lugares cerrados e inferior a seiscientas personas tratándose de actividades al aire libre.
+1. En el caso de la Liga de Fútbol Profesional y la Liga ACB de baloncesto la asistencia de público se sujetará a lo dispuesto por el Consejo Superior de Deportes en ejercicio de las competencias que le han sido atribuidas en relación con estas competiciones, en virtud del artículo 15.2 del Real Decreto-ley 21/2020, de 9 de junio, de medidas urgentes de prevención, contención y coordinación para hacer frente a la crisis sanitaria ocasionada por el COVID-19.
+
+2. No se permitirá la asistencia de público en los acontecimientos deportivos que se celebren en el marco de competiciones internacionales de fútbol y baloncesto de carácter profesional, mientras no se permita dicha asistencia en las competiciones profesionales de ámbito nacional de acuerdo con lo previsto en el artículo 15.2 del Real Decreto-ley 21/2020, de 9 de junio.
+
+3. Sin perjuicio de lo dispuesto para las competiciones a las que se refieren los anteriores puntos y de lo establecido en el apartado cuadragésimo octavo de la presente Orden, en el caso de los entrenamientos, competiciones o eventos que se celebren en instalaciones deportivas, podrán desarrollarse con público siempre que este permanezca sentado, con una distancia de seguridad de, al menos, 1,5 metros, provisto de mascarilla y con un límite máximo de asistencia de trescientas personas para lugares cerrados e inferior a seiscientas personas tratándose de actividades al aire libre.
 
 ### Quincuagésimo. Medidas de higiene y prevención en piscinas de uso colectivo deportivo
 
@@ -1174,7 +1168,7 @@ Todo ello sin perjuicio de la demás normativa que sea de aplicación.
 
 5. La distancia entre los trabajadores y los clientes durante todo el proceso de atención al cliente será de al menos un metro cuando se cuente con elementos de protección o barrera, o de 1,5 metros sin estos elementos.
 
-6. Deberán establecerse las medidas necesarias para procurar mantener la distancia de seguridad interpersonal en sus instalaciones o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
+6. En todo caso, deberán establecerse las medidas necesarias para procurar mantener la distancia de seguridad interpersonal de, al menos, 1,5 metros, siendo obligatoria la utilización de mascarilla salvo en los casos en que su uso esté excepcionado conforme a lo dispuesto en la presente Orden.
 
 7. Las zonas comerciales y los establecimientos de restauración y hostelería de los centros recreativos turísticos, zoológicos y acuarios deberán cumplir con las condiciones y medidas de higiene y/o prevención establecidas en la presente Orden para dicha clase de establecimientos.
 
@@ -1222,7 +1216,7 @@ Todo ello sin perjuicio de la demás normativa que sea de aplicación.
 
 ### Quincuagésimo séptimo. Medidas y condiciones para el desarrollo de actividades de caza y pesca fluvial deportiva y recreativa
 
-1. Está permitida la caza y pesca en todas sus modalidades siempre que se respete la distancia de seguridad interpersonal de, al menos, 1,5 metros o, en su defecto, se utilicen medidas alternativas de protección física con uso de mascarilla.
+1. Está permitida la caza y pesca en todas sus modalidades siempre que se respete la distancia de seguridad interpersonal de, al menos, 1,5 metros, siendo obligatoria la utilización de mascarilla salvo en los casos en que su uso esté excepcionado conforme a lo dispuesto en la presente Orden.
 
 2. Para el desarrollo de la actividad cinegética organizada que implique a más de un cazador deberá disponerse de un plan de actuación por parte del responsable de la cacería, en el que se detallen las medidas de prevención e higiene a observar. El contenido de dicho plan deberá ser trasladado a todos los participantes, con el fin de garantizar su conocimiento por estos con carácter previo, y deberá ser presentado, asimismo, junto con la correspondiente solicitud de autorización de cacería, en su caso.
 
@@ -1276,7 +1270,7 @@ Todo ello sin perjuicio de la demás normativa que sea de aplicación.
 
   Dicho porcentaje se incrementará desde el 6 de julio de 2020 hasta el setenta y cinco por ciento mientras la evolución epidemiológica lo aconseje.
 
-2. En todo caso deberán establecerse las medidas necesarias para procurar mantener la distancia de seguridad interpersonal de, al menos, 1,5 metros durante la celebración de sus actividades o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
+2. En todo caso, deberán establecerse las medidas necesarias para procurar mantener la distancia de seguridad interpersonal de, al menos, 1,5 metros durante la celebración de sus actividades, siendo obligatoria la utilización de mascarilla salvo en los casos en que su uso esté excepcionado conforme a lo dispuesto en la presente Orden.
 
 3. Se establecerán procedimientos que permitan el recuento y control de asistencia, de forma que el aforo permitido no sea superado en ningún momento.
 
@@ -1298,7 +1292,7 @@ Todo ello sin perjuicio de la demás normativa que sea de aplicación.
 
   Lo recogido en este apartado será también de aplicación para reuniones profesionales, juntas de comunidades de propietarios y eventos similares.
 
-2. Deberán establecerse las medidas necesarias para procurar mantener la distancia de seguridad interpersonal de, al menos, 1,5 metros durante su celebración o, en su defecto, la utilización de medidas alternativas de protección física con uso de mascarilla.
+2. Deberán establecerse las medidas necesarias para procurar mantener la distancia de seguridad interpersonal de, al menos, 1,5 metros, siendo obligatoria la utilización de mascarilla salvo en los casos en que su uso esté excepcionado conforme a lo dispuesto en la presente Orden.
 
 3. La organización de la circulación de personas y la distribución de espacios deberá procurar la posibilidad de mantener la distancia de seguridad interpersonal. En la medida de lo posible se establecerán itinerarios para dirigir la circulación de los asistentes y evitar aglomeraciones en determinadas zonas, tanto en el interior como en el exterior, y prevenir el contacto entre ellos. Cuando se disponga de dos o más puertas, se procurará establecer un uso diferenciado para la entrada y la salida, con objeto de reducir el riesgo de formación de aglomeraciones.
 
