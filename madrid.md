@@ -412,6 +412,12 @@ g) Si el uso de los aseos o similares está permitido por clientes, visitantes o
 
 h) El personal trabajador que realice el servicio en mesa y en barra deberá procurar la distancia de seguridad con el cliente y aplicar los procedimientos de higiene y prevención necesarios para evitar el riesgo de contagio. En cualquier caso, será obligatorio el uso de mascarilla para el personal de estos establecimientos en su atención al público.
 
+i) Deberá asegurarse una ventilación adecuada por medios naturales o mecánicos.
+
+### Vigesimoprimero bis. Uso de mascarilla en establecimientos de hostelería y restauración
+
+Será obligatorio el uso de mascarilla para todas las personas en los establecimientos de hostelería y restauración salvo en el momento concreto del consumo de alimentos o bebidas.
+
 ### Vigesimosegundo. Medidas y condiciones para el desarrollo de actividad de hostelería y restauración en espacios interiores
 
 1. Los establecimientos de hostelería y restauración no podrán superar el cincuenta por ciento de su aforo para consumo en el interior del local, no estando permitido el servicio en barra.
@@ -1368,7 +1374,7 @@ Todo ello sin perjuicio de la demás normativa que sea de aplicación.
 
 5. Estarán obligados a colaborar con las autoridades sanitarias y de política social en los cometidos de vigilancia, prevención y control del COVID-19.
 
-6. Hasta que el Gobierno de España declare la finalización de la situación de crisis sanitaria causada por el COVID-19, y en caso de que la evolución epidemiológica así lo requiera, las autoridades sanitarias de la Comunidad de Madrid podrán habilitar espacios para uso sanitario en locales públicos o privados que reúnan las condiciones necesarias para prestar atención sanitaria, ya sea en régimen de consulta u hospitalización, así como para cumplir las medidas de aislamiento indicadas por ser contacto estrecho de casos positivos o sospechosos.
+6. Hasta que el Gobierno de España declare la finalización de la situación de crisis sanitaria causada por el COVID-19, las autoridades sanitarias de la Comunidad de Madrid podrán habilitar espacios para uso sanitario en locales públicos o privados que reúnan las condiciones necesarias para prestar atención sanitaria, ya sea en régimen de consulta o de hospitalización, así como para cumplir las medidas de aislamiento indicadas por ser contacto estrecho de casos positivos o sospechosos y para alojar a profesionales del ámbito sanitario.
 
 7. Asimismo, en caso de que como consecuencia de la evolución de la emergencia sanitaria no se pudiera atender adecuadamente la asistencia sanitaria de la población con los medios materiales y humanos adscritos a la Comunidad de Madrid, las autoridades sanitarias autonómicas podrán acordar la puesta a su disposición de los centros y establecimientos sanitarios privados, su personal, y las Mutuas de accidentes de trabajo.
 
